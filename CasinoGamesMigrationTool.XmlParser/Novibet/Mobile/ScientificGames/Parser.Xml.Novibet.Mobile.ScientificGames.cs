@@ -64,11 +64,11 @@ namespace CasinoGamesMigrationTool.XmlParser.Novibet.Mobile.ScientificGames
 					Logger.LogError<Error>(response.Error);
 				}
 
-				Logger.Log<string>($"Ended [{nameof(XmlNovibetMobileScientificGamesParser)}]");
-
 				Logger.Log<string>($"Games count: [{response.Result?.Root.Games.Games.Count}]");
 				Logger.Log<string>($"Jackpot games count: [{response.Result?.Root.JackpotGames?.JackpotGames.Count}]");
 				Logger.Log<string>($"Game languages count: [{response.Result?.Root.GameLanguages.GameLanguages.Count}]");
+
+				Logger.Log<string>($"Ended [{nameof(XmlNovibetMobileScientificGamesParser)}]");
 			}
 
 			return response;

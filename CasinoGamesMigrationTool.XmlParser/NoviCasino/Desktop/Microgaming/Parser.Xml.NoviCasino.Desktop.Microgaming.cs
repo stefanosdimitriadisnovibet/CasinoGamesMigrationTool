@@ -64,11 +64,11 @@ namespace CasinoGamesMigrationTool.XmlParser.NoviCasino.Desktop.Microgaming
 					Logger.LogError<Error>(response.Error);
 				}
 
-				Logger.Log<string>($"Ended [{nameof(XmlNoviCasinoDesktopMicrogamingParser)}]");
-
 				Logger.Log<string>($"Games count: [{response.Result?.Root.Games.Games.Count}]");
 				Logger.Log<string>($"Jackpot games count: [{response.Result?.Root.JackpotGames?.JackpotGames.Count}]");
 				Logger.Log<string>($"Game languages count: [{response.Result?.Root.GameLanguages.GameLanguages.Count}]");
+
+				Logger.Log<string>($"Ended [{nameof(XmlNoviCasinoDesktopMicrogamingParser)}]");
 			}
 
 			return response;
