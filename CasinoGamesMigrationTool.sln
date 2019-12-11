@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasinoGamesMigrationTool.XmlParser", "CasinoGamesMigrationTool.XmlParser\CasinoGamesMigrationTool.XmlParser.csproj", "{DAD4DE8E-3C7B-4EB7-8CC1-67FA18E955F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasinoGamesMigrationTool.Console", "CasinoGamesMigrationTool.Console\CasinoGamesMigrationTool.Console.csproj", "{70FDE21C-E20D-4D32-A9BA-7ABD5F102A1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasinoGamesMigrationTool.Domain", "CasinoGamesMigrationTool.Domain\CasinoGamesMigrationTool.Domain.csproj", "{1EF01E3E-1ED1-4A80-A20F-4CB7E51A2E44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{307AD3E8-A5E0-4E49-A4A3-628AFABDE706}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasinoGamesMigrationTool.XmlHandler", "CasinoGamesMigrationTool.XmlHandler\CasinoGamesMigrationTool.XmlHandler.csproj", "{28C83708-EF37-4C21-9B68-FDDA518AC1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD4DE8E-3C7B-4EB7-8CC1-67FA18E955F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD4DE8E-3C7B-4EB7-8CC1-67FA18E955F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD4DE8E-3C7B-4EB7-8CC1-67FA18E955F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD4DE8E-3C7B-4EB7-8CC1-67FA18E955F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FDE21C-E20D-4D32-A9BA-7ABD5F102A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FDE21C-E20D-4D32-A9BA-7ABD5F102A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FDE21C-E20D-4D32-A9BA-7ABD5F102A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FDE21C-E20D-4D32-A9BA-7ABD5F102A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF01E3E-1ED1-4A80-A20F-4CB7E51A2E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF01E3E-1ED1-4A80-A20F-4CB7E51A2E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF01E3E-1ED1-4A80-A20F-4CB7E51A2E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF01E3E-1ED1-4A80-A20F-4CB7E51A2E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C83708-EF37-4C21-9B68-FDDA518AC1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C83708-EF37-4C21-9B68-FDDA518AC1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C83708-EF37-4C21-9B68-FDDA518AC1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C83708-EF37-4C21-9B68-FDDA518AC1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E39525DB-31F7-4329-9717-9E1201DDB0E0}
+	EndGlobalSection
+EndGlobal

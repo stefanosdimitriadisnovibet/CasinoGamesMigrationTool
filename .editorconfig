@@ -1,0 +1,19 @@
+﻿[*.cs]
+
+# IDE0063: Use simple 'using' statement
+csharp_prefer_simple_using_statement = true:none
+
+# RCS1057: Add empty line between declarations.
+dotnet_diagnostic.RCS1057.severity = none
+
+# CA1810: Initialize reference type static fields inline
+dotnet_diagnostic.CA1810.severity = none
+
+# CA1031: Do not catch general exception types
+dotnet_diagnostic.CA1031.severity = none
+
+# CA1819: Properties should not return arrays
+dotnet_diagnostic.CA1819.severity = none
+
+# RCS1049: Simplify boolean comparison.
+dotnet_diagnostic.RCS1049.severity = none

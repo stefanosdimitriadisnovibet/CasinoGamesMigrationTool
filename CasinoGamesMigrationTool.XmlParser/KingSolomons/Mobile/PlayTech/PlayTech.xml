@@ -1,0 +1,569 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+	<Games>
+		<!-- Slot Games -->
+		<Game id="PT_fm" providerId="8007" live="false" culture="en-US,el-GR" source="fm" mobile="true" countriesBanned=""/>
+		<Game id="PT_pmn" providerId="8009" live="false" culture="en-US,el-GR" source="pmn" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashjah" providerId="8011" live="false" culture="en-US,el-GR" source="ashjah" mobile="true" countriesBanned=""/>
+		<Game id="PT_sib" providerId="8012" live="false" culture="en-US,el-GR" source="sib" mobile="true" countriesBanned=""/>
+		<Game id="PT_ges" providerId="8013" live="false" culture="en-US,el-GR" source="ges" mobile="true" countriesBanned=""/>
+		<Game id="PT_fff" providerId="8014" live="false" culture="en-US,el-GR" source="fff" mobile="true" countriesBanned=""/>
+		<Game id="PT_cheaa" providerId="8015" live="false" culture="en-US,el-GR" source="cheaa" mobile="true" countriesBanned=""/>
+		<Game id="PT_lwh" providerId="8016" live="false" culture="en-US,el-GR" source="lwh" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsje" providerId="8017" live="false" culture="en-US,el-GR" source="gtsje" mobile="true" countriesBanned=""/>
+		<Game id="PT_tht" providerId="8018" live="false" culture="en-US,el-GR" source="tht" mobile="true" countriesBanned=""/>
+		<Game id="PT_ctiv" providerId="8021" live="false" culture="en-US,el-GR" source="ctiv" mobile="true" countriesBanned=""/>
+		<Game id="PT_zcjbjp" providerId="8023" live="false" culture="en-US,el-GR" source="zcjbjp" mobile="true" countriesBanned=""/>
+		<Game id="PT_jbells" providerId="8027" live="false" culture="en-US,el-GR" source="jbells" mobile="true" countriesBanned=""/>
+		<Game id="PT_jnglg" providerId="8028" live="false" culture="en-US,el-GR" source="jnglg" mobile="true" countriesBanned=""/>
+		<Game id="PT_gemheat" providerId="8029" live="false" culture="en-US,el-GR" source="gemheat" mobile="true" countriesBanned=""/>
+		<Game id="PT_batbeg" providerId="8029" live="false" culture="en-US,el-GR" source="batbeg" mobile="true" countriesBanned=""/>
+		<Game id="PT_tor" providerId="8031" live="false" culture="en-US,el-GR" source="tor" mobile="true" countriesBanned=""/>
+		<Game id="PT_tmoz" providerId="8032" live="false" culture="en-US,el-GR" source="tmoz" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashabw" providerId="8033" live="false" culture="en-US,el-GR" source="ashabw" mobile="true" countriesBanned=""/>
+		<Game id="PT_dvncv" providerId="8034" live="false" culture="en-US,el-GR" source="dvncv" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashtmd" providerId="8035" live="false" culture="en-US,el-GR" source="ashtmd" mobile="true" countriesBanned=""/>
+		<Game id="PT_drgch" providerId="8036" live="false" culture="en-US,el-GR" source="drgch" mobile="true" countriesBanned=""/>
+		<Game id="PT_drgro" providerId="8037" live="false" culture="en-US,el-GR" source="drgro" mobile="true" countriesBanned=""/>
+		<Game id="PT_fdtro" providerId="8038" live="false" culture="en-US,el-GR" source="fdtro" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjll" providerId="8039" live="false" culture="en-US,el-GR" source="bjll" mobile="true" countriesBanned=""/>
+		<Game id="PT_bvs" providerId="8041" live="false" culture="en-US,el-GR" source="bvs" mobile="true" countriesBanned=""/>
+		<Game id="PT_jla" providerId="8042" live="false" culture="en-US,el-GR" source="jla" mobile="true" countriesBanned=""/>
+		<Game id="PT_phot" providerId="8051" live="false" culture="en-US,el-GR" source="phot" mobile="true" countriesBanned=""/>
+		<Game id="PT_mtrx" providerId="8058" live="false" culture="en-US,el-GR" source="mtrx" mobile="true" countriesBanned=""/>
+		<Game id="PT_rosup" providerId="8061" live="false" culture="en-US,el-GR" source="rosup" mobile="true" countriesBanned=""/>
+		<Game id="PT_murder" providerId="8062" live="false" culture="en-US,el-GR" source="murder" mobile="true" countriesBanned=""/>
+		<Game id="PT_scrdstns" providerId="8063" live="false" culture="en-US,el-GR" source="scrdstns" mobile="true" countriesBanned=""/>
+		<Game id="PT_upgdm" providerId="8065" live="false" culture="en-US,el-GR" source="upgdm" mobile="true" countriesBanned=""/>
+		<Game id="PT_agoeg" providerId="8066" live="false" culture="en-US,el-GR" source="agoeg" mobile="true" countriesBanned=""/>
+		<Game id="PT_grbjp" providerId="8067" live="false" culture="en-US,el-GR" source="grbjp" mobile="true" countriesBanned=""/>
+		<Game id="PT_mwilds" providerId="8068" live="false" culture="en-US,el-GR" source="mwilds" mobile="true" countriesBanned=""/>
+		<Game id="PT_aogrots" providerId="8069" live="false" culture="en-US,el-GR" source="aogrots" mobile="true" countriesBanned=""/>
+		<Game id="PT_epa" providerId="8070" live="false" culture="en-US,el-GR" source="epa" mobile="true" countriesBanned=""/>
+		<Game id="PT_popc" providerId="8077" live="false" culture="en-US,el-GR" source="popc" mobile="true" countriesBanned=""/>
+		<Game id="PT_pisa" providerId="8078" live="false" culture="en-US,el-GR" source="pisa" mobile="true" countriesBanned=""/>
+		<Game id="PT_roos" providerId="8079" live="false" culture="en-US,el-GR" source="roos" mobile="true" countriesBanned=""/>
+		<Game id="PT_thedk" providerId="8080" live="false" culture="en-US,el-GR" source="thedk" mobile="true" countriesBanned=""/>
+		<Game id="PT_tege" providerId="8081" live="false" culture="en-US,el-GR" source="tege" mobile="true" countriesBanned=""/>
+		<Game id="PT_toptf" providerId="8082" live="false" culture="en-US,el-GR" source="toptf" mobile="true" countriesBanned=""/>
+		<Game id="PT_astrob" providerId="8083" live="false" culture="en-US,el-GR" source="astrob" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjsd2" providerId="8084" live="false" culture="en-US,el-GR" source="bjsd2" mobile="true" countriesBanned=""/>
+		<Game id="PT_rrd" providerId="8085" live="false" culture="en-US,el-GR" source="rrd" mobile="true" countriesBanned=""/>
+		<Game id="PT_sbro" providerId="8086" live="false" culture="en-US,el-GR" source="sbro" mobile="true" countriesBanned=""/>
+		<Game id="PT_thedkr" providerId="8087" live="false" culture="en-US,el-GR" source="thedkr" mobile="true" countriesBanned=""/>
+		<Game id="PT_www" providerId="8088" live="false" culture="en-US,el-GR" source="www" mobile="true" countriesBanned=""/>
+		<Game id="PT_nian" providerId="8129" live="false" culture="en-US,el-GR" source="nian" mobile="true" countriesBanned=""/>
+		<Game id="PT_cnpr" providerId="8145" live="false" culture="en-US,el-GR" source="cnpr" mobile="true" countriesBanned=""/>
+		<Game id="PT_zeus" providerId="8148" live="false" culture="en-US,el-GR" source="zeus" mobile="true" countriesBanned=""/>
+		<Game id="PT_grel" providerId="8151" live="false" culture="en-US,el-GR" source="grel" mobile="true" countriesBanned=""/>
+		<Game id="PT_lndg" providerId="8164" live="false" culture="en-US,el-GR" source="lndg" mobile="true" countriesBanned=""/>
+		<Game id="PT_strsawk" providerId="8448" live="false" culture="en-US,el-GR" source="strsawk" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashtkp2" providerId="8449" live="false" culture="en-US,el-GR" source="ashtkp2" mobile="true" countriesBanned=""/>
+		<Game id="PT_wildb" providerId="8450" live="false" culture="en-US,el-GR" source="wildb" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjbu" providerId="8452" live="false" culture="en-US,el-GR" source="bjbu" mobile="true" countriesBanned=""/>
+		<!--<Game id="PT_ashhlg" providerId="8453" live="false" culture="en-US,el-GR" source="ashhlg" mobile="true" countriesBanned=""/>-->
+		<Game id="PT_rbcp" providerId="8454" live="false" culture="en-US,el-GR" source="rbcp" mobile="true" countriesBanned=""/>
+		<Game id="PT_aeolus" providerId="8455" live="false" culture="en-US,el-GR" source="aeolus" mobile="true" countriesBanned=""/>
+		<Game id="PT_amdad" providerId="8456" live="false" culture="en-US,el-GR" source="amdad" mobile="true" countriesBanned=""/>
+		<Game id="PT_presrol" providerId="8457" live="false" culture="en-US,el-GR" source="presrol" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfgf" providerId="8458" live="false" culture="en-US,el-GR" source="ashfgf" mobile="true" countriesBanned=""/>
+		<Game id="PT_roarw" providerId="8459" live="false" culture="en-US,el-GR" source="roarw" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfof" providerId="8460" live="false" culture="en-US,el-GR" source="ashfof" mobile="true" countriesBanned=""/>
+		<Game id="PT_supman2" providerId="8461" live="false" culture="en-US,el-GR" source="supman2" mobile="true" countriesBanned=""/>
+		<Game id="PT_supman" providerId="8462" live="false" culture="en-US,el-GR" source="supman" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjcb" providerId="8463" live="false" culture="en-US,el-GR" source="bjcb" mobile="true" countriesBanned=""/>
+		<Game id="PT_dbro" providerId="8464" live="false" culture="en-US,el-GR" source="dbro" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjto_sh" providerId="8465" live="false" culture="en-US,el-GR" source="bjto_sh" mobile="true" countriesBanned=""/>
+		<Game id="PT_db1000ro" providerId="8467" live="false" culture="en-US,el-GR" source="db1000ro" mobile="true" countriesBanned=""/>
+		<Game id="PT_manos" providerId="8468" live="false" culture="en-US,el-GR" source="manos" mobile="true" countriesBanned=""/>
+		<Game id="PT_grnlt" providerId="8469" live="false" culture="en-US,el-GR" source="grnlt" mobile="true" countriesBanned=""/>
+		<Game id="PT_batpen" providerId="8470" live="false" culture="en-US,el-GR" source="batpen" mobile="true" countriesBanned=""/>
+		<Game id="PT_batfree" providerId="8471" live="false" culture="en-US,el-GR" source="batfree" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashhof" providerId="8472" live="false" culture="en-US,el-GR" source="ashhof" mobile="true" countriesBanned=""/>
+		<Game id="PT_legwld" providerId="8473" live="false" culture="en-US,el-GR" source="legwld" mobile="true" countriesBanned=""/>
+		<Game id="PT_dirtd" providerId="8474" live="false" culture="en-US,el-GR" source="dirtd" mobile="true" countriesBanned=""/>
+		<Game id="PT_batbmr" providerId="8475" live="false" culture="en-US,el-GR" source="batbmr" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashbmbg" providerId="8476" live="false" culture="en-US,el-GR" source="ashbmbg" mobile="true" countriesBanned=""/>
+		<Game id="PT_hlf2" providerId="8477" live="false" culture="en-US,el-GR" source="hlf2" mobile="true" countriesBanned=""/>
+		<Game id="PT_mfrt" providerId="8478" live="false" culture="en-US,el-GR" source="mfrt" mobile="true" countriesBanned=""/>
+		<Game id="PT_ro101" providerId="8479" live="false" culture="en-US,el-GR" source="ro101" mobile="true" countriesBanned=""/>
+		<Game id="PT_batcat" providerId="8480" live="false" culture="en-US,el-GR" source="batcat" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjto" providerId="8481" live="false" culture="en-US,el-GR" source="bjto" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashjid" providerId="8482" live="false" culture="en-US,el-GR" source="ashjid" mobile="true" countriesBanned=""/>
+		<Game id="PT_batjok" providerId="8483" live="false" culture="en-US,el-GR" source="batjok" mobile="true" countriesBanned=""/>
+		<Game id="PT_ftsis" providerId="8484" live="false" culture="en-US,el-GR" source="ftsis" mobile="true" countriesBanned=""/>
+		<Game id="PT_hilop" providerId="8485" live="false" culture="en-US,el-GR" source="hilop" mobile="true" countriesBanned=""/>
+		<Game id="PT_aogro" providerId="8486" live="false" culture="en-US,el-GR" source="aogro" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashspi" providerId="8488" live="false" culture="en-US,el-GR" source="ashspi" mobile="true" countriesBanned=""/>
+		<Game id="PT_athn" providerId="8489" live="false" culture="en-US,el-GR" source="athn" mobile="true" countriesBanned=""/>
+		<Game id="PT_hrcls" providerId="8490" live="false" culture="en-US,el-GR" source="hrcls" mobile="true" countriesBanned=""/>
+		<Game id="PT_flst" providerId="8491" live="false" culture="en-US,el-GR" source="flst" mobile="true" countriesBanned=""/>
+		<Game id="PT_prol" providerId="8492" live="false" culture="en-US,el-GR" source="prol" mobile="true" countriesBanned=""/>
+		<Game id="PT_jqw" providerId="8493" live="false" culture="en-US,el-GR" source="jqw" mobile="true" countriesBanned=""/>
+		<Game id="PT_qnw" providerId="8494" live="false" culture="en-US,el-GR" source="qnw" mobile="true" countriesBanned=""/>
+		<Game id="PT_aogs" providerId="8495" live="false" culture="en-US,el-GR" source="aogs" mobile="true" countriesBanned=""/>
+		<Game id="PT_bfb" providerId="8496" live="false" culture="en-US,el-GR" source="bfb" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashicv" providerId="8497" live="false" culture="en-US,el-GR" source="ashicv" mobile="true" countriesBanned=""/>
+		<Game id="PT_furf" providerId="8498" live="false" culture="en-US,el-GR" source="furf" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashjcb" providerId="8500" live="false" culture="en-US,el-GR" source="ashjcb" mobile="true" countriesBanned=""/>
+		<Game id="PT_bs" providerId="8501" live="false" culture="en-US,el-GR" source="bs" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashneo" providerId="8502" live="false" culture="en-US,el-GR" source="ashneo" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashndm" providerId="8503" live="false" culture="en-US,el-GR" source="ashndm" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfmn" providerId="8504" live="false" culture="en-US,el-GR" source="ashfmn" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashwdw" providerId="8506" live="false" culture="en-US,el-GR" source="ashwdw" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashjut" providerId="8508" live="false" culture="en-US,el-GR" source="ashjut" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashhwt" providerId="8509" live="false" culture="en-US,el-GR" source="ashhwt" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashctw" providerId="8510" live="false" culture="en-US,el-GR" source="ashctw" mobile="true" countriesBanned=""/>
+		<Game id="PT_pbro" providerId="8511" live="false" culture="en-US,el-GR" source="pbro" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashace" providerId="8512" live="false" culture="en-US,el-GR" source="ashace" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashlcl" providerId="8513" live="false" culture="en-US,el-GR" source="ashlcl" mobile="true" countriesBanned=""/>
+		<Game id="PT_mgstk" providerId="8515" live="false" culture="en-US,el-GR" source="mgstk" mobile="true" countriesBanned=""/>
+		<Game id="PT_topg" providerId="8520" live="false" culture="en-US,el-GR" source="topg" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashwnoz" providerId="8523" live="false" culture="en-US,el-GR" source="ashwnoz" mobile="true" countriesBanned=""/>
+		<!--<Game id="PT_ashlob" providerId="8524" live="false" culture="en-US,el-GR" source="ashlob" mobile="true" countriesBanned=""/>-->
+		<Game id="PT_ashglss" providerId="8525" live="false" culture="en-US,el-GR" source="ashglss" mobile="true" countriesBanned=""/>
+		<Game id="PT_multm" providerId="8526" live="false" culture="en-US,el-GR" source="multm" mobile="true" countriesBanned=""/>
+		<Game id="PT_fcgz" providerId="8529" live="false" culture="en-US,el-GR" source="fcgz" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfta" providerId="8530" live="false" culture="en-US,el-GR" source="ashfta" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashbob" providerId="8531" live="false" culture="en-US,el-GR" source="ashbob" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsflzt" providerId="8532" live="false" culture="en-US,el-GR" source="gtsflzt" mobile="true" countriesBanned=""/>
+		<Game id="PT_frtf" providerId="8533" live="false" culture="en-US,el-GR" source="frtf" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashsbd" providerId="8534" live="false" culture="en-US,el-GR" source="ashsbd" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashwwm" providerId="8535" live="false" culture="en-US,el-GR" source="ashwwm" mobile="true" countriesBanned=""/>
+		<Game id="PT_chl" providerId="8536" live="false" culture="en-US,el-GR" source="chl" mobile="true" countriesBanned=""/>
+		<Game id="PT_wkw" providerId="8537" live="false" culture="en-US,el-GR" source="wkw" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashcpl" providerId="8539" live="false" culture="en-US,el-GR" source="ashcpl" mobile="true" countriesBanned=""/>
+		<Game id="PT_art" providerId="8540" live="false" culture="en-US,el-GR" source="art" mobile="true" countriesBanned=""/>
+		<Game id="PT_donq" providerId="8541" live="false" culture="en-US,el-GR" source="donq" mobile="true" countriesBanned=""/>
+		<Game id="PT_bob" providerId="8544" live="false" culture="en-US,el-GR" source="bob" mobile="true" countriesBanned=""/>
+		<Game id="PT_vcstd" providerId="8545" live="false" culture="en-US,el-GR" source="vcstd" mobile="true" countriesBanned=""/>
+		<Game id="PT_sfh" providerId="8546" live="false" culture="en-US,el-GR" source="sfh" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsgme" providerId="8548" live="false" culture="en-US,el-GR" source="gtsgme" mobile="true" countriesBanned=""/>
+		<Game id="PT_fdtjg" providerId="8549" live="false" culture="en-US,el-GR" source="fdtjg" mobile="true" countriesBanned=""/>
+		<Game id="PT_jpgt" providerId="8552" live="false" culture="en-US,el-GR" source="jpgt" mobile="true" countriesBanned=""/>
+		<Game id="PT_fxf" providerId="8553" live="false" culture="en-US,el-GR" source="fxf" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashhotj" providerId="8556" live="false" culture="en-US,el-GR" source="ashhotj" mobile="true" countriesBanned=""/>
+		<Game id="PT_whk" providerId="8557" live="false" culture="en-US,el-GR" source="whk" mobile="true" countriesBanned=""/>
+		<Game id="PT_samz" providerId="8558" live="false" culture="en-US,el-GR" source="samz" mobile="true" countriesBanned=""/>
+		<Game id="PT_sol" providerId="8563" live="false" culture="en-US,el-GR" source="sol" mobile="true" countriesBanned=""/>
+		<Game id="PT_ttwfs" providerId="8564" live="false" culture="en-US,el-GR" source="ttwfs" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsfc" providerId="8565" live="false" culture="en-US,el-GR" source="gtsfc" mobile="true" countriesBanned=""/>
+		<Game id="PT_catqc" providerId="8567" live="false" culture="en-US,el-GR" source="catqc" mobile="true" countriesBanned=""/>
+		<Game id="PT_esm" providerId="8568" live="false" culture="en-US,el-GR" source="esm" mobile="true" countriesBanned=""/>
+		<Game id="PT_shmst" providerId="8570" live="false" culture="en-US,el-GR" source="shmst" mobile="true" countriesBanned=""/>
+		<Game id="PT_tmqd" providerId="8571" live="false" culture="en-US,el-GR" source="tmqd" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsaod" providerId="8574" live="false" culture="en-US,el-GR" source="gtsaod" mobile="true" countriesBanned=""/>
+		<Game id="PT_wlg" providerId="8575" live="false" culture="en-US,el-GR" source="wlg" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsbtg" providerId="8577" live="false" culture="en-US,el-GR" source="gtsbtg" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashwgaa" providerId="8579" live="false" culture="en-US,el-GR" source="ashwgaa" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfmf" providerId="8580" live="false" culture="en-US,el-GR" source="ashfmf" mobile="true" countriesBanned=""/>
+		<Game id="PT_paw" providerId="8581" live="false" culture="en-US,el-GR" source="paw" mobile="true" countriesBanned=""/>
+		<Game id="PT_zcjb" providerId="8582" live="false" culture="en-US,el-GR" source="zcjb" mobile="true" countriesBanned=""/>
+		<Game id="PT_lvb" providerId="8584" live="false" culture="en-US,el-GR" source="lvb" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashamw" providerId="8585" live="false" culture="en-US,el-GR" source="ashamw" mobile="true" countriesBanned=""/>
+		<Game id="PT_fnfrj" providerId="8589" live="false" culture="en-US,el-GR" source="fnfrj" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtssmbr" providerId="8592" live="false" culture="en-US,el-GR" source="gtssmbr" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtswg" providerId="8593" live="false" culture="en-US,el-GR" source="gtswg" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtssmdm" providerId="8596" live="false" culture="en-US,el-GR" source="gtssmdm" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashadv" providerId="8601" live="false" culture="en-US,el-GR" source="ashadv" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtscbl" providerId="8602" live="false" culture="en-US,el-GR" source="gtscbl" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtspor" providerId="8603" live="false" culture="en-US,el-GR" source="gtspor" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsjhw" providerId="8605" live="false" culture="en-US,el-GR" source="gtsjhw" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsdgk" providerId="8606" live="false" culture="en-US,el-GR" source="gtsdgk" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsdrdv" providerId="8609" live="false" culture="en-US,el-GR" source="gtsdrdv" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsmrln" providerId="8610" live="false" culture="en-US,el-GR" source="gtsmrln" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsatq" providerId="8613" live="false" culture="en-US,el-GR" source="gtsatq" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtscnb" providerId="8614" live="false" culture="en-US,el-GR" source="gtscnb" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtswng" providerId="8624" live="false" culture="en-US,el-GR" source="gtswng" mobile="true" countriesBanned=""/>
+		<Game id="PT_glrj" providerId="8625" live="false" culture="en-US,el-GR" source="glrj" mobile="true" countriesBanned=""/>
+		<Game id="PT_gts52" providerId="8631" live="false" culture="en-US,el-GR" source="gts52" mobile="true" countriesBanned=""/>
+		<Game id="PT_evj" providerId="8632" live="false" culture="en-US,el-GR" source="evj" mobile="true" countriesBanned=""/>
+		<Game id="PT_gts50" providerId="8637" live="false" culture="en-US,el-GR" source="gts50" mobile="true" countriesBanned=""/>
+		<Game id="PT_er" providerId="8653" live="false" culture="en-US,el-GR" source="er" mobile="true" countriesBanned=""/>
+		<Game id="PT_cm" providerId="8654" live="false" culture="en-US,el-GR" source="cm" mobile="true" countriesBanned=""/>
+		<Game id="PT_hlf" providerId="8655" live="false" culture="en-US,el-GR" source="hlf" mobile="true" countriesBanned=""/>
+		<Game id="PT_ttc" providerId="8674" live="false" culture="en-US,el-GR" source="ttc" mobile="true" countriesBanned=""/>
+		<Game id="PT_eas" providerId="8675" live="false" culture="en-US,el-GR" source="eas" mobile="true" countriesBanned=""/>
+		<Game id="PT_kkg" providerId="8676" live="false" culture="en-US,el-GR" source="kkg" mobile="true" countriesBanned=""/>
+		<Game id="PT_ssp" providerId="8682" live="false" culture="en-US,el-GR" source="ssp" mobile="true" countriesBanned=""/>
+		<Game id="PT_fdt" providerId="8685" live="false" culture="en-US,el-GR" source="fdt" mobile="true" countriesBanned=""/>
+		<Game id="PT_ttl" providerId="8689" live="false" culture="en-US,el-GR" source="ttl" mobile="true" countriesBanned=""/>
+		<Game id="PT_dcv" providerId="8692" live="false" culture="en-US,el-GR" source="dcv" mobile="true" countriesBanned=""/>
+		<Game id="PT_arc" providerId="8693" live="false" culture="en-US,el-GR" source="arc" mobile="true" countriesBanned=""/>
+		<Game id="PT_rky" providerId="8694" live="false" culture="en-US,el-GR" source="rky" mobile="true" countriesBanned=""/>
+		<Game id="PT_pst" providerId="8695" live="false" culture="en-US,el-GR" source="pst" mobile="true" countriesBanned=""/>
+		<Game id="PT_pgv" providerId="8696" live="false" culture="en-US,el-GR" source="pgv" mobile="true" countriesBanned=""/>
+		<Game id="PT_pnp" providerId="8697" live="false" culture="en-US,el-GR" source="pnp" mobile="true" countriesBanned=""/>
+		<Game id="PT_whc" providerId="8710" live="false" culture="en-US,el-GR" source="whc" mobile="true" countriesBanned=""/>
+		<Game id="PT_frr_g" providerId="8711" live="false" culture="en-US,el-GR" source="frr_g" mobile="true" countriesBanned=""/>
+		<Game id="PT_rodz_g" providerId="8713" live="false" culture="en-US,el-GR" source="rodz_g" mobile="true" countriesBanned=""/>
+		<Game id="PT_jp" providerId="8714" live="false" culture="en-US,el-GR" source="jp" mobile="true" countriesBanned=""/>
+		<Game id="PT_nk" providerId="8716" live="false" culture="en-US,el-GR" source="nk" mobile="true" countriesBanned=""/>
+		<Game id="PT_hh" providerId="8717" live="false" culture="en-US,el-GR" source="hh" mobile="true" countriesBanned=""/>
+		<Game id="PT_bt" providerId="8718" live="false" culture="en-US,el-GR" source="bt" mobile="true" countriesBanned=""/>
+		<Game id="PT_op" providerId="8719" live="false" culture="en-US,el-GR" source="op" mobile="true" countriesBanned=""/>
+		<Game id="PT_fow" providerId="8720" live="false" culture="en-US,el-GR" source="fow" mobile="true" countriesBanned=""/>
+		<Game id="PT_wis" providerId="8721" live="false" culture="en-US,el-GR" source="wis" mobile="true" countriesBanned=""/>
+		<Game id="PT_gro" providerId="8723" live="false" culture="en-US,el-GR" source="gro" mobile="true" countriesBanned=""/>
+		<Game id="PT_dnr" providerId="8724" live="false" culture="en-US,el-GR" source="dnr" mobile="true" countriesBanned=""/>
+		<Game id="PT_fbr" providerId="8725" live="false" culture="en-US,el-GR" source="fbr" mobile="true" countriesBanned=""/>
+		<Game id="PT_glg" providerId="8726" live="false" culture="en-US,el-GR" source="glg" mobile="true" countriesBanned=""/>
+		<Game id="PT_c7" providerId="8727" live="false" culture="en-US,el-GR" source="c7" mobile="true" countriesBanned=""/>
+		<Game id="PT_rng2" providerId="8729" live="false" culture="en-US,el-GR" source="rng2" mobile="true" countriesBanned=""/>
+		<Game id="PT_dlm" providerId="8730" live="false" culture="en-US,el-GR" source="dlm" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjs" providerId="8731" live="false" culture="en-US,el-GR" source="bjs" mobile="true" countriesBanned=""/>
+		<Game id="PT_sis" providerId="8732" live="false" culture="en-US,el-GR" source="sis" mobile="true" countriesBanned=""/>
+		<Game id="PT_ct" providerId="8734" live="false" culture="en-US,el-GR" source="ct" mobile="true" countriesBanned=""/>
+		<Game id="PT_tpd2" providerId="8735" live="false" culture="en-US,el-GR" source="tpd2" mobile="true" countriesBanned=""/>
+		<Game id="PT_gos" providerId="8737" live="false" culture="en-US,el-GR" source="gos" mobile="true" countriesBanned=""/>
+		<Game id="PT_hk" providerId="8738" live="false" culture="en-US,el-GR" source="hk" mobile="true" countriesBanned=""/>
+		<Game id="PT_bl" providerId="8741" live="false" culture="en-US,el-GR" source="bl" mobile="true" countriesBanned=""/>
+		<Game id="PT_ba" providerId="8742" live="false" culture="en-US,el-GR" source="ba" mobile="true" countriesBanned=""/>
+		<Game id="PT_irl" providerId="8743" live="false" culture="en-US,el-GR" source="irl" mobile="true" countriesBanned=""/>
+		<Game id="PT_bib" providerId="8744" live="false" culture="en-US,el-GR" source="bib" mobile="true" countriesBanned=""/>
+		<Game id="PT_mobdt" providerId="8746" live="false" culture="en-US,el-GR" source="mobdt" mobile="true" countriesBanned=""/>
+		<Game id="PT_lm" providerId="8747" live="false" culture="en-US,el-GR" source="lm" mobile="true" countriesBanned=""/>
+		<Game id="PT_ano" providerId="8748" live="false" culture="en-US,el-GR" source="ano" mobile="true" countriesBanned=""/>
+		<Game id="PT_srcg" providerId="8779" live="false" culture="en-US,el-GR" source="srcg" mobile="true" countriesBanned=""/>
+		<Game id="PT_ro_g" providerId="8792" live="false" culture="en-US,el-GR" source="ro_g" mobile="true" countriesBanned=""/>
+		<Game id="PT_sx" providerId="8822" live="false" culture="en-US,el-GR" source="sx" mobile="true" countriesBanned=""/>
+		<Game id="PT_frl" providerId="8832" live="false" culture="en-US,el-GR" source="frl" mobile="true" countriesBanned=""/>
+		<Game id="PT_car" providerId="8845" live="false" culture="en-US,el-GR" source="car" mobile="true" countriesBanned=""/>
+		<Game id="PT_mobbj" providerId="8857" live="false" culture="en-US,el-GR" source="mobbj" mobile="true" countriesBanned=""/>
+		<Game id="PT_dw_mh" providerId="8863" live="false" culture="en-US,el-GR" source="dw_mh" mobile="true" countriesBanned=""/>
+		<Game id="PT_hwilds" providerId="8864" live="false" culture="en-US,el-GR" source="hwilds" mobile="true" countriesBanned=""/>
+		<Game id="PT_batrid" providerId="8878" live="false" culture="en-US,el-GR" source="batrid" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsjxb" providerId="8880" live="false" culture="en-US,el-GR" source="gtsjxb" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjp" providerId="8881" live="false" culture="en-US,el-GR" source="bjp" mobile="true" countriesBanned=""/>
+		<Game id="PT_wsffr" providerId="8882" live="false" culture="en-US,el-GR" source="wsffr" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsswk" providerId="8527" live="false" culture="en-US,el-GR" source="gtsswk" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsstg" providerId="8608" live="false" culture="en-US,el-GR" source="gtsstg" mobile="true" countriesBanned=""/>
+		<Game id="PT_pyrr" providerId="8555" live="false" culture="en-US,el-GR" source="pyrr" mobile="true" countriesBanned=""/>
+		<Game id="PT_mro" providerId="8805" live="false" culture="en-US,el-GR" source="mro" mobile="true" countriesBanned=""/>
+		<Game id="PT_fmn" providerId="8834" live="false" culture="en-US,el-GR" source="fmn" mobile="true" countriesBanned=""/>
+		<Game id="PT_foy" providerId="8833" live="false" culture="en-US,el-GR" source="foy" mobile="true" countriesBanned=""/>
+		<Game id="PT_ir" providerId="8076" live="false" culture="en-US,el-GR" source="ir" mobile="true" countriesBanned=""/>
+		<!-- Slot Games -->
+
+		<!--Live Games-->
+		<Game id="PT_rol" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/" mobile="true" countriesBanned="" />
+		<Game id="PT_rol_prime_slingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/?language={LANG}&amp;tableId=100243&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_rol_slingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/?language={LANG}&amp;tableId=1761&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_rol_lounge" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/?language={LANG}&amp;tableId=1642&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_ubjl" providerId="8687" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/ubjl/?language={LANG}&amp;tableId=2978559&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_bal" providerId="8001" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/7bal/?language={LANG}&amp;tableId=1654618&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<!--<Game id="PT_bal" providerId="8001" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/7bal/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_bjl" providerId="8751" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/bjl/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_ubjl" providerId="8687" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/ubjl/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_rofl" providerId="8755" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rofl/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_rol" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_chel" providerId="8047" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/chel/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_hilo" providerId="8026" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/hilo/" mobile="true" countriesBanned="" />-->
+		<!--Live Games-->
+
+		<!--User friendly IDs-->
+		<!--Slot Games-->
+		<Game id="PT_AgeoftheGods_GodofStorms" providerId="8455" live="false" culture="en-US,el-GR" source="aeolus" mobile="true" countriesBanned="" />
+		<Game id="PT_AmericanDad" providerId="8456" live="false" culture="en-US,el-GR" source="amdad" mobile="true" countriesBanned="" />
+		<Game id="PT_ANightOut" providerId="8748" live="false" culture="en-US,el-GR" source="ano" mobile="true" countriesBanned="" />
+		<Game id="PT_AgeoftheGods_Roulette" providerId="8486" live="false" culture="en-US,el-GR" source="aogro" mobile="true" countriesBanned="" />
+		<Game id="PT_AgeoftheGods_AgeoftheGods" providerId="8495" live="false" culture="en-US,el-GR" source="aogs" mobile="true" countriesBanned="" />
+		<Game id="PT_Archer" providerId="8693" live="false" culture="en-US,el-GR" source="arc" mobile="true" countriesBanned="" />
+		<Game id="PT_ArcticTreasure" providerId="8540" live="false" culture="en-US,el-GR" source="art" mobile="true" countriesBanned="" />
+		<Game id="PT_AdventuresBeyondWonderland" providerId="8033" live="false" culture="en-US,el-GR" source="ashabw" mobile="true" countriesBanned="" />
+		<Game id="PT_AceVentura" providerId="8512" live="false" culture="en-US,el-GR" source="ashace" mobile="true" countriesBanned="" />
+		<Game id="PT_AmazonWild" providerId="8585" live="false" culture="en-US,el-GR" source="ashamw" mobile="true" countriesBanned="" />
+		<Game id="PT_Batman_TheBatgirlBonanza" providerId="8476" live="false" culture="en-US,el-GR" source="ashbmbg" mobile="true" countriesBanned="" />
+		<Game id="PT_BountyoftheBeanstalk" providerId="8531" live="false" culture="en-US,el-GR" source="ashbob" mobile="true" countriesBanned="" />
+		<Game id="PT_ChestsofPlenty" providerId="8539" live="false" culture="en-US,el-GR" source="ashcpl" mobile="true" countriesBanned="" />
+		<Game id="PT_Catwalk" providerId="8510" live="false" culture="en-US,el-GR" source="ashctw" mobile="true" countriesBanned="" />
+		<Game id="PT_FairgroundFortunesGhostTrain" providerId="8458" live="false" culture="en-US,el-GR" source="ashfgf" mobile="true" countriesBanned="" />
+		<Game id="PT_FullMoonFortune" providerId="8580" live="false" culture="en-US,el-GR" source="ashfmf" mobile="true" countriesBanned="" />
+		<Game id="PT_Firemen" providerId="8504" live="false" culture="en-US,el-GR" source="ashfmn" mobile="true" countriesBanned="" />
+		<Game id="PT_FieldsofFortune" providerId="8460" live="false" culture="en-US,el-GR" source="ashfof" mobile="true" countriesBanned="" />
+		<Game id="PT_FairestofthemAll" providerId="8530" live="false" culture="en-US,el-GR" source="ashfta" mobile="true" countriesBanned="" />
+		<Game id="PT_TheGlassSlipper" providerId="8525" live="false" culture="en-US,el-GR" source="ashglss" mobile="true" countriesBanned="" />
+		<!--<Game id="PT_MontyPythonsHolyGrail" providerId="8453" live="false" culture="en-US,el-GR" source="ashhlg" mobile="true" countriesBanned="" />-->
+		<Game id="PT_HeartoftheFrontier" providerId="8472" live="false" culture="en-US,el-GR" source="ashhof" mobile="true" countriesBanned="" />
+		<Game id="PT_HeartoftheJungle" providerId="8556" live="false" culture="en-US,el-GR" source="ashhotj" mobile="true" countriesBanned="" />
+		<Game id="PT_HawaiianTreasure" providerId="8509" live="false" culture="en-US,el-GR" source="ashhwt" mobile="true" countriesBanned="" />
+		<Game id="PT_IceCave" providerId="8497" live="false" culture="en-US,el-GR" source="ashicv" mobile="true" countriesBanned="" />
+		<Game id="PT_Jekyll_Hyde" providerId="8011" live="false" culture="en-US,el-GR" source="ashjah" mobile="true" countriesBanned="" />
+		<Game id="PT_JuicyBooty" providerId="8500" live="false" culture="en-US,el-GR" source="ashjcb" mobile="true" countriesBanned="" />
+		<Game id="PT_JurassicIsland" providerId="8482" live="false" culture="en-US,el-GR" source="ashjid" mobile="true" countriesBanned="" />
+		<Game id="PT_JungleTrouble" providerId="8508" live="false" culture="en-US,el-GR" source="ashjut" mobile="true" countriesBanned="" />
+		<Game id="PT_LeprechaunsLuck" providerId="8513" live="false" culture="en-US,el-GR" source="ashlcl" mobile="true" countriesBanned="" />
+		<!--<Game id="PT_LifeofBrian" providerId="8524" live="false" culture="en-US,el-GR" source="ashlob" mobile="true" countriesBanned="" />-->
+		<Game id="PT_Nostradamus" providerId="8503" live="false" culture="en-US,el-GR" source="ashndm" mobile="true" countriesBanned="" />
+		<Game id="PT_NeonLife" providerId="8502" live="false" culture="en-US,el-GR" source="ashneo" mobile="true" countriesBanned="" />
+		<Game id="PT_SinbadGoldenVoyage" providerId="8534" live="false" culture="en-US,el-GR" source="ashsbd" mobile="true" countriesBanned="" />
+		<Game id="PT_SpaceInvaders" providerId="8488" live="false" culture="en-US,el-GR" source="ashspi" mobile="true" countriesBanned="" />
+		<Game id="PT_TikiParadise_NonBranded" providerId="8449" live="false" culture="en-US,el-GR" source="ashtkp2" mobile="true" countriesBanned="" />
+		<Game id="PT_TimeForaDeal" providerId="8035" live="false" culture="en-US,el-GR" source="ashtmd" mobile="true" countriesBanned="" />
+		<Game id="PT_WildWishes" providerId="8506" live="false" culture="en-US,el-GR" source="ashwdw" mobile="true" countriesBanned="" />
+		<Game id="PT_ArcticAdventure_WildGambler2" providerId="8579" live="false" culture="en-US,el-GR" source="ashwgaa" mobile="true" countriesBanned="" />
+		<Game id="PT_TheWinningsofOz" providerId="8523" live="false" culture="en-US,el-GR" source="ashwnoz" mobile="true" countriesBanned="" />
+		<Game id="PT_WhowantstobeaMillionaire" providerId="8535" live="false" culture="en-US,el-GR" source="ashwwm" mobile="true" countriesBanned="" />
+		<Game id="PT_AgeoftheGods_GoddessofWisdom" providerId="8489" live="false" culture="en-US,el-GR" source="athn" mobile="true" countriesBanned="" />
+		<Game id="PT_Baccarat" providerId="8742" live="false" culture="en-US,el-GR" source="ba" mobile="true" countriesBanned="" />
+		<Game id="PT_Batman_TheRiddlerRiches" providerId="8475" live="false" culture="en-US,el-GR" source="batbmr" mobile="true" countriesBanned="" />
+		<Game id="PT_Batman_CatwomanCash" providerId="8480" live="false" culture="en-US,el-GR" source="batcat" mobile="true" countriesBanned="" />
+		<Game id="PT_Batman_MrFreezeFortune" providerId="8471" live="false" culture="en-US,el-GR" source="batfree" mobile="true" countriesBanned="" />
+		<Game id="PT_Batman_TheJokerJewels" providerId="8483" live="false" culture="en-US,el-GR" source="batjok" mobile="true" countriesBanned="" />
+		<Game id="PT_Batman_ThePenguinPrize" providerId="8470" live="false" culture="en-US,el-GR" source="batpen" mobile="true" countriesBanned="" />
+		<Game id="PT_BuffaloBlitz" providerId="8496" live="false" culture="en-US,el-GR" source="bfb" mobile="true" countriesBanned="" />
+		<Game id="PT_GreatBlue" providerId="8744" live="false" culture="en-US,el-GR" source="bib" mobile="true" countriesBanned="" />
+		<Game id="PT_BusterBlackjack" providerId="8452" live="false" culture="en-US,el-GR" source="bjbu" mobile="true" countriesBanned="" />
+		<Game id="PT_CashbackBlackjack" providerId="8463" live="false" culture="en-US,el-GR" source="bjcb" mobile="true" countriesBanned="" />
+		<Game id="PT_LuckyLuckyBlackjack" providerId="8039" live="false" culture="en-US,el-GR" source="bjll" mobile="true" countriesBanned="" />
+		<Game id="PT_BlackjackSwitch" providerId="8731" live="false" culture="en-US,el-GR" source="bjs" mobile="true" countriesBanned="" />
+		<Game id="PT_PremiumBlackjack" providerId="8481" live="false" culture="en-US,el-GR" source="bjto" mobile="true" countriesBanned="" />
+		<Game id="PT_Premiumblackjack_SingleHand" providerId="8465" live="false" culture="en-US,el-GR" source="bjto_sh" mobile="true" countriesBanned="" />
+		<Game id="PT_BeachLife" providerId="8741" live="false" culture="en-US,el-GR" source="bl" mobile="true" countriesBanned="" />
+		<Game id="PT_BonusBears" providerId="8544" live="false" culture="en-US,el-GR" source="bob" mobile="true" countriesBanned="" />
+		<Game id="PT_BaiShi_WhiteKingAPAC" providerId="8501" live="false" culture="en-US,el-GR" source="bs" mobile="true" countriesBanned="" />
+		<Game id="PT_BermudaTriangle" providerId="8718" live="false" culture="en-US,el-GR" source="bt" mobile="true" countriesBanned="" />
+		<Game id="PT_Crazy7" providerId="8727" live="false" culture="en-US,el-GR" source="c7" mobile="true" countriesBanned="" />
+		<Game id="PT_CaribbeanStudPoker" providerId="8845" live="false" culture="en-US,el-GR" source="car" mobile="true" countriesBanned="" />
+		<Game id="PT_CatQueen" providerId="8567" live="false" culture="en-US,el-GR" source="catqc" mobile="true" countriesBanned="" />
+		<Game id="PT_CasinoHoldEm" providerId="8015" live="false" culture="en-US,el-GR" source="cheaa" mobile="true" countriesBanned="" />
+		<Game id="PT_CherryLove" providerId="8536" live="false" culture="en-US,el-GR" source="chl" mobile="true" countriesBanned="" />
+		<Game id="PT_ChineseKitchen" providerId="8654" live="false" culture="en-US,el-GR" source="cm" mobile="true" countriesBanned="" />
+		<Game id="PT_SweetParty" providerId="8145" live="false" culture="en-US,el-GR" source="cnpr" mobile="true" countriesBanned="" />
+		<Game id="PT_CaptainsTreasure" providerId="8734" live="false" culture="en-US,el-GR" source="ct" mobile="true" countriesBanned="" />
+		<Game id="PT_CatinVegas" providerId="8021" live="false" culture="en-US,el-GR" source="ctiv" mobile="true" countriesBanned="" />
+		<Game id="PT_1000DiamondBetRoulette" providerId="8467" live="false" culture="en-US,el-GR" source="db1000ro" mobile="true" countriesBanned="" />
+		<Game id="PT_DiamondBetRoulette" providerId="8464" live="false" culture="en-US,el-GR" source="dbro" mobile="true" countriesBanned="" />
+		<Game id="PT_TheDiscovery" providerId="8692" live="false" culture="en-US,el-GR" source="dcv" mobile="true" countriesBanned="" />
+		<Game id="PT_DirtyDancing" providerId="8474" live="false" culture="en-US,el-GR" source="dirtd" mobile="true" countriesBanned="" />
+		<Game id="PT_DrLoveMore" providerId="8730" live="false" culture="en-US,el-GR" source="dlm" mobile="true" countriesBanned="" />
+		<Game id="PT_DolphinReef" providerId="8724" live="false" culture="en-US,el-GR" source="dnr" mobile="true" countriesBanned="" />
+		<Game id="PT_TheRichesofDonQuixote" providerId="8541" live="false" culture="en-US,el-GR" source="donq" mobile="true" countriesBanned="" />
+		<Game id="PT_DragonChampions" providerId="8036" live="false" culture="en-US,el-GR" source="drgch" mobile="true" countriesBanned="" />
+		<Game id="PT_DragonJackpotRoulette" providerId="8037" live="false" culture="en-US,el-GR" source="drgro" mobile="true" countriesBanned="" />
+		<Game id="PT_DaVincisVault" providerId="8034" live="false" culture="en-US,el-GR" source="dvncv" mobile="true" countriesBanned="" />
+		<Game id="PT_DeucesWildMulti_Hand" providerId="8863" live="false" culture="en-US,el-GR" source="dw_mh" mobile="true" countriesBanned="" />
+		<Game id="PT_EasterSurprise" providerId="8675" live="false" culture="en-US,el-GR" source="eas" mobile="true" countriesBanned="" />
+		<Game id="PT_VacationStation" providerId="8653" live="false" culture="en-US,el-GR" source="er" mobile="true" countriesBanned="" />
+		<Game id="PT_Esmeralda" providerId="8568" live="false" culture="en-US,el-GR" source="esm" mobile="true" countriesBanned="" />
+		<Game id="PT_EverybodysJackpot" providerId="8632" live="false" culture="en-US,el-GR" source="evj" mobile="true" countriesBanned="" />
+		<Game id="PT_FootballRules" providerId="8725" live="false" culture="en-US,el-GR" source="fbr" mobile="true" countriesBanned="" />
+		<Game id="PT_FeiCuiGongZhu" providerId="8529" live="false" culture="en-US,el-GR" source="fcgz" mobile="true" countriesBanned="" />
+		<Game id="PT_FrankieDettoriMagic7" providerId="8685" live="false" culture="en-US,el-GR" source="fdt" mobile="true" countriesBanned="" />
+		<Game id="PT_FrankieDettoriMagic7Jackpot" providerId="8549" live="false" culture="en-US,el-GR" source="fdtjg" mobile="true" countriesBanned="" />
+		<Game id="PT_FrankieDettoriRoulette" providerId="8038" live="false" culture="en-US,el-GR" source="fdtro" mobile="true" countriesBanned="" />
+		<Game id="PT_FunkyFruitsFarm" providerId="8014" live="false" culture="en-US,el-GR" source="fff" mobile="true" countriesBanned="" />
+		<Game id="PT_TheFlintstones" providerId="8491" live="false" culture="en-US,el-GR" source="flst" mobile="true" countriesBanned="" />
+		<Game id="PT_FunkyMonkey" providerId="8007" live="false" culture="en-US,el-GR" source="fm" mobile="true" countriesBanned="" />
+		<Game id="PT_FruitMania" providerId="8834" live="false" culture="en-US,el-GR" source="fmn" mobile="true" countriesBanned="" />
+		<Game id="PT_FunkyFruits" providerId="8589" live="false" culture="en-US,el-GR" source="fnfrj" mobile="true" countriesBanned="" />
+		<Game id="PT_ForestofWonders" providerId="8720" live="false" culture="en-US,el-GR" source="fow" mobile="true" countriesBanned="" />
+		<Game id="PT_FountainofYouth" providerId="8833" live="false" culture="en-US,el-GR" source="foy" mobile="true" countriesBanned="" />
+		<Game id="PT_FromRussiawithLove" providerId="8832" live="false" culture="en-US,el-GR" source="frl" mobile="true" countriesBanned="" />
+		<Game id="PT_PremiumFrenchRoulette" providerId="8711" live="false" culture="en-US,el-GR" source="frr_g" mobile="true" countriesBanned="" />
+		<Game id="PT_FortunateFive" providerId="8533" live="false" culture="en-US,el-GR" source="frtf" mobile="true" countriesBanned="" />
+		<Game id="PT_AgeoftheGods_FateSisters" providerId="8484" live="false" culture="en-US,el-GR" source="ftsis" mobile="true" countriesBanned="" />
+		<Game id="PT_AgeoftheGods_FuriousFour" providerId="8498" live="false" culture="en-US,el-GR" source="furf" mobile="true" countriesBanned="" />
+		<Game id="PT_FortunesoftheFox_FoxyFortunes" providerId="8553" live="false" culture="en-US,el-GR" source="fxf" mobile="true" countriesBanned="" />
+		<Game id="PT_NewGemHeat" providerId="8029" live="false" culture="en-US,el-GR" source="gemheat" mobile="true" countriesBanned="" />
+		<Game id="PT_GeishaStory" providerId="8013" live="false" culture="en-US,el-GR" source="ges" mobile="true" countriesBanned="" />
+		<Game id="PT_GoldenGames" providerId="8726" live="false" culture="en-US,el-GR" source="glg" mobile="true" countriesBanned="" />
+		<Game id="PT_GladiatorJP" providerId="8625" live="false" culture="en-US,el-GR" source="glrj" mobile="true" countriesBanned="" />
+		<Game id="PT_GoldenTour" providerId="8737" live="false" culture="en-US,el-GR" source="gos" mobile="true" countriesBanned="" />
+		<Game id="PT_GoldRally" providerId="8151" live="false" culture="en-US,el-GR" source="grel" mobile="true" countriesBanned="" />
+		<Game id="PT_GreenLantern" providerId="8469" live="false" culture="en-US,el-GR" source="grnlt" mobile="true" countriesBanned="" />
+		<Game id="PT_GreatestOdyssey" providerId="8723" live="false" culture="en-US,el-GR" source="gro" mobile="true" countriesBanned="" />
+		<Game id="PT_HotGems" providerId="8637" live="false" culture="en-US,el-GR" source="gts50" mobile="true" countriesBanned="" />
+		<Game id="PT_Vikingmania" providerId="8631" live="false" culture="en-US,el-GR" source="gts52" mobile="true" countriesBanned="" />
+		<Game id="PT_InnocenseorTemptation_AngelDevil" providerId="8574" live="false" culture="en-US,el-GR" source="gtsaod" mobile="true" countriesBanned="" />
+		<Game id="PT_AtlantisQueen" providerId="8613" live="false" culture="en-US,el-GR" source="gtsatq" mobile="true" countriesBanned="" />
+		<Game id="PT_BattleoftheGods" providerId="8577" live="false" culture="en-US,el-GR" source="gtsbtg" mobile="true" countriesBanned="" />
+		<Game id="PT_Cowboys_Aliens" providerId="8602" live="false" culture="en-US,el-GR" source="gtscbl" mobile="true" countriesBanned="" />
+		<Game id="PT_CopsNBandits" providerId="8614" live="false" culture="en-US,el-GR" source="gtscnb" mobile="true" countriesBanned="" />
+		<Game id="PT_DragonKingdom" providerId="8606" live="false" culture="en-US,el-GR" source="gtsdgk" mobile="true" countriesBanned="" />
+		<Game id="PT_DaringDave_theEyeofRa" providerId="8609" live="false" culture="en-US,el-GR" source="gtsdrdv" mobile="true" countriesBanned="" />
+		<Game id="PT_FootballCarnival" providerId="8565" live="false" culture="en-US,el-GR" source="gtsfc" mobile="true" countriesBanned="" />
+		<Game id="PT_FeiLongZaiTian" providerId="8532" live="false" culture="en-US,el-GR" source="gtsflzt" mobile="true" countriesBanned="" />
+		<Game id="PT_TheGreatMingEmpire" providerId="8548" live="false" culture="en-US,el-GR" source="gtsgme" mobile="true" countriesBanned="" />
+		<Game id="PT_JadeEmperor_YuHuangDaDi" providerId="8017" live="false" culture="en-US,el-GR" source="gtsje" mobile="true" countriesBanned="" />
+		<Game id="PT_JohnWayne" providerId="8605" live="false" culture="en-US,el-GR" source="gtsjhw" mobile="true" countriesBanned="" />
+		<Game id="PT_JiXiangBa" providerId="8880" live="false" culture="en-US,el-GR" source="gtsjxb" mobile="true" countriesBanned="" />
+		<Game id="PT_MarilynMonroe" providerId="8610" live="false" culture="en-US,el-GR" source="gtsmrln" mobile="true" countriesBanned="" />
+		<Game id="PT_PlentyOFortune" providerId="8603" live="false" culture="en-US,el-GR" source="gtspor" mobile="true" countriesBanned="" />
+		<Game id="PT_SambaBrazil" providerId="8592" live="false" culture="en-US,el-GR" source="gtssmbr" mobile="true" countriesBanned="" />
+		<Game id="PT_TheSixMillionDollarMan" providerId="8596" live="false" culture="en-US,el-GR" source="gtssmdm" mobile="true" countriesBanned="" />
+		<Game id="PT_SultansGold" providerId="8608" live="false" culture="en-US,el-GR" source="gtsstg" mobile="true" countriesBanned="" />
+		<Game id="PT_SunWuKong" providerId="8527" live="false" culture="en-US,el-GR" source="gtsswk" mobile="true" countriesBanned="" />
+		<Game id="PT_WildGambler" providerId="8593" live="false" culture="en-US,el-GR" source="gtswg" mobile="true" countriesBanned="" />
+		<Game id="PT_Wingsofgold" providerId="8624" live="false" culture="en-US,el-GR" source="gtswng" mobile="true" countriesBanned="" />
+		<Game id="PT_HauntedHouse" providerId="8717" live="false" culture="en-US,el-GR" source="hh" mobile="true" countriesBanned="" />
+		<Game id="PT_Hi_LoPremium" providerId="8485" live="false" culture="en-US,el-GR" source="hilop" mobile="true" countriesBanned="" />
+		<Game id="PT_HighwayKings" providerId="8738" live="false" culture="en-US,el-GR" source="hk" mobile="true" countriesBanned="" />
+		<Game id="PT_HalloweenFortune_flash" providerId="8655" live="false" culture="en-US,el-GR" source="hlf" mobile="true" countriesBanned="" />
+		<Game id="PT_HalloweenFortune2" providerId="8477" live="false" culture="en-US,el-GR" source="hlf2" mobile="true" countriesBanned="" />
+		<Game id="PT_AgeoftheGods_PrinceofOlympus" providerId="8490" live="false" culture="en-US,el-GR" source="hrcls" mobile="true" countriesBanned="" />
+		<Game id="PT_HologramWilds" providerId="8864" live="false" culture="en-US,el-GR" source="hwilds" mobile="true" countriesBanned="" />
+		<Game id="PT_IrishLuck_html5" providerId="8743" live="false" culture="en-US,el-GR" source="irl" mobile="true" countriesBanned="" />
+		<Game id="PT_JackpotBells" providerId="8027" live="false" culture="en-US,el-GR" source="jbells" mobile="true" countriesBanned="" />
+		<Game id="PT_JusticeLeague" providerId="8042" live="false" culture="en-US,el-GR" source="jla" mobile="true" countriesBanned="" />
+		<Game id="PT_JungleGiants" providerId="8028" live="false" culture="en-US,el-GR" source="jnglg" mobile="true" countriesBanned="" />
+		<Game id="PT_JokerPoker" providerId="8714" live="false" culture="en-US,el-GR" source="jp" mobile="true" countriesBanned="" />
+		<Game id="PT_JackpotGiant" providerId="8552" live="false" culture="en-US,el-GR" source="jpgt" mobile="true" countriesBanned="" />
+		<Game id="PT_JinQianWa" providerId="8493" live="false" culture="en-US,el-GR" source="jqw" mobile="true" countriesBanned="" />
+		<Game id="PT_KingKong" providerId="8676" live="false" culture="en-US,el-GR" source="kkg" mobile="true" countriesBanned="" />
+		<Game id="PT_LegacyoftheWild" providerId="8473" live="false" culture="en-US,el-GR" source="legwld" mobile="true" countriesBanned="" />
+		<Game id="PT_LottoMadness" providerId="8747" live="false" culture="en-US,el-GR" source="lm" mobile="true" countriesBanned="" />
+		<Game id="PT_LandofGold" providerId="8164" live="false" culture="en-US,el-GR" source="lndg" mobile="true" countriesBanned="" />
+		<Game id="PT_TheLoveBoat" providerId="8584" live="false" culture="en-US,el-GR" source="lvb" mobile="true" countriesBanned="" />
+		<Game id="PT_SpinaWin" providerId="8016" live="false" culture="en-US,el-GR" source="lwh" mobile="true" countriesBanned="" />
+		<Game id="PT_ManofSteel" providerId="8468" live="false" culture="en-US,el-GR" source="manos" mobile="true" countriesBanned="" />
+		<Game id="PT_MissFortune" providerId="8478" live="false" culture="en-US,el-GR" source="mfrt" mobile="true" countriesBanned="" />
+		<Game id="PT_Magicalstacks" providerId="8515" live="false" culture="en-US,el-GR" source="mgstk" mobile="true" countriesBanned="" />
+		<Game id="PT_BlackjackMH5_mobile" providerId="8857" live="false" culture="en-US,el-GR" source="mobbj" mobile="true" countriesBanned="" />
+		<Game id="PT_DesertTreasure_html5" providerId="8746" live="false" culture="en-US,el-GR" source="mobdt" mobile="true" countriesBanned="" />
+		<Game id="PT_MiniRoulette" providerId="8805" live="false" culture="en-US,el-GR" source="mro" mobile="true" countriesBanned="" />
+		<Game id="PT_TheMatrix" providerId="8058" live="false" culture="en-US,el-GR" source="mtrx" mobile="true" countriesBanned="" />
+		<Game id="PT_MultiplierMadness" providerId="8526" live="false" culture="en-US,el-GR" source="multm" mobile="true" countriesBanned="" />
+		<Game id="PT_NianNianYouYu" providerId="8129" live="false" culture="en-US,el-GR" source="nian" mobile="true" countriesBanned="" />
+		<Game id="PT_NeptunesKingdom" providerId="8716" live="false" culture="en-US,el-GR" source="nk" mobile="true" countriesBanned="" />
+		<Game id="PT_OceanPrincess" providerId="8719" live="false" culture="en-US,el-GR" source="op" mobile="true" countriesBanned="" />
+		<Game id="PT_PiggiesandtheWolf" providerId="8581" live="false" culture="en-US,el-GR" source="paw" mobile="true" countriesBanned="" />
+		<Game id="PT_Pinballroulette" providerId="8511" live="false" culture="en-US,el-GR" source="pbro" mobile="true" countriesBanned="" />
+		<Game id="PT_PenguinVacation" providerId="8696" live="false" culture="en-US,el-GR" source="pgv" mobile="true" countriesBanned="" />
+		<Game id="PT_PurpleHot" providerId="8051" live="false" culture="en-US,el-GR" source="phot" mobile="true" countriesBanned="" />
+		<Game id="PT_PantherMoon" providerId="8009" live="false" culture="en-US,el-GR" source="pmn" mobile="true" countriesBanned="" />
+		<Game id="PT_PinkPanther" providerId="8697" live="false" culture="en-US,el-GR" source="pnp" mobile="true" countriesBanned="" />
+		<Game id="PT_RouletteDeluxe" providerId="8457" live="false" culture="en-US,el-GR" source="presrol" mobile="true" countriesBanned="" />
+		<Game id="PT_PennyRoulette" providerId="8492" live="false" culture="en-US,el-GR" source="prol" mobile="true" countriesBanned="" />
+		<Game id="PT_PharaohsSecrets" providerId="8695" live="false" culture="en-US,el-GR" source="pst" mobile="true" countriesBanned="" />
+		<Game id="PT_ThePyramidofRamesses" providerId="8555" live="false" culture="en-US,el-GR" source="pyrr" mobile="true" countriesBanned="" />
+		<Game id="PT_QueenofWands" providerId="8494" live="false" culture="en-US,el-GR" source="qnw" mobile="true" countriesBanned="" />
+		<Game id="PT_Robocop" providerId="8454" live="false" culture="en-US,el-GR" source="rbcp" mobile="true" countriesBanned="" />
+		<Game id="PT_Rocky" providerId="8694" live="false" culture="en-US,el-GR" source="rky" mobile="true" countriesBanned="" />
+		<Game id="PT_Rome_Glory_MOBILE" providerId="8729" live="false" culture="en-US,el-GR" source="rng2" mobile="true" countriesBanned="" />
+		<Game id="PT_PremiumEuropeanRoulette" providerId="8792" live="false" culture="en-US,el-GR" source="ro_g" mobile="true" countriesBanned="" />
+		<Game id="PT_101Roulette" providerId="8479" live="false" culture="en-US,el-GR" source="ro101" mobile="true" countriesBanned="" />
+		<Game id="PT_RoaringWilds" providerId="8459" live="false" culture="en-US,el-GR" source="roarw" mobile="true" countriesBanned="" />
+		<Game id="PT_PremiumAmericanRoulette" providerId="8713" live="false" culture="en-US,el-GR" source="rodz_g" mobile="true" countriesBanned="" />
+		<Game id="PT_SecretsoftheAmazon" providerId="8558" live="false" culture="en-US,el-GR" source="samz" mobile="true" countriesBanned="" />
+		<Game id="PT_SafariHeat" providerId="8546" live="false" culture="en-US,el-GR" source="sfh" mobile="true" countriesBanned="" />
+		<Game id="PT_SherlockMystery" providerId="8570" live="false" culture="en-US,el-GR" source="shmst" mobile="true" countriesBanned="" />
+		<Game id="PT_SilverBullet" providerId="8012" live="false" culture="en-US,el-GR" source="sib" mobile="true" countriesBanned="" />
+		<Game id="PT_SilentSamurai" providerId="8732" live="false" culture="en-US,el-GR" source="sis" mobile="true" countriesBanned="" />
+		<Game id="PT_StreakofLuck" providerId="8563" live="false" culture="en-US,el-GR" source="sol" mobile="true" countriesBanned="" />
+		<Game id="PT_SpudOReillysCropsofGold_MOBILE" providerId="8779" live="false" culture="en-US,el-GR" source="srcg" mobile="true" countriesBanned="" />
+		<Game id="PT_SantaSurprise" providerId="8682" live="false" culture="en-US,el-GR" source="ssp" mobile="true" countriesBanned="" />
+		<Game id="PT_StarsAwakening" providerId="8448" live="false" culture="en-US,el-GR" source="strsawk" mobile="true" countriesBanned="" />
+		<Game id="PT_SupermanTheMovie" providerId="8462" live="false" culture="en-US,el-GR" source="supman" mobile="true" countriesBanned="" />
+		<Game id="PT_SupermanII" providerId="8461" live="false" culture="en-US,el-GR" source="supman2" mobile="true" countriesBanned="" />
+		<Game id="PT_SiXiang" providerId="8822" live="false" culture="en-US,el-GR" source="sx" mobile="true" countriesBanned="" />
+		<Game id="PT_ThaiTemple" providerId="8018" live="false" culture="en-US,el-GR" source="tht" mobile="true" countriesBanned="" />
+		<Game id="PT_TheThreeMusketeers" providerId="8571" live="false" culture="en-US,el-GR" source="tmqd" mobile="true" countriesBanned="" />
+		<Game id="PT_TopGun" providerId="8520" live="false" culture="en-US,el-GR" source="topg" mobile="true" countriesBanned="" />
+		<Game id="PT_Torrente" providerId="8031" live="false" culture="en-US,el-GR" source="tor" mobile="true" countriesBanned="" />
+		<Game id="PT_ThaiParadise" providerId="8735" live="false" culture="en-US,el-GR" source="tpd2" mobile="true" countriesBanned="" />
+		<Game id="PT_TopTrumps_Celebs" providerId="8674" live="false" culture="en-US,el-GR" source="ttc" mobile="true" countriesBanned="" />
+		<Game id="PT_TopTrumps_Footballlegends" providerId="8689" live="false" culture="en-US,el-GR" source="ttl" mobile="true" countriesBanned="" />
+		<Game id="PT_TopTrumps_WorldFootballStars2014" providerId="8564" live="false" culture="en-US,el-GR" source="ttwfs" mobile="true" countriesBanned="" />
+		<Game id="PT_VacationStationDeluxe" providerId="8545" live="false" culture="en-US,el-GR" source="vcstd" mobile="true" countriesBanned="" />
+		<Game id="PT_WhatsCooking" providerId="8710" live="false" culture="en-US,el-GR" source="whc" mobile="true" countriesBanned="" />
+		<Game id="PT_WhiteKing" providerId="8557" live="false" culture="en-US,el-GR" source="whk" mobile="true" countriesBanned="" />
+		<Game id="PT_WildBeats" providerId="8450" live="false" culture="en-US,el-GR" source="wildb" mobile="true" countriesBanned="" />
+		<Game id="PT_WildSpirit" providerId="8721" live="false" culture="en-US,el-GR" source="wis" mobile="true" countriesBanned="" />
+		<Game id="PT_WackyWaters" providerId="8537" live="false" culture="en-US,el-GR" source="wkw" mobile="true" countriesBanned="" />
+		<Game id="PT_WuLong" providerId="8575" live="false" culture="en-US,el-GR" source="wlg" mobile="true" countriesBanned="" />
+		<Game id="PT_WallStreetFever" providerId="8882" live="false" culture="en-US,el-GR" source="wsffr" mobile="true" countriesBanned="" />
+		<Game id="PT_ZhaoCaiJinBao" providerId="8582" live="false" culture="en-US,el-GR" source="zcjb" mobile="true" countriesBanned="" />
+		<Game id="PT_ZhaoCaiJinBaoJackpot" providerId="8023" live="false" culture="en-US,el-GR" source="zcjbjp" mobile="true" countriesBanned="" />
+		<Game id="PT_AgeoftheGods_KingofOlympus" providerId="8148" live="false" culture="en-US,el-GR" source="zeus" mobile="true" countriesBanned="" />
+		<Game id="PT_BatmanBegins" providerId="8029" live="false" culture="en-US,el-GR" source="batbeg" mobile="true" countriesBanned=""/>
+		<Game id="PT_TheMaskOfZorro" providerId="8032" live="false" culture="en-US,el-GR" source="tmoz" mobile="true" countriesBanned=""/>
+		<Game id="PT_BatmanvsSupermanDawnOfJustice" providerId="8041" live="false" culture="en-US,el-GR" source="bvs" mobile="true" countriesBanned=""/>
+		<Game id="PT_SupermanRoulette" providerId="8061" live="false" culture="en-US,el-GR" source="rosup" mobile="true" countriesBanned=""/>
+		<Game id="PT_MurderMystery" providerId="8062" live="false" culture="en-US,el-GR" source="murder" mobile="true" countriesBanned=""/>
+		<Game id="PT_SacredStones" providerId="8063" live="false" culture="en-US,el-GR" source="scrdstns" mobile="true" countriesBanned=""/>
+		<Game id="PT_Upgradium" providerId="8065" live="false" culture="en-US,el-GR" source="upgdm" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfEgypt" providerId="8066" live="false" culture="en-US,el-GR" source="agoeg" mobile="true" countriesBanned=""/>
+		<Game id="PT_GreatBlueJackpot" providerId="8067" live="false" culture="en-US,el-GR" source="grbjp" mobile="true" countriesBanned=""/>
+		<Game id="PT_MajiWilds" providerId="8068" live="false" culture="en-US,el-GR" source="mwilds" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGodsRulerOfTheSky" providerId="8069" live="false" culture="en-US,el-GR" source="aogrots" mobile="true" countriesBanned=""/>
+		<Game id="PT_EpicApe" providerId="8070" live="false" culture="en-US,el-GR" source="epa" mobile="true" countriesBanned=""/>
+		<Game id="PT_GaelicLuck" providerId="8077" live="false" culture="en-US,el-GR" source="popc" mobile="true" countriesBanned=""/>
+		<Game id="PT_PixelSamurai" providerId="8078" live="false" culture="en-US,el-GR" source="pisa" mobile="true" countriesBanned=""/>
+		<Game id="PT_RonnieOsullivanSportingLegends" providerId="8079" live="false" culture="en-US,el-GR" source="roos" mobile="true" countriesBanned=""/>
+		<Game id="PT_TheDarkKnight" providerId="8080" live="false" culture="en-US,el-GR" source="thedk" mobile="true" countriesBanned=""/>
+		<Game id="PT_TheDarkKnightRises" providerId="8087" live="false" culture="en-US,el-GR" source="thedkr" mobile="true" countriesBanned=""/>
+		<Game id="PT_TerminatorGenisys" providerId="8081" live="false" culture="en-US,el-GR" source="tege" mobile="true" countriesBanned=""/>
+		<Game id="PT_TopTrumpsFootballStars" providerId="8082" live="false" culture="en-US,el-GR" source="toptf" mobile="true" countriesBanned=""/>
+		<Game id="PT_AstroBabesExpress" providerId="8083" live="false" culture="en-US,el-GR" source="astrob" mobile="true" countriesBanned=""/>
+		<Game id="PT_BlackjackSurrender2" providerId="8084" live="false" culture="en-US,el-GR" source="bjsd2" mobile="true" countriesBanned=""/>
+		<Game id="PT_RoyalRespinDeluxe" providerId="8085" live="false" culture="en-US,el-GR" source="rrd" mobile="true" countriesBanned=""/>
+		<Game id="PT_SpreadBetRoulette" providerId="8086" live="false" culture="en-US,el-GR" source="sbro" mobile="true" countriesBanned=""/>
+		<Game id="PT_WolvesWolvesWolves" providerId="8088" live="false" culture="en-US,el-GR" source="www" mobile="true" countriesBanned=""/>
+		<Game id="PT_AdventuresInWonderland" providerId="8601" live="false" culture="en-US,el-GR" source="ashadv" mobile="true" countriesBanned=""/>
+		<Game id="PT_PerfectBlacklack" providerId="8881" live="false" culture="en-US,el-GR" source="bjp" mobile="true" countriesBanned=""/>
+		<Game id="PT_IceRun_mobile" providerId="8076" live="false" culture="en-US,el-GR" source="ir" mobile="true" countriesBanned=""/>
+		<Game id="PT_BatmanTheRiddlerRiches" providerId="8878" live="false" culture="en-US,el-GR" source="batrid" mobile="true" countriesBanned=""/>
+		<Game id="PT_BerryBerryBonanza" providerId="8090" live="false" culture="en-US,el-GR" source="bbbo" mobile="true" countriesBanned=""/>
+		<Game id="PT_TigerClaw" providerId="8091" live="false" culture="en-US,el-GR" source="tigc" mobile="true" countriesBanned=""/>
+		<Game id="PT_TreasureOfTheLamps" providerId="8092" live="false" culture="en-US,el-GR" source="totl" mobile="true" countriesBanned=""/>
+		<Game id="PT_AnacondaWild" providerId="8093" live="false" culture="en-US,el-GR" source="anwild" mobile="true" countriesBanned=""/>
+		<Game id="PT_WhiteKing2" providerId="8094" live="false" culture="en-US,el-GR" source="whk2" mobile="true" countriesBanned=""/>
+		<Game id="PT_BuckleUp" providerId="8095" live="false" culture="en-US,el-GR" source="bup" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGodsMedusaAndMonsters" providerId="8096" live="false" culture="en-US,el-GR" source="aogmm" mobile="true" countriesBanned=""/>
+		<Game id="PT_Grease" providerId="8097" live="false" culture="en-US,el-GR" source="grs" mobile="true" countriesBanned=""/>
+		<Game id="PT_LieYanZuanShi" providerId="8098" live="false" culture="en-US,el-GR" source="ght_a" mobile="true" countriesBanned=""/>
+		<Game id="PT_LuminousLife" providerId="8099" live="false" culture="en-US,el-GR" source="lumli" mobile="true" countriesBanned=""/>
+		<Game id="PT_GalacticStreak" providerId="8100" live="false" culture="en-US,el-GR" source="galst" mobile="true" countriesBanned=""/>
+		<Game id="PT_WaysOfThePhoenix" providerId="8101" live="false" culture="en-US,el-GR" source="wotp" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGods_MightyMidas" providerId="8102" live="false" culture="en-US,el-GR" source="aogmt" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGodsRulersOfOlympus" providerId="8103" live="false" culture="en-US,el-GR" source="aogroo" mobile="true" countriesBanned=""/>
+		<Game id="PT_CoinCoinCoinCNY" providerId="8104" live="false" culture="en-US,el-GR" source="ccc" mobile="true" countriesBanned=""/>
+		<Game id="PT_APMcCoySportingLegends" providerId="8105" live="false" culture="en-US,el-GR" source="tonymc" mobile="true" countriesBanned=""/>
+		<Game id="PT_BigShots" providerId="8106" live="false" culture="en-US,el-GR" source="bigsh" mobile="true" countriesBanned=""/>
+		<Game id="PT_3CardBrag" providerId="8107" live="false" culture="en-US,el-GR" source="3cb" mobile="true" countriesBanned=""/>
+		<Game id="PT_FreeChipBlackjack" providerId="8108" live="false" culture="en-US,el-GR" source="fcbj" mobile="true" countriesBanned=""/>
+		<Game id="PT_FeiLongZaiTian" providerId="8532" live="false" culture="en-US,el-GR" source="gtsflzt" mobile="true" countriesBanned=""/>
+		<!--Slot Games-->
+
+		<!--Live Games-->
+		<Game id="PT_RouletteLobby" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/" mobile="true" countriesBanned="" />
+		<Game id="PT_RoulettePrimeSlingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/?language={LANG}&amp;tableId=100243&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_RouletteSlingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/?language={LANG}&amp;tableId=1761&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_RouletteLounge" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/?language={LANG}&amp;tableId=1642&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_BlackjackLiveUnlimited" providerId="8687" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/ubjl/?language={LANG}&amp;tableId=2978559&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_BaccaratLive" providerId="8001" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/7bal/?language={LANG}&amp;tableId=1654618&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live1&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<!--<Game id="PT_BaccaratMini" providerId="8001" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/7bal/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_BlackjackLive" providerId="8751" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/bjl/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_BlackjackLiveUnlimited" providerId="8687" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/ubjl/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_rofl" providerId="8755" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rofl/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_RouletteLive" providerId="8763" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/rol/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_chel" providerId="8047" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/chel/" mobile="true" countriesBanned="" />-->
+		<!--<Game id="PT_Hi_LoPremium" providerId="8026" live="true" culture="en-US,el-GR" source="https://games.play.kingsolomons.gr/live/hilo/" mobile="true" countriesBanned="" />-->
+		<!--Live Games-->
+		<!--User friendly IDs-->
+
+	</Games>
+
+	<GameLanguages>
+		<GameLanguage type="en-US" path="en" helpLang="en"/>
+		<GameLanguage type="el-GR" path="el" helpLang="el"/>
+	</GameLanguages>
+
+	<JackpotGames>
+		<JackpotGame sysname="PT_aogs" gameGroup="mrj-4"/>
+		<JackpotGame sysname="PT_jpgt" gameGroup="jpgt6-1"/>
+		<JackpotGame sysname="PT_bl" gameGroup="bl"/>
+		<JackpotGame sysname="PT_glrj" gameGroup="glrjj-1"/>
+		<JackpotGame sysname="PT_supman" gameGroup="dcjp-4"/>
+
+		<!--User friendly IDs-->
+		<JackpotGame sysname="PT_AgeoftheGods_AgeoftheGods" gameGroup="mrj-4"/>
+		<JackpotGame sysname="PT_JackpotGiant" gameGroup="jpgt6-1"/>
+		<JackpotGame sysname="PT_BeachLife" gameGroup="bl"/>
+		<JackpotGame sysname="PT_GladiatorJP" gameGroup="glrjj-1"/>
+		<JackpotGame sysname="PT_SupermanTheMovie" gameGroup="dcjp-4"/>
+		<!--User friendly IDs-->
+
+	</JackpotGames>
+</Root>
