@@ -1,4 +1,7 @@
-﻿using CasinoGamesMigrationTool.XmlHandler.KingSolomons.Desktop.PlayTech;
+﻿using CasinoGamesMigrationTool.DatabaseContext.Models;
+using CasinoGamesMigrationTool.XmlHandler.CMS.Desktop;
+using CasinoGamesMigrationTool.XmlHandler.CMS.Mobile;
+using CasinoGamesMigrationTool.XmlHandler.KingSolomons.Desktop.PlayTech;
 using CasinoGamesMigrationTool.XmlHandler.KingSolomons.Mobile.PlayTech;
 using CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Edict;
 using CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Evolution;
@@ -28,6 +31,8 @@ using CasinoGamesMigrationTool.XmlHandler.NoviCasino.Mobile.Iforium;
 using CasinoGamesMigrationTool.XmlHandler.NoviCasino.Mobile.Microgaming;
 using CasinoGamesMigrationTool.XmlHandler.NoviCasino.Mobile.NetEnt;
 using CasinoGamesMigrationTool.XmlHandler.NoviCasino.Mobile.ScientificGames;
+using CasinoGamesMigrationTool.XmlParser.CMS.Desktop;
+using CasinoGamesMigrationTool.XmlParser.CMS.Mobile;
 using CasinoGamesMigrationTool.XmlParser.KingSolomons.Desktop.PlayTech;
 using CasinoGamesMigrationTool.XmlParser.KingSolomons.Mobile.PlayTech;
 using CasinoGamesMigrationTool.XmlParser.Novibet.Desktop.Edict;
@@ -256,7 +261,29 @@ namespace CasinoGamesMigrationTool
 
 			#region CMS
 
+			#region Desktop
+
+			XmlCMSDesktopResponse xmlCMSDesktopResponse = XmlCMSDesktopParser.ParseXml();
+
+			XmlCMSDesktopGame[] xmlCMSDesktopGames = xmlCMSDesktopResponse.HandleGames();
+
+			#endregion Desktop
+
+			#region Mobile
+
+			XmlCMSMobileResponse xmlCMSMobileResponse = XmlCMSMobileParser.ParseXml();
+
+			XmlCMSMobileGame[] xmlCMSMobileGames = xmlCMSMobileResponse.HandleGames();
+
+			#endregion Mobile
+
 			#endregion CMS
+
+			#region Database
+
+			UserCasinoGames[] games = DatabaseHandler.DatabaseHandler.HandleGames();
+
+			#endregion Database
 
 			Console.WriteLine("Application ended...");
 			Console.WriteLine("Close the application");

@@ -88,6 +88,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Edict
 
 			return gameLanguages;
 		}
-
 	}
 }

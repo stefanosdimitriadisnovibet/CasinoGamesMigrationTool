@@ -82,6 +82,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.NoviCasino.Mobile.PlayNGo
 
 			return gameLanguages;
 		}
-
 	}
 }

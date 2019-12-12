@@ -89,6 +89,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.NoviCasino.Desktop.Evolution
 
 			return gameLanguages;
 		}
-
 	}
 }

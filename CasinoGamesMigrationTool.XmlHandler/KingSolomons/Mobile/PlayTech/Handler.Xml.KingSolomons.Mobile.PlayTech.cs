@@ -82,7 +82,6 @@ namespace CasinoGamesMigrationTool.XmlHandler.KingSolomons.Mobile.PlayTech
 			return games;
 		}
 
-
 		public static XmlKingSolomonsMobilePlayTechGameLanguage[] HandleGameLanguages(this XmlParser.KingSolomons.Mobile.PlayTech.XmlKingSolomonsMobilePlayTechResponse response)
 		{
 			XmlKingSolomonsMobilePlayTechGameLanguage[] games = response.Result.Root.GameLanguages.GameLanguages
@@ -99,6 +98,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.KingSolomons.Mobile.PlayTech
 
 			return games;
 		}
-
 	}
 }

@@ -88,6 +88,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Mobile.RedTiger
 
 			return gameLanguages;
 		}
-
 	}
 }

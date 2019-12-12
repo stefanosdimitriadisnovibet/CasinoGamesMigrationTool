@@ -88,6 +88,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Mobile.NYX
 
 			return gameLanguages;
 		}
-
 	}
 }

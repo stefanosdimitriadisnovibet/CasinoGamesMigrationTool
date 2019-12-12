@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CasinoGamesMigrationTool.DatabaseHandler\CasinoGamesMigrationTool.DatabaseHandler.csproj" />
     <ProjectReference Include="..\CasinoGamesMigrationTool.Domain\CasinoGamesMigrationTool.Domain.csproj" />
     <ProjectReference Include="..\CasinoGamesMigrationTool.XmlHandler\CasinoGamesMigrationTool.XmlHandler.csproj" />
     <ProjectReference Include="..\CasinoGamesMigrationTool.XmlParser\CasinoGamesMigrationTool.XmlParser.csproj" />

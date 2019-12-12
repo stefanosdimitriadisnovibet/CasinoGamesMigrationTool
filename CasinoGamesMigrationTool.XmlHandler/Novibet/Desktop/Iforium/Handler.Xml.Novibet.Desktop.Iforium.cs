@@ -89,6 +89,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Iforium
 
 			return gameLanguages;
 		}
-
 	}
 }

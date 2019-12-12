@@ -82,6 +82,5 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.ScientificGames
 
 			return gameLanguages;
 		}
-
 	}
 }
