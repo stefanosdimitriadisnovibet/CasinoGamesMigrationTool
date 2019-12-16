@@ -32,8 +32,8 @@ namespace CasinoGamesMigrationTool.XmlParser.NoviCasino.Desktop.Microgaming
 		public string CountriesBanned { get; set; }
 		[XmlAttribute(AttributeName = "helpurlpattern")]
 		public string Helpurlpattern { get; set; }
-		[XmlAttribute(AttributeName = "Desktop")]
-		public string Desktop { get; set; }
+		[XmlAttribute(AttributeName = "mobile")]
+		public string Mobile { get; set; }
 	}
 
 	[XmlRoot(ElementName = "Games")]

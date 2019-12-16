@@ -51,8 +51,8 @@ namespace CasinoGamesMigrationTool.XmlParser.KingSolomons.Desktop.PlayTech
 		[XmlAttribute(AttributeName = "source")]
 		public string Source { get; set; }
 
-		[XmlAttribute(AttributeName = "Desktop")]
-		public string Desktop { get; set; }
+		[XmlAttribute(AttributeName = "mobile")]
+		public string Mobile { get; set; }
 
 		[XmlAttribute(AttributeName = "countriesBanned")]
 		public string CountriesBanned { get; set; }

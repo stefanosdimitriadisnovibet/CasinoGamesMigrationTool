@@ -20,12 +20,11 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Evolution
 						cultures = game.Culture.Split(',');
 
 					bool isLiveSucceeded = bool.TryParse(game.Live, out bool isLive);
-					bool noRealityCheckSucceeded = bool.TryParse(game.Live, out bool noRealityCheck);
+					bool noRealityCheckSucceeded = bool.TryParse(game.Norealitycheck, out bool noRealityCheck);
 					bool noDemoPlayAllowedSucceeded = bool.TryParse(game.NoDemoPlayAllowed, out bool noDemoPlayAllowed);
 					bool systemSucceeded = int.TryParse(game.System, out int system);
 
 					if (isLiveSucceeded == false
-						|| noDemoPlayAllowedSucceeded == false
 						|| noRealityCheckSucceeded == false
 						|| systemSucceeded == false)
 					{
@@ -33,9 +32,6 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Evolution
 
 						if (isLiveSucceeded == false)
 							errorMessages.Add(nameof(isLiveSucceeded));
-
-						if (noDemoPlayAllowedSucceeded == false)
-							errorMessages.Add(nameof(noDemoPlayAllowedSucceeded));
 
 						if (noRealityCheckSucceeded == false)
 							errorMessages.Add(nameof(noRealityCheckSucceeded));

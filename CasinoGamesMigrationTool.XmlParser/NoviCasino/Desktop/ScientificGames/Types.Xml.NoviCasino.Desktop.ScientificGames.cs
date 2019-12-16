@@ -22,8 +22,8 @@ namespace CasinoGamesMigrationTool.XmlParser.NoviCasino.Desktop.ScientificGames
 		public string ProviderId { get; set; }
 		[XmlAttribute(AttributeName = "live")]
 		public string Live { get; set; }
-		[XmlAttribute(AttributeName = "Desktop")]
-		public string Desktop { get; set; }
+		[XmlAttribute(AttributeName = "mobile")]
+		public string Mobile { get; set; }
 		[XmlAttribute(AttributeName = "culture")]
 		public string Culture { get; set; }
 		[XmlAttribute(AttributeName = "source")]

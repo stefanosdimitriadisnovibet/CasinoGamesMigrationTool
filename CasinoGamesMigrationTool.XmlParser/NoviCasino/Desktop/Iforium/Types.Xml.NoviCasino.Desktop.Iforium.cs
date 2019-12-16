@@ -28,8 +28,8 @@ namespace CasinoGamesMigrationTool.XmlParser.NoviCasino.Desktop.Iforium
 		public string Culture { get; set; }
 		[XmlAttribute(AttributeName = "source")]
 		public string Source { get; set; }
-		[XmlAttribute(AttributeName = "Desktop")]
-		public string Desktop { get; set; }
+		[XmlAttribute(AttributeName = "mobile")]
+		public string Mobile { get; set; }
 		[XmlAttribute(AttributeName = "gameTypeFilter")]
 		public string GameTypeFilter { get; set; }
 		[XmlAttribute(AttributeName = "countriesBanned")]

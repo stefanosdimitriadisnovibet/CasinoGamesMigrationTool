@@ -10,7 +10,7 @@
 		public string Source { get; set; }
 		public string[] CountriesBanned { get; set; }
 		public string HelpUrlPattern { get; set; }
-		public bool IsDesktop { get; set; }
+		public bool IsMobile { get; set; }
 	}
 
 	public class XmlNoviCasinoDesktopMicrogamingJackpotGame

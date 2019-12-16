@@ -20,12 +20,12 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Iforium
 						cultures = game.Culture.Split(',');
 
 					bool isLiveSucceeded = bool.TryParse(game.Live, out bool isLive);
-					bool isDesktopSucceeded = bool.TryParse(game.Desktop, out bool isDesktop);
+					bool isMobileSucceeded = bool.TryParse(game.Mobile, out bool isMobile);
 					bool providerIdSucceeded = int.TryParse(game.ProviderId, out int providerId);
 					bool sourceSucceeded = int.TryParse(game.Source, out int source);
 
 					if (isLiveSucceeded == false
-						|| isDesktopSucceeded == false
+						|| isMobileSucceeded == false
 						|| providerIdSucceeded == false
 						|| sourceSucceeded == false)
 					{
@@ -34,8 +34,8 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Iforium
 						if (isLiveSucceeded == false)
 							errorMessages.Add(nameof(isLiveSucceeded));
 
-						if (isDesktopSucceeded == false)
-							errorMessages.Add(nameof(isDesktopSucceeded));
+						if (isMobileSucceeded == false)
+							errorMessages.Add(nameof(isMobileSucceeded));
 
 						if (providerIdSucceeded == false)
 							errorMessages.Add(nameof(providerIdSucceeded));
@@ -61,7 +61,7 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Iforium
 						Cultures = cultures,
 						Sysname = game.Id,
 						IsLive = isLive,
-						IsDesktop = isDesktop,
+						IsMobile = isMobile,
 						Id = providerId,
 						ProviderId = source,
 						Caption = game.Caption,

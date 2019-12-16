@@ -6,7 +6,7 @@
 		public string[] Cultures { get; set; }
 		public string Sysname { get; set; }
 		public bool IsLive { get; set; }
-		public bool IsDesktop { get; set; }
+		public bool IsMobile { get; set; }
 		public int ProviderId { get; set; }
 		public string Source { get; set; }
 		public bool NoDemoPlayAllowed { get; set; }

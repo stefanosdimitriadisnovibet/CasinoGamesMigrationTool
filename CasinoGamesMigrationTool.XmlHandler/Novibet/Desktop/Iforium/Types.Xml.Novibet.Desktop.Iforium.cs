@@ -8,7 +8,7 @@
 		public bool IsLive { get; set; }
 		public string[] Cultures { get; set; }
 		public int ProviderId { get; set; }
-		public bool IsDesktop { get; set; }
+		public bool IsMobile { get; set; }
 		public string TypeFilter { get; set; }
 		public string[] CountriesBanned { get; set; }
 	}

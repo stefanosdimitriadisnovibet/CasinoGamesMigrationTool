@@ -20,20 +20,12 @@ namespace CasinoGamesMigrationTool.XmlHandler.NoviCasino.Desktop.Microgaming
 						cultures = game.Culture.Split(',');
 
 					bool isLiveSucceeded = bool.TryParse(game.Live, out bool isLive);
-					bool isDesktopSucceeded = bool.TryParse(game.Desktop, out bool isDesktop);
+					bool isMobileSucceeded = bool.TryParse(game.Mobile, out bool isMobile);
 					bool providerIdSucceeded = int.TryParse(game.ProviderId, out int providerId);
 
-					if (isLiveSucceeded == false
-						|| isDesktopSucceeded == false
-						|| providerIdSucceeded == false)
+					if (providerIdSucceeded == false)
 					{
 						List<string> errorMessages = new List<string>();
-
-						if (isLiveSucceeded == false)
-							errorMessages.Add(nameof(isLiveSucceeded));
-
-						if (isDesktopSucceeded == false)
-							errorMessages.Add(nameof(isDesktopSucceeded));
 
 						if (providerIdSucceeded == false)
 							errorMessages.Add(nameof(providerIdSucceeded));
@@ -58,7 +50,7 @@ namespace CasinoGamesMigrationTool.XmlHandler.NoviCasino.Desktop.Microgaming
 						Type = game.Type,
 						Sysname = game.Id,
 						IsLive = isLive,
-						IsDesktop = isDesktop,
+						IsMobile = isMobile,
 						Id = providerId,
 						Source = game.Source
 					};

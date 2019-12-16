@@ -5,7 +5,7 @@
 		public string Sysname { get; set; }
 		public int Id { get; set; }
 		public bool IsLive { get; set; }
-		public bool IsDesktop { get; set; }
+		public bool IsMobile { get; set; }
 		public string[] Cultures { get; set; }
 		public string Source { get; set; }
 		public string[] CountriesBanned { get; set; }

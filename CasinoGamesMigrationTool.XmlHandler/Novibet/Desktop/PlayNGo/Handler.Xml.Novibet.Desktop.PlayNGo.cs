@@ -20,11 +20,11 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.PlayNGo
 						cultures = game.Culture.Split(',');
 
 					bool isLiveSucceeded = bool.TryParse(game.Live, out bool isLive);
-					bool isDesktopSucceeded = bool.TryParse(game.Desktop, out bool isDesktop);
+					bool isMobileSucceeded = bool.TryParse(game.Mobile, out bool isMobile);
 					bool providerIdSucceeded = int.TryParse(game.ProviderId, out int providerId);
 
 					if (isLiveSucceeded == false
-						|| isDesktopSucceeded == false
+						|| isMobileSucceeded == false
 						|| providerIdSucceeded == false)
 					{
 						List<string> errorMessages = new List<string>();
@@ -32,8 +32,8 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.PlayNGo
 						if (isLiveSucceeded == false)
 							errorMessages.Add(nameof(isLiveSucceeded));
 
-						if (isDesktopSucceeded == false)
-							errorMessages.Add(nameof(isDesktopSucceeded));
+						if (isMobileSucceeded == false)
+							errorMessages.Add(nameof(isMobileSucceeded));
 
 						if (providerIdSucceeded == false)
 							errorMessages.Add(nameof(providerIdSucceeded));
@@ -56,7 +56,7 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.PlayNGo
 						Cultures = cultures,
 						Sysname = game.Id,
 						IsLive = isLive,
-						IsDesktop = isDesktop,
+						IsMobile = isMobile,
 						Id = providerId,
 						ProviderSysname = game.Source
 					};

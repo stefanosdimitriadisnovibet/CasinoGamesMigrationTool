@@ -23,17 +23,9 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Desktop.Microgaming
 					bool isDesktopSucceeded = bool.TryParse(game.Desktop, out bool isDesktop);
 					bool providerIdSucceeded = int.TryParse(game.ProviderId, out int providerId);
 
-					if (isLiveSucceeded == false
-						|| isDesktopSucceeded == false
-						|| providerIdSucceeded == false)
+					if (providerIdSucceeded == false)
 					{
 						List<string> errorMessages = new List<string>();
-
-						if (isLiveSucceeded == false)
-							errorMessages.Add(nameof(isLiveSucceeded));
-
-						if (isDesktopSucceeded == false)
-							errorMessages.Add(nameof(isDesktopSucceeded));
 
 						if (providerIdSucceeded == false)
 							errorMessages.Add(nameof(providerIdSucceeded));

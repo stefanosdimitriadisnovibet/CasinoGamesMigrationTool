@@ -25,7 +25,6 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Mobile.Evolution
 					bool systemSucceeded = int.TryParse(game.System, out int system);
 
 					if (isLiveSucceeded == false
-						|| noDemoPlayAllowedSucceeded == false
 						|| noRealityCheckSucceeded == false
 						|| systemSucceeded == false)
 					{
@@ -33,9 +32,6 @@ namespace CasinoGamesMigrationTool.XmlHandler.Novibet.Mobile.Evolution
 
 						if (isLiveSucceeded == false)
 							errorMessages.Add(nameof(isLiveSucceeded));
-
-						if (noDemoPlayAllowedSucceeded == false)
-							errorMessages.Add(nameof(noDemoPlayAllowedSucceeded));
 
 						if (noRealityCheckSucceeded == false)
 							errorMessages.Add(nameof(noRealityCheckSucceeded));
