@@ -63,8 +63,10 @@ using CasinoGamesMigrationTool.XmlParser.NoviCasino.Mobile.Iforium;
 using CasinoGamesMigrationTool.XmlParser.NoviCasino.Mobile.Microgaming;
 using CasinoGamesMigrationTool.XmlParser.NoviCasino.Mobile.NetEnt;
 using CasinoGamesMigrationTool.XmlParser.NoviCasino.Mobile.ScientificGames;
-using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace CasinoGamesMigrationTool
 {
@@ -81,7 +83,7 @@ namespace CasinoGamesMigrationTool
 
 			XmlHandler.KingSolomons.Desktop.PlayTech.XmlKingSolomonsDesktopPlayTechGame[] xmlKingSolomonsDesktopPlayTechGames = xmlKingSolomonsDesktopPlayTechResponse.HandleGames();
 			XmlHandler.KingSolomons.Desktop.PlayTech.XmlKingSolomonsDesktopPlayTechGameLanguages[] xmlKingSolomonsDesktopPlayTechGameLanguages = xmlKingSolomonsDesktopPlayTechResponse.HandleGameLanguages();
-			XmlHandler.KingSolomons.Desktop.PlayTech.XmlKingSolomonsDesktopPlayTechJackpotGame[] xmlKingSolomonsDesktopPlayTechJackpotGames = xmlKingSolomonsDesktopPlayTechResponse.HandleJacktopGames();
+			//XmlHandler.KingSolomons.Desktop.PlayTech.XmlKingSolomonsDesktopPlayTechJackpotGame[] xmlKingSolomonsDesktopPlayTechJackpotGames = xmlKingSolomonsDesktopPlayTechResponse.HandleJacktopGames();
 			#endregion Desktop
 
 			#region Mobile
@@ -89,7 +91,7 @@ namespace CasinoGamesMigrationTool
 
 			XmlHandler.KingSolomons.Mobile.PlayTech.XmlKingSolomonsMobilePlayTechGame[] xmlKingSolomonsMobilePlayTechGames = xmlKingSolomonsMobilePlayTechResponse.HandleGames();
 			XmlHandler.KingSolomons.Mobile.PlayTech.XmlKingSolomonsMobilePlayTechGameLanguage[] xmlKingSolomonsMobilePlayTechGameLanguages = xmlKingSolomonsMobilePlayTechResponse.HandleGameLanguages();
-			XmlHandler.KingSolomons.Mobile.PlayTech.XmlKingSolomonsMobilePlayTechJackpotGame[] xmlKingSolomonsMobilePlayTechJackpotGames = xmlKingSolomonsMobilePlayTechResponse.HandleJackpotGames();
+			//XmlHandler.KingSolomons.Mobile.PlayTech.XmlKingSolomonsMobilePlayTechJackpotGame[] xmlKingSolomonsMobilePlayTechJackpotGames = xmlKingSolomonsMobilePlayTechResponse.HandleJackpotGames();
 			#endregion Mobile
 
 			#endregion KingSolomons
@@ -111,13 +113,13 @@ namespace CasinoGamesMigrationTool
 
 			XmlHandler.NoviCasino.Desktop.Microgaming.XmlNoviCasinoDesktopMicrogamingGame[] xmlNoviCasinoDesktopMicrogamingGames = xmlNoviCasinoDesktopMicrogamingResponse.HandleGames();
 			XmlHandler.NoviCasino.Desktop.Microgaming.XmlNoviCasinoDesktopMicrogamingGameLanguages[] xmlNoviCasinoDesktopMicrogamingGameLanguages = xmlNoviCasinoDesktopMicrogamingResponse.HandleGameLanguages();
-			XmlHandler.NoviCasino.Desktop.Microgaming.XmlNoviCasinoDesktopMicrogamingJackpotGame[] xmlNoviCasinoDesktopMicrogamingJackpotGamesx = xmlNoviCasinoDesktopMicrogamingResponse.HandleJacktopGames();
+			//XmlHandler.NoviCasino.Desktop.Microgaming.XmlNoviCasinoDesktopMicrogamingJackpotGame[] xmlNoviCasinoDesktopMicrogamingJackpotGames = xmlNoviCasinoDesktopMicrogamingResponse.HandleJacktopGames();
 
 			XmlNoviCasinoDesktopNetEntResponse xmlNoviCasinoDesktopNetEntResponse = XmlNoviCasinoDesktopNetEntParser.ParseXml();
 
 			XmlHandler.NoviCasino.Desktop.NetEnt.XmlNoviCasinoDesktopNetEntGame[] xmlNoviCasinoDesktopNetEntGames = xmlNoviCasinoDesktopNetEntResponse.HandleGames();
 			XmlHandler.NoviCasino.Desktop.NetEnt.XmlNoviCasinoDesktopNetEntGameLanguages[] xmlNoviCasinoDesktopNetEntGameLanguages = xmlNoviCasinoDesktopNetEntResponse.HandleGameLanguages();
-			XmlHandler.NoviCasino.Desktop.NetEnt.XmlNoviCasinoDesktopNetEntJackpotGame[] xmlNoviCasinoDesktopNetEntJackpotGames = xmlNoviCasinoDesktopNetEntResponse.HandleJacktopGames();
+			//XmlHandler.NoviCasino.Desktop.NetEnt.XmlNoviCasinoDesktopNetEntJackpotGame[] xmlNoviCasinoDesktopNetEntJackpotGames = xmlNoviCasinoDesktopNetEntResponse.HandleJacktopGames();
 
 			XmlNoviCasinoDesktopScientificGamesResponse xmlNoviCasinoDesktopScientificGamesResponse = XmlNoviCasinoDesktopScientificGamesParser.ParseXml();
 
@@ -140,7 +142,7 @@ namespace CasinoGamesMigrationTool
 
 			XmlHandler.NoviCasino.Mobile.Microgaming.XmlNoviCasinoMobileMicrogamingGame[] xmlNoviCasinoMobileMicrogamingGames = xmlNoviCasinoMobileMicrogamingResponse.HandleGames();
 			XmlHandler.NoviCasino.Mobile.Microgaming.XmlNoviCasinoMobileMicrogamingGameLanguages[] xmlNoviCasinoMobileMicrogamingGameLanguages = xmlNoviCasinoMobileMicrogamingResponse.HandleGameLanguages();
-			XmlHandler.NoviCasino.Mobile.Microgaming.XmlNoviCasinoMobileMicrogamingJackpotGame[] xmlNoviCasinoMobileMicrogamingJackpotGamesx = xmlNoviCasinoMobileMicrogamingResponse.HandleJacktopGames();
+			//XmlHandler.NoviCasino.Mobile.Microgaming.XmlNoviCasinoMobileMicrogamingJackpotGame[] xmlNoviCasinoMobileMicrogamingJackpotGames = xmlNoviCasinoMobileMicrogamingResponse.HandleJacktopGames();
 
 			XmlNoviCasinoMobileNetEntResponse xmlNoviCasinoMobileNetEntResponse = XmlNoviCasinoMobileNetEntParser.ParseXml();
 
@@ -177,13 +179,13 @@ namespace CasinoGamesMigrationTool
 
 			XmlHandler.Novibet.Desktop.Microgaming.XmlNovibetDesktopMicrogamingGame[] xmlNovibetDesktopMicrogamingGames = xmlNovibetDesktopMicrogamingResponse.HandleGames();
 			XmlHandler.Novibet.Desktop.Microgaming.XmlNovibetDesktopMicrogamingGameLanguages[] xmlNovibetDesktopMicrogamingGameLanguages = xmlNovibetDesktopMicrogamingResponse.HandleGameLanguages();
-			XmlHandler.Novibet.Desktop.Microgaming.XmlNovibetDesktopMicrogamingJackpotGame[] xmlNovibetDesktopMicrogamingJackpotGames = xmlNovibetDesktopMicrogamingResponse.HandleJacktopGames();
+			//XmlHandler.Novibet.Desktop.Microgaming.XmlNovibetDesktopMicrogamingJackpotGame[] xmlNovibetDesktopMicrogamingJackpotGames = xmlNovibetDesktopMicrogamingResponse.HandleJacktopGames();
 
 			XmlNovibetDesktopNetEntResponse xmlNovibetDesktopNetEntResponse = XmlNovibetDesktopNetEntParser.ParseXml();
 
 			XmlHandler.Novibet.Desktop.NetEnt.XmlNovibetDesktopNetEntGame[] xmlNovibetDesktopNetEntGames = xmlNovibetDesktopNetEntResponse.HandleGames();
 			XmlHandler.Novibet.Desktop.NetEnt.XmlNovibetDesktopNetEntGameLanguages[] xmlNovibetDesktopNetEntGameLanguages = xmlNovibetDesktopNetEntResponse.HandleGameLanguages();
-			XmlHandler.Novibet.Desktop.NetEnt.XmlNovibetDesktopNetEntJackpotGame[] xmlNovibetDesktopNetEntJackpotGames = xmlNovibetDesktopNetEntResponse.HandleJacktopGames();
+			//XmlHandler.Novibet.Desktop.NetEnt.XmlNovibetDesktopNetEntJackpotGame[] xmlNovibetDesktopNetEntJackpotGames = xmlNovibetDesktopNetEntResponse.HandleJacktopGames();
 
 			XmlNovibetDesktopNYXResponse xmlNovibetDesktopNYXResponse = XmlNovibetDesktopNYXParser.ParseXml();
 
@@ -227,7 +229,7 @@ namespace CasinoGamesMigrationTool
 
 			XmlHandler.Novibet.Mobile.Microgaming.XmlNovibetMobileMicrogamingGame[] xmlNovibetMobileMicrogamingGames = xmlNovibetMobileMicrogamingResponse.HandleGames();
 			XmlHandler.Novibet.Mobile.Microgaming.XmlNovibetMobileMicrogamingGameLanguages[] xmlNovibetMobileMicrogamingGameLanguages = xmlNovibetMobileMicrogamingResponse.HandleGameLanguages();
-			XmlHandler.Novibet.Mobile.Microgaming.XmlNovibetMobileMicrogamingJackpotGame[] xmlNovibetMobileMicrogamingJackpotGames = xmlNovibetMobileMicrogamingResponse.HandleJacktopGames();
+			//XmlHandler.Novibet.Mobile.Microgaming.XmlNovibetMobileMicrogamingJackpotGame[] xmlNovibetMobileMicrogamingJackpotGames = xmlNovibetMobileMicrogamingResponse.HandleJacktopGames();
 
 			XmlNovibetMobileNetEntResponse xmlNovibetMobileNetEntResponse = XmlNovibetMobileNetEntParser.ParseXml();
 
@@ -285,9 +287,77 @@ namespace CasinoGamesMigrationTool
 
 			#endregion Database
 
-			Console.WriteLine("Application ended...");
-			Console.WriteLine("Close the application");
-			Console.ReadLine();
+			WriteLine($"Total games in database: [{games.Count()}]");
+
+			IEnumerable<string> xmlKingSolomonsDesktopPlayTechGameSysnames = xmlKingSolomonsDesktopPlayTechGames.Select(xmlKingSolomonsDesktopPlayTechGame => xmlKingSolomonsDesktopPlayTechGame.Sysname);
+			//IEnumerable<string> xmlKingSolomonsDesktopPlayTechJackpotGameSysnames = xmlKingSolomonsDesktopPlayTechJackpotGames.Select(xmlKingSolomonsDesktopPlayTechJackpotGame => xmlKingSolomonsDesktopPlayTechJackpotGame.Sysname);
+
+			IEnumerable<string> xmlKingSolomonsMobilePlayTechGameSysnames = xmlKingSolomonsMobilePlayTechGames.Select(xmlKingSolomonsMobilePlayTechGame => xmlKingSolomonsMobilePlayTechGame.Sysname);
+			//IEnumerable<string> xmlKingSolomonsMobilePlayTechJackpotGameSysnames = xmlKingSolomonsMobilePlayTechJackpotGames.Select(xmlKingSolomonsMobilePlayTechJackpotGame => xmlKingSolomonsMobilePlayTechJackpotGame.Sysname);
+
+			IEnumerable<string> xmlNoviCasinoDesktopEvolutionGameSysnames = xmlNoviCasinoDesktopEvolutionGames.Select(xmlNoviCasinoDesktopEvolutionGame => xmlNoviCasinoDesktopEvolutionGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoDesktopIforiumGameSysnames = xmlNoviCasinoDesktopIforiumGames.Select(xmlNoviCasinoDesktopIforiumGame => xmlNoviCasinoDesktopIforiumGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoDesktopMicrogamingGameSysnames = xmlNoviCasinoDesktopMicrogamingGames.Select(xmlNoviCasinoDesktopMicrogamingGame => xmlNoviCasinoDesktopMicrogamingGame.Sysname);
+			//IEnumerable<string> xmlNoviCasinoDesktopMicrogamingJackpotGameSysnames = xmlNoviCasinoDesktopMicrogamingJackpotGames.Select(xmlNoviCasinoDesktopMicrogamingJackpotGame => xmlNoviCasinoDesktopMicrogamingJackpotGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoDesktopNetEntGameSysnames = xmlNoviCasinoDesktopNetEntGames.Select(xmlNoviCasinoDesktopNetEntGame => xmlNoviCasinoDesktopNetEntGame.Sysname);
+			//IEnumerable<string> xmlNoviCasinoDesktopNetEntJackpotGameSysnames = xmlNoviCasinoDesktopNetEntJackpotGames.Select(xmlNoviCasinoDesktopNetEntJackpotGame => xmlNoviCasinoDesktopNetEntJackpotGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoDesktopScientificGameSysnames = xmlNoviCasinoDesktopScientificGames.Select(xmlNoviCasinoDesktopScientificGame => xmlNoviCasinoDesktopScientificGame.Sysname);
+
+			IEnumerable<string> xmlNoviCasinoMobileEvolutionGameSysnames = xmlNoviCasinoMobileEvolutionGames.Select(xmlNoviCasinoMobileEvolutionGame => xmlNoviCasinoMobileEvolutionGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoMobileIforiumGameSysnames = xmlNoviCasinoMobileIforiumGames.Select(xmlNoviCasinoMobileIforiumGame => xmlNoviCasinoMobileIforiumGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoMobileMicrogamingGameSysnames = xmlNoviCasinoMobileMicrogamingGames.Select(xmlNoviCasinoMobileMicrogamingGame => xmlNoviCasinoMobileMicrogamingGame.Sysname);
+			//IEnumerable<string> xmlNoviCasinoMobileMicrogamingJackpotGameSysnames = xmlNoviCasinoMobileMicrogamingJackpotGames.Select(xmlNoviCasinoMobileMicrogamingJackpotGame => xmlNoviCasinoMobileMicrogamingJackpotGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoMobileNetEntGameSysnames = xmlNoviCasinoMobileNetEntGames.Select(xmlNoviCasinoMobileNetEntGame => xmlNoviCasinoMobileNetEntGame.Sysname);
+			IEnumerable<string> xmlNoviCasinoMobileScientificGameSysnames = xmlNoviCasinoMobileScientificGames.Select(xmlNoviCasinoMobileScientificGame => xmlNoviCasinoMobileScientificGame.Sysname);
+
+			IEnumerable<string> xmlNovibetDesktopEdictGameSysnames = xmlNovibetDesktopEdictGames.Select(xmlNovibetDesktopEdictGame => xmlNovibetDesktopEdictGame.Sysname);
+			IEnumerable<string> xmlNovibetDesktopEvolutionGameSysnames = xmlNovibetDesktopEvolutionGames.Select(xmlNovibetDesktopEvolutionGame => xmlNovibetDesktopEvolutionGame.Sysname);
+			IEnumerable<string> xmlNovibetDesktopIforiumGameSysnames = xmlNovibetDesktopIforiumGames.Select(xmlNovibetDesktopIforiumGame => xmlNovibetDesktopIforiumGame.Sysname);
+			IEnumerable<string> xmlNovibetDesktopMicrogamingGameSysnames = xmlNovibetDesktopMicrogamingGames.Select(xmlNovibetDesktopMicrogamingGame => xmlNovibetDesktopMicrogamingGame.Sysname);
+			//IEnumerable<string> xmlNovibetDesktopMicrogamingJackpotGameSysnames = xmlNovibetDesktopMicrogamingJackpotGames.Select(xmlNovibetDesktopMicrogamingJackpotGame => xmlNovibetDesktopMicrogamingJackpotGame.Sysname);
+			IEnumerable<string> xmlNovibetDesktopNYXGameSysnames = xmlNovibetDesktopNYXGames.Select(xmlNovibetDesktopNYXGame => xmlNovibetDesktopNYXGame.Sysname);
+			IEnumerable<string> xmlNovibetDesktopPlayNGoGameSysnames = xmlNovibetDesktopPlayNGoGames.Select(xmlNovibetDesktopPlayNGoGame => xmlNovibetDesktopPlayNGoGame.Sysname);
+			IEnumerable<string> xmlNovibetDesktopRedTigerGameSysnames = xmlNovibetDesktopRedTigerGames.Select(xmlNovibetDesktopRedTigerGame => xmlNovibetDesktopRedTigerGame.Sysname);
+			IEnumerable<string> xmlNovibetDesktopScientificGamesGameSysnames = xmlNovibetDesktopScientificGamesGames.Select(xmlNovibetDesktopScientificGamesGame => xmlNovibetDesktopScientificGamesGame.Sysname);
+
+			IEnumerable<string> xmlSysnames = xmlKingSolomonsDesktopPlayTechGameSysnames
+				//.Union(xmlKingSolomonsDesktopPlayTechJackpotGameSysnames)
+				.Union(xmlKingSolomonsMobilePlayTechGameSysnames)
+				//.Union(xmlKingSolomonsMobilePlayTechJackpotGameSysnames)
+				.Union(xmlNoviCasinoDesktopEvolutionGameSysnames)
+				.Union(xmlNoviCasinoDesktopIforiumGameSysnames)
+				.Union(xmlNoviCasinoDesktopMicrogamingGameSysnames)
+				//.Union(xmlNoviCasinoDesktopMicrogamingJackpotGameSysnames)
+				.Union(xmlNoviCasinoDesktopNetEntGameSysnames)
+				//.Union(xmlNoviCasinoDesktopNetEntJackpotGameSysnames)
+				.Union(xmlNoviCasinoDesktopScientificGameSysnames)
+				.Union(xmlNoviCasinoMobileEvolutionGameSysnames)
+				.Union(xmlNoviCasinoMobileIforiumGameSysnames)
+				.Union(xmlNoviCasinoMobileMicrogamingGameSysnames)
+				//.Union(xmlNoviCasinoMobileMicrogamingJackpotGameSysnames)
+				.Union(xmlNoviCasinoMobileNetEntGameSysnames)
+				.Union(xmlNoviCasinoMobileScientificGameSysnames)
+				.Union(xmlNovibetDesktopEdictGameSysnames)
+				.Union(xmlNovibetDesktopEvolutionGameSysnames)
+				.Union(xmlNovibetDesktopIforiumGameSysnames)
+				.Union(xmlNovibetDesktopMicrogamingGameSysnames)
+				//.Union(xmlNovibetDesktopMicrogamingJackpotGameSysnames)
+				.Union(xmlNovibetDesktopNYXGameSysnames)
+				.Union(xmlNovibetDesktopPlayNGoGameSysnames)
+				.Union(xmlNovibetDesktopRedTigerGameSysnames)
+				.Union(xmlNovibetDesktopScientificGamesGameSysnames);
+
+			WriteLine($"Total games in xml files: [{xmlSysnames.Count()}]");
+
+			IEnumerable<string> gameSysnamesExistingInDatabaseButNotInXmls = games
+				.Select(game => game.Caption)
+				.Except(xmlSysnames);
+
+			WriteLine($"Total games in database and not in xml files: [{gameSysnamesExistingInDatabaseButNotInXmls.Count()}]");
+
+			WriteLine("Application ended...");
+			WriteLine("Close the application");
+			ReadLine();
 
 			return Task.CompletedTask;
 		}

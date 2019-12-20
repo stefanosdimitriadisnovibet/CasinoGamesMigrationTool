@@ -8,7 +8,7 @@
 		public string Sysname { get; set; }
 		public bool IsLive { get; set; }
 		public bool IsMobile { get; set; }
-		public int ProviderId { get; set; }
+		public int Id { get; set; }
 		public string Source { get; set; }
 	}
 

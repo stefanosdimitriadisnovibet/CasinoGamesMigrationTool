@@ -58,7 +58,7 @@ namespace CasinoGamesMigrationTool.XmlHandler.KingSolomons.Desktop.PlayTech
 						Sysname = game.Id,
 						IsLive = isLive,
 						IsMobile = isMobile,
-						ProviderId = providerId,
+						Id = providerId,
 						Source = game.Source
 					};
 				})
