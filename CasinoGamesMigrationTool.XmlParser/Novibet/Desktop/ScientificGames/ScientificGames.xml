@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Root>
 	<Games>
-		<!-- Mobile GAMES -->
+		<!-- DESKTOP GAMES -->
 		<Game id="SG_actionbank_prt" providerId="3203" live="false" mobile="true" culture="en-US,el-GR" source="https://lon-resource.wimobile.casinarena.com/resource-service/game.html?partnercode={PARTNERCODE}&amp;game=actionbank_prt&amp;context=default&amp;locale={LANG}&amp;realmoney={REALMONEY}&amp;partnerticket={TOKEN}&amp;partneraccountid={PROFILEID}" countriesBanned="AU" />
 		<Game id="SG_amazonqueen_prt" providerId="3205" live="false" mobile="true" culture="en-US,el-GR" source="https://lon-resource.wimobile.casinarena.com/resource-service/game.html?partnercode={PARTNERCODE}&amp;game=amazonqueen_prt&amp;context=default&amp;locale={LANG}&amp;realmoney={REALMONEY}&amp;partnerticket={TOKEN}&amp;partneraccountid={PROFILEID}" countriesBanned="AU" />
 		<Game id="SG_barkinmad" providerId="3009" live="false" culture="en-US,de-DE" source="https://games.lon.casinarena.com/casinomatrix/matrix.html?partnerCode={PARTNERCODE}&amp;gamecode=barkinmad&amp;context=default&amp;locale={LANG}&amp;realmoney={REALMONEY}&amp;ticket={TOKEN}&amp;accountId={PROFILEID}" countriesBanned="AU" />

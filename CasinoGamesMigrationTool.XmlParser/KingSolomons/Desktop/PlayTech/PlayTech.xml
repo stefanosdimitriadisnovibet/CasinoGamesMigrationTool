@@ -8,202 +8,202 @@
 		<Game id="PT_jb" providerId="8004" live="false" culture="en-US,el-GR" source="jb" mobile="false" countriesBanned=""/>
 		<Game id="PT_8bs" providerId="8005" live="false" culture="en-US,el-GR" source="8bs" mobile="false" countriesBanned=""/>
 		<Game id="PT_pl" providerId="8006" live="false" culture="en-US,el-GR" source="pl" mobile="false" countriesBanned=""/>
-		<Game id="PT_fm" providerId="8007" live="false" culture="en-US,el-GR" source="fm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_fm" providerId="8007" live="false" culture="en-US,el-GR" source="fm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_hr" providerId="8008" live="false" culture="en-US,el-GR" source="hr" mobile="false" countriesBanned=""/>
-		<Game id="PT_pmn" providerId="8009" live="false" culture="en-US,el-GR" source="pmn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_pmn" providerId="8009" live="false" culture="en-US,el-GR" source="pmn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_bowl" providerId="8010" live="false" culture="en-US,el-GR" source="bowl" mobile="false" countriesBanned=""/>
-		<Game id="PT_ashjah" providerId="8011" live="false" culture="en-US,el-GR" source="ashjah" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_sib" providerId="8012" live="false" culture="en-US,el-GR" source="sib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashjah" providerId="8011" live="false" culture="en-US,el-GR" source="ashjah" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_sib" providerId="8012" live="false" culture="en-US,el-GR" source="sib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_ges" providerId="8013" live="false" culture="en-US,el-GR" source="ges" mobile="true" countriesBanned=""/>
 		<Game id="PT_fff" providerId="8014" live="false" culture="en-US,el-GR" source="fff" mobile="true" countriesBanned=""/>
 		<Game id="PT_cheaa" providerId="8015" live="false" culture="en-US,el-GR" source="cheaa" mobile="true" countriesBanned=""/>
 		<Game id="PT_lwh" providerId="8016" live="false" culture="en-US,el-GR" source="lwh" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsje" providerId="8017" live="false" culture="en-US,el-GR" source="gtsje" mobile="true" countriesBanned=""/>
 		<Game id="PT_tht" providerId="8018" live="false" culture="en-US,el-GR" source="tht" mobile="true" countriesBanned=""/>
-		<Game id="PT_ctiv" providerId="8021" live="false" culture="en-US,el-GR" source="ctiv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_zcjbjp" providerId="8023" live="false" culture="en-US,el-GR" source="zcjbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_jbells" providerId="8027" live="false" culture="en-US,el-GR" source="jbells" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_jnglg" providerId="8028" live="false" culture="en-US,el-GR" source="jnglg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_gemheat" providerId="8029" live="false" culture="en-US,el-GR" source="gemheat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_batbeg" providerId="8030" live="false" culture="en-US,el-GR" source="batbeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_tor" providerId="8031" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="tor" mobile="true" countriesBanned=""/>
-		<Game id="PT_tmoz" providerId="8032" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="tmoz" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashabw" providerId="8033" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="ashabw" mobile="true" countriesBanned=""/>
-		<Game id="PT_dvncv" providerId="8034" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="dvncv" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashtmd" providerId="8035" live="false" culture="en-US,el-GR" source="ashtmd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_drgch" providerId="8036" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="drgch" mobile="true" countriesBanned=""/>
+		<Game id="PT_ctiv" providerId="8021" live="false" culture="en-US,el-GR" source="ctiv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_zcjbjp" providerId="8023" live="false" culture="en-US,el-GR" source="zcjbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_jbells" providerId="8027" live="false" culture="en-US,el-GR" source="jbells" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_jnglg" providerId="8028" live="false" culture="en-US,el-GR" source="jnglg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_gemheat" providerId="8029" live="false" culture="en-US,el-GR" source="gemheat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_batbeg" providerId="8030" live="false" culture="en-US,el-GR" source="batbeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_tor" providerId="8031" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="tor" mobile="true" countriesBanned=""/>
+		<Game id="PT_tmoz" providerId="8032" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="tmoz" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashabw" providerId="8033" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="ashabw" mobile="true" countriesBanned=""/>
+		<Game id="PT_dvncv" providerId="8034" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="dvncv" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashtmd" providerId="8035" live="false" culture="en-US,el-GR" source="ashtmd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_drgch" providerId="8036" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="drgch" mobile="true" countriesBanned=""/>
 		<Game id="PT_drgro" providerId="8037" live="false" culture="en-US,el-GR" source="drgro" mobile="true" countriesBanned=""/>
-		<Game id="PT_fdtro" providerId="8038" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="fdtro" mobile="true" countriesBanned=""/>
-		<Game id="PT_bjll" providerId="8039" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="bjll" mobile="true" countriesBanned=""/>
+		<Game id="PT_fdtro" providerId="8038" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="fdtro" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjll" providerId="8039" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="bjll" mobile="true" countriesBanned=""/>
 		<Game id="PT_ms" providerId="8040" live="false" culture="en-US,el-GR" source="ms" mobile="false" countriesBanned=""/>
-		<Game id="PT_bvs" providerId="8041" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="bvs" mobile="true" countriesBanned=""/>
-		<Game id="PT_jla" providerId="8042" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="jla" mobile="true" countriesBanned=""/>
-		<Game id="PT_phot" providerId="8051" live="false" culture="en-US,el-GR" source="phot" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_mtrx" providerId="8058" live="false" culture="en-US,el-GR" source="mtrx" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_rosup" providerId="8061" live="false" culture="en-US,el-GR" source="rosup" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_murder" providerId="8062" live="false" culture="en-US,el-GR" source="murder" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_scrdstns" providerId="8063" live="false" culture="en-US,el-GR" source="scrdstns" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_upgdm" providerId="8065" live="false" culture="en-US,el-GR" source="upgdm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_agoeg" providerId="8066" live="false" culture="en-US,el-GR" source="agoeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_grbjp" providerId="8067" live="false" culture="en-US,el-GR" source="grbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_mwilds" providerId="8068" live="false" culture="en-US,el-GR" source="mwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_aogrots" providerId="8069" live="false" culture="en-US,el-GR" source="aogrots" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_epa" providerId="8070" live="false" culture="en-US,el-GR" source="epa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_popc" providerId="8077" live="false" culture="en-US,el-GR" source="popc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_pisa" providerId="8078" live="false" culture="en-US,el-GR" source="pisa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_roos" providerId="8079" live="false" culture="en-US,el-GR" source="roos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_thedk" providerId="8080" live="false" culture="en-US,el-GR" source="thedk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_tege" providerId="8081" live="false" culture="en-US,el-GR" source="tege" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_toptf" providerId="8082" live="false" culture="en-US,el-GR" source="toptf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_astrob" providerId="8083" live="false" culture="en-US,el-GR" source="astrob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bjsd2" providerId="8084" live="false" culture="en-US,el-GR" source="bjsd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_rrd" providerId="8085" live="false" culture="en-US,el-GR" source="rrd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_sbro" providerId="8086" live="false" culture="en-US,el-GR" source="sbro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_thedkr" providerId="8087" live="false" culture="en-US,el-GR" source="thedkr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_www" providerId="8088" live="false" culture="en-US,el-GR" source="www" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_nian" providerId="8129" live="false" culture="en-US,el-GR" source="nian" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_cnpr" providerId="8145" live="false" culture="en-US,el-GR" source="cnpr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_zeus" providerId="8148" live="false" culture="en-US,el-GR" source="zeus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_grel" providerId="8151" live="false" culture="en-US,el-GR" source="grel" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_lndg" providerId="8164" live="false" culture="en-US,el-GR" source="lndg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bvs" providerId="8041" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="bvs" mobile="true" countriesBanned=""/>
+		<Game id="PT_jla" providerId="8042" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="jla" mobile="true" countriesBanned=""/>
+		<Game id="PT_phot" providerId="8051" live="false" culture="en-US,el-GR" source="phot" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_mtrx" providerId="8058" live="false" culture="en-US,el-GR" source="mtrx" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_rosup" providerId="8061" live="false" culture="en-US,el-GR" source="rosup" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_murder" providerId="8062" live="false" culture="en-US,el-GR" source="murder" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_scrdstns" providerId="8063" live="false" culture="en-US,el-GR" source="scrdstns" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_upgdm" providerId="8065" live="false" culture="en-US,el-GR" source="upgdm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_agoeg" providerId="8066" live="false" culture="en-US,el-GR" source="agoeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_grbjp" providerId="8067" live="false" culture="en-US,el-GR" source="grbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_mwilds" providerId="8068" live="false" culture="en-US,el-GR" source="mwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_aogrots" providerId="8069" live="false" culture="en-US,el-GR" source="aogrots" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_epa" providerId="8070" live="false" culture="en-US,el-GR" source="epa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_popc" providerId="8077" live="false" culture="en-US,el-GR" source="popc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_pisa" providerId="8078" live="false" culture="en-US,el-GR" source="pisa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_roos" providerId="8079" live="false" culture="en-US,el-GR" source="roos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_thedk" providerId="8080" live="false" culture="en-US,el-GR" source="thedk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_tege" providerId="8081" live="false" culture="en-US,el-GR" source="tege" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_toptf" providerId="8082" live="false" culture="en-US,el-GR" source="toptf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_astrob" providerId="8083" live="false" culture="en-US,el-GR" source="astrob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjsd2" providerId="8084" live="false" culture="en-US,el-GR" source="bjsd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_rrd" providerId="8085" live="false" culture="en-US,el-GR" source="rrd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_sbro" providerId="8086" live="false" culture="en-US,el-GR" source="sbro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_thedkr" providerId="8087" live="false" culture="en-US,el-GR" source="thedkr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_www" providerId="8088" live="false" culture="en-US,el-GR" source="www" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_nian" providerId="8129" live="false" culture="en-US,el-GR" source="nian" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_cnpr" providerId="8145" live="false" culture="en-US,el-GR" source="cnpr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_zeus" providerId="8148" live="false" culture="en-US,el-GR" source="zeus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_grel" providerId="8151" live="false" culture="en-US,el-GR" source="grel" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_lndg" providerId="8164" live="false" culture="en-US,el-GR" source="lndg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gs" providerId="8256" live="false" culture="en-US,el-GR" source="gs" mobile="false" countriesBanned=""/>
-		<Game id="PT_strsawk" providerId="8448" live="false" culture="en-US,el-GR" source="strsawk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashtkp2" providerId="8449" live="false" culture="en-US,el-GR" source="ashtkp2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_wildb" providerId="8450" live="false" culture="en-US,el-GR" source="wildb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bjbu" providerId="8452" live="false" culture="en-US,el-GR" source="bjbu" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<!--<Game id="PT_ashhlg" providerId="8453" live="false" culture="en-US,el-GR" source="ashhlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>-->
-		<Game id="PT_rbcp" providerId="8454" live="false" culture="en-US,el-GR" source="rbcp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_aeolus" providerId="8455" live="false" culture="en-US,el-GR" source="aeolus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_amdad" providerId="8456" live="false" culture="en-US,el-GR" source="amdad" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_presrol" providerId="8457" live="false" culture="en-US,el-GR" source="presrol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashfgf" providerId="8458" live="false" culture="en-US,el-GR" source="ashfgf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_roarw" providerId="8459" live="false" culture="en-US,el-GR" source="roarw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashfof" providerId="8460" live="false" culture="en-US,el-GR" source="ashfof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_supman2" providerId="8461" live="false" culture="en-US,el-GR" source="supman2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_supman" providerId="8462" live="false" culture="en-US,el-GR" source="supman" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bjcb" providerId="8463" live="false" culture="en-US,el-GR" source="bjcb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bjto_sh" providerId="8465" live="false" culture="en-US,el-GR" source="bjto_sh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_db1000ro" providerId="8467" live="false" culture="en-US,el-GR" source="db1000ro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_manos" providerId="8468" live="false" culture="en-US,el-GR" source="manos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_grnlt" providerId="8469" live="false" culture="en-US,el-GR" source="grnlt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_batpen" providerId="8470" live="false" culture="en-US,el-GR" source="batpen" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_batfree" providerId="8471" live="false" culture="en-US,el-GR" source="batfree" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashhof" providerId="8472" live="false" culture="en-US,el-GR" source="ashhof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_legwld" providerId="8473" live="false" culture="en-US,el-GR" source="legwld" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashbmbg" providerId="8476" live="false" culture="en-US,el-GR" source="ashbmbg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_hlf2" providerId="8477" live="false" culture="en-US,el-GR" source="hlf2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_mfrt" providerId="8478" live="false" culture="en-US,el-GR" source="mfrt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ro101" providerId="8479" live="false" culture="en-US,el-GR" source="ro101" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_batcat" providerId="8480" live="false" culture="en-US,el-GR" source="batcat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bjto" providerId="8481" live="false" culture="en-US,el-GR" source="bjto" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashjid" providerId="8482" live="false" culture="en-US,el-GR" source="ashjid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_batjok" providerId="8483" live="false" culture="en-US,el-GR" source="batjok" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ftsis" providerId="8484" live="false" culture="en-US,el-GR" source="ftsis" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_hilop" providerId="8485" live="false" culture="en-US,el-GR" source="hilop" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_strsawk" providerId="8448" live="false" culture="en-US,el-GR" source="strsawk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashtkp2" providerId="8449" live="false" culture="en-US,el-GR" source="ashtkp2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_wildb" providerId="8450" live="false" culture="en-US,el-GR" source="wildb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjbu" providerId="8452" live="false" culture="en-US,el-GR" source="bjbu" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<!--<Game id="PT_ashhlg" providerId="8453" live="false" culture="en-US,el-GR" source="ashhlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>-->
+		<Game id="PT_rbcp" providerId="8454" live="false" culture="en-US,el-GR" source="rbcp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_aeolus" providerId="8455" live="false" culture="en-US,el-GR" source="aeolus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_amdad" providerId="8456" live="false" culture="en-US,el-GR" source="amdad" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_presrol" providerId="8457" live="false" culture="en-US,el-GR" source="presrol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfgf" providerId="8458" live="false" culture="en-US,el-GR" source="ashfgf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_roarw" providerId="8459" live="false" culture="en-US,el-GR" source="roarw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfof" providerId="8460" live="false" culture="en-US,el-GR" source="ashfof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_supman2" providerId="8461" live="false" culture="en-US,el-GR" source="supman2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_supman" providerId="8462" live="false" culture="en-US,el-GR" source="supman" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjcb" providerId="8463" live="false" culture="en-US,el-GR" source="bjcb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjto_sh" providerId="8465" live="false" culture="en-US,el-GR" source="bjto_sh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_db1000ro" providerId="8467" live="false" culture="en-US,el-GR" source="db1000ro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_manos" providerId="8468" live="false" culture="en-US,el-GR" source="manos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_grnlt" providerId="8469" live="false" culture="en-US,el-GR" source="grnlt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_batpen" providerId="8470" live="false" culture="en-US,el-GR" source="batpen" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_batfree" providerId="8471" live="false" culture="en-US,el-GR" source="batfree" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashhof" providerId="8472" live="false" culture="en-US,el-GR" source="ashhof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_legwld" providerId="8473" live="false" culture="en-US,el-GR" source="legwld" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashbmbg" providerId="8476" live="false" culture="en-US,el-GR" source="ashbmbg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_hlf2" providerId="8477" live="false" culture="en-US,el-GR" source="hlf2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_mfrt" providerId="8478" live="false" culture="en-US,el-GR" source="mfrt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ro101" providerId="8479" live="false" culture="en-US,el-GR" source="ro101" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_batcat" providerId="8480" live="false" culture="en-US,el-GR" source="batcat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bjto" providerId="8481" live="false" culture="en-US,el-GR" source="bjto" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashjid" providerId="8482" live="false" culture="en-US,el-GR" source="ashjid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_batjok" providerId="8483" live="false" culture="en-US,el-GR" source="batjok" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ftsis" providerId="8484" live="false" culture="en-US,el-GR" source="ftsis" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_hilop" providerId="8485" live="false" culture="en-US,el-GR" source="hilop" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_aogro" providerId="8486" live="false" culture="en-US,el-GR" source="aogro" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashspi" providerId="8488" live="false" culture="en-US,el-GR" source="ashspi" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_athn" providerId="8489" live="false" culture="en-US,el-GR" source="athn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_hrcls" providerId="8490" live="false" culture="en-US,el-GR" source="hrcls" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_flst" providerId="8491" live="false" culture="en-US,el-GR" source="flst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashspi" providerId="8488" live="false" culture="en-US,el-GR" source="ashspi" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_athn" providerId="8489" live="false" culture="en-US,el-GR" source="athn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_hrcls" providerId="8490" live="false" culture="en-US,el-GR" source="hrcls" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_flst" providerId="8491" live="false" culture="en-US,el-GR" source="flst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_prol" providerId="8492" live="false" culture="en-US,el-GR" source="prol" mobile="true" countriesBanned=""/>
 		<Game id="PT_jqw" providerId="8493" live="false" culture="en-US,el-GR" source="jqw" mobile="true" countriesBanned=""/>
 		<Game id="PT_qnw" providerId="8494" live="false" culture="en-US,el-GR" source="qnw" mobile="true" countriesBanned=""/>
-		<Game id="PT_aogs" providerId="8495" live="false" culture="en-US,el-GR" source="aogs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bfb" providerId="8496" live="false" culture="en-US,el-GR" source="bfb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashicv" providerId="8497" live="false" culture="en-US,el-GR" source="ashicv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_furf" providerId="8498" live="false" culture="en-US,el-GR" source="furf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_aogs" providerId="8495" live="false" culture="en-US,el-GR" source="aogs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bfb" providerId="8496" live="false" culture="en-US,el-GR" source="bfb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashicv" providerId="8497" live="false" culture="en-US,el-GR" source="ashicv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_furf" providerId="8498" live="false" culture="en-US,el-GR" source="furf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_ashjcb" providerId="8500" live="false" culture="en-US,el-GR" source="ashjcb" mobile="true" countriesBanned=""/>
-		<Game id="PT_bs" providerId="8501" live="false" culture="en-US,el-GR" source="bs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashneo" providerId="8502" live="false" culture="en-US,el-GR" source="ashneo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashndm" providerId="8503" live="false" culture="en-US,el-GR" source="ashndm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashwdw" providerId="8506" live="false" culture="en-US,el-GR" source="ashwdw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashjut" providerId="8508" live="false" culture="en-US,el-GR" source="ashjut" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashace" providerId="8512" live="false" culture="en-US,el-GR" source="ashace" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashlcl" providerId="8513" live="false" culture="en-US,el-GR" source="ashlcl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bs" providerId="8501" live="false" culture="en-US,el-GR" source="bs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashneo" providerId="8502" live="false" culture="en-US,el-GR" source="ashneo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashndm" providerId="8503" live="false" culture="en-US,el-GR" source="ashndm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashwdw" providerId="8506" live="false" culture="en-US,el-GR" source="ashwdw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashjut" providerId="8508" live="false" culture="en-US,el-GR" source="ashjut" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashace" providerId="8512" live="false" culture="en-US,el-GR" source="ashace" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashlcl" providerId="8513" live="false" culture="en-US,el-GR" source="ashlcl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_zctz" providerId="8514" live="false" culture="en-US,el-GR" source="zctz" mobile="false" countriesBanned=""/>
-		<Game id="PT_mgstk" providerId="8515" live="false" culture="en-US,el-GR" source="mgstk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_mgstk" providerId="8515" live="false" culture="en-US,el-GR" source="mgstk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gesjp" providerId="8516" live="false" culture="en-US,el-GR" source="gesjp" mobile="false" countriesBanned=""/>
 		<Game id="PT_sisjp" providerId="8517" live="false" culture="en-US,el-GR" source="sisjp" mobile="false" countriesBanned=""/>
-		<Game id="PT_topg" providerId="8520" live="false" culture="en-US,el-GR" source="topg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_topg" providerId="8520" live="false" culture="en-US,el-GR" source="topg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_wlgjp" providerId="8522" live="false" culture="en-US,el-GR" source="wlgjp" mobile="false" countriesBanned=""/>
-		<Game id="PT_ashwnoz" providerId="8523" live="false" culture="en-US,el-GR" source="ashwnoz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashwnoz" providerId="8523" live="false" culture="en-US,el-GR" source="ashwnoz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_multm" providerId="8526" live="false" culture="en-US,el-GR" source="multm" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsswk" providerId="8527" live="false" culture="en-US,el-GR" source="gtsswk" mobile="false" countriesBanned=""/>
 		<Game id="PT_fcgz" providerId="8529" live="false" culture="en-US,el-GR" source="fcgz" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashbob" providerId="8531" live="false" culture="en-US,el-GR" source="ashbob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_frtf" providerId="8533" live="false" culture="en-US,el-GR" source="frtf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashbob" providerId="8531" live="false" culture="en-US,el-GR" source="ashbob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_frtf" providerId="8533" live="false" culture="en-US,el-GR" source="frtf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_chl" providerId="8536" live="false" culture="en-US,el-GR" source="chl" mobile="true" countriesBanned=""/>
 		<Game id="PT_wkw" providerId="8537" live="false" culture="en-US,el-GR" source="wkw" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashcpl" providerId="8539" live="false" culture="en-US,el-GR" source="ashcpl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashcpl" providerId="8539" live="false" culture="en-US,el-GR" source="ashcpl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_donq" providerId="8541" live="false" culture="en-US,el-GR" source="donq" mobile="true" countriesBanned=""/>
-		<Game id="PT_bob" providerId="8544" live="false" culture="en-US,el-GR" source="bob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_vcstd" providerId="8545" live="false" culture="en-US,el-GR" source="vcstd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_sfh" providerId="8546" live="false" culture="en-US,el-GR" source="sfh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bob" providerId="8544" live="false" culture="en-US,el-GR" source="bob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_vcstd" providerId="8545" live="false" culture="en-US,el-GR" source="vcstd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_sfh" providerId="8546" live="false" culture="en-US,el-GR" source="sfh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsfj" providerId="8547" live="false" culture="en-US,el-GR" source="gtsfj" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsgme" providerId="8548" live="false" culture="en-US,el-GR" source="gtsgme" mobile="true" countriesBanned=""/>
-		<Game id="PT_fdtjg" providerId="8549" live="false" culture="en-US,el-GR" source="fdtjg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_fdtjg" providerId="8549" live="false" culture="en-US,el-GR" source="fdtjg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsir" providerId="8551" live="false" culture="en-US,el-GR" source="gtsir" mobile="false" countriesBanned=""/>
-		<Game id="PT_jpgt" providerId="8552" live="false" culture="en-US,el-GR" source="jpgt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_jpgt" providerId="8552" live="false" culture="en-US,el-GR" source="jpgt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_fxf" providerId="8553" live="false" culture="en-US,el-GR" source="fxf" mobile="true" countriesBanned=""/>
 		<Game id="PT_pyrr" providerId="8555" live="false" culture="en-US,el-GR" source="pyrr" mobile="false" countriesBanned=""/>
-		<Game id="PT_ashhotj" providerId="8556" live="false" culture="en-US,el-GR" source="ashhotj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_whk" providerId="8557" live="false" culture="en-US,el-GR" source="whk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_samz" providerId="8558" live="false" culture="en-US,el-GR" source="samz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_sol" providerId="8563" live="false" culture="en-US,el-GR" source="sol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashhotj" providerId="8556" live="false" culture="en-US,el-GR" source="ashhotj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_whk" providerId="8557" live="false" culture="en-US,el-GR" source="whk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_samz" providerId="8558" live="false" culture="en-US,el-GR" source="samz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_sol" providerId="8563" live="false" culture="en-US,el-GR" source="sol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsfc" providerId="8565" live="false" culture="en-US,el-GR" source="gtsfc" mobile="true" countriesBanned=""/>
 		<Game id="PT_tglalcs" providerId="8566" live="false" culture="en-US,el-GR" source="tglalcs" mobile="false" countriesBanned=""/>
-		<Game id="PT_catqc" providerId="8567" live="false" culture="en-US,el-GR" source="catqc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_esm" providerId="8568" live="false" culture="en-US,el-GR" source="esm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_shmst" providerId="8570" live="false" culture="en-US,el-GR" source="shmst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_catqc" providerId="8567" live="false" culture="en-US,el-GR" source="catqc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_esm" providerId="8568" live="false" culture="en-US,el-GR" source="esm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_shmst" providerId="8570" live="false" culture="en-US,el-GR" source="shmst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_tmqd" providerId="8571" live="false" culture="en-US,el-GR" source="tmqd" mobile="true" countriesBanned=""/>
 		<Game id="PT_snsb" providerId="8572" live="false" culture="en-US,el-GR" source="snsb" mobile="false" countriesBanned=""/>
-		<Game id="PT_wlg" providerId="8575" live="false" culture="en-US,el-GR" source="wlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_wlg" providerId="8575" live="false" culture="en-US,el-GR" source="wlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_fth" providerId="8576" live="false" culture="en-US,el-GR" source="fth" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsbtg" providerId="8577" live="false" culture="en-US,el-GR" source="gtsbtg" mobile="true" countriesBanned=""/>
 		<Game id="PT_pep" providerId="8578" live="false" culture="en-US,el-GR" source="pep" mobile="false" countriesBanned=""/>
-		<Game id="PT_ashwgaa" providerId="8579" live="false" culture="en-US,el-GR" source="ashwgaa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashfmf" providerId="8580" live="false" culture="en-US,el-GR" source="ashfmf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashwgaa" providerId="8579" live="false" culture="en-US,el-GR" source="ashwgaa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashfmf" providerId="8580" live="false" culture="en-US,el-GR" source="ashfmf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_paw" providerId="8581" live="false" culture="en-US,el-GR" source="paw" mobile="true" countriesBanned=""/>
-		<Game id="PT_zcjb" providerId="8582" live="false" culture="en-US,el-GR" source="zcjb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ashamw" providerId="8585" live="false" culture="en-US,el-GR" source="ashamw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_fnfrj" providerId="8589" live="false" culture="en-US,el-GR" source="fnfrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_zcjb" providerId="8582" live="false" culture="en-US,el-GR" source="zcjb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashamw" providerId="8585" live="false" culture="en-US,el-GR" source="ashamw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_fnfrj" providerId="8589" live="false" culture="en-US,el-GR" source="fnfrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtshwkp" providerId="8590" live="false" culture="en-US,el-GR" source="gtshwkp" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtssmbr" providerId="8592" live="false" culture="en-US,el-GR" source="gtssmbr" mobile="true" countriesBanned=""/>
-		<Game id="PT_gtswg" providerId="8593" live="false" culture="en-US,el-GR" source="gtswg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtswg" providerId="8593" live="false" culture="en-US,el-GR" source="gtswg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsro3d" providerId="8594" live="false" culture="en-US,el-GR" source="gtsro3d" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsgoc" providerId="8600" live="false" culture="en-US,el-GR" source="gtsgoc" mobile="false" countriesBanned=""/>
-		<Game id="PT_ashadv" providerId="8601" live="false" culture="en-US,el-GR" source="ashadv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_gtspor" providerId="8603" live="false" culture="en-US,el-GR" source="gtspor" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_jb_mh" providerId="8604" live="false" culture="en-US,el-GR" source="jb_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ashadv" providerId="8601" live="false" culture="en-US,el-GR" source="ashadv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtspor" providerId="8603" live="false" culture="en-US,el-GR" source="gtspor" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_jb_mh" providerId="8604" live="false" culture="en-US,el-GR" source="jb_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsdgk" providerId="8606" live="false" culture="en-US,el-GR" source="gtsdgk" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtsstg" providerId="8608" live="false" culture="en-US,el-GR" source="gtsstg" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsdrdv" providerId="8609" live="false" culture="en-US,el-GR" source="gtsdrdv" mobile="true" countriesBanned=""/>
-		<Game id="PT_gtsmrln" providerId="8610" live="false" culture="en-US,el-GR" source="gtsmrln" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtsmrln" providerId="8610" live="false" culture="en-US,el-GR" source="gtsmrln" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gtslgms" providerId="8612" live="false" culture="en-US,el-GR" source="gtslgms" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsatq" providerId="8613" live="false" culture="en-US,el-GR" source="gtsatq" mobile="true" countriesBanned=""/>
-		<Game id="PT_gtscnb" providerId="8614" live="false" culture="en-US,el-GR" source="gtscnb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_gtscnb" providerId="8614" live="false" culture="en-US,el-GR" source="gtscnb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_s21" providerId="8619" live="false" culture="en-US,el-GR" source="s21" mobile="false" countriesBanned=""/>
 		<Game id="PT_romw" providerId="8620" live="false" culture="en-US,el-GR" source="romw" mobile="false" countriesBanned=""/>
-		<Game id="PT_mbj" providerId="8621" live="false" culture="en-US,el-GR" source="mbj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="false" countriesBanned=""/>
+		<Game id="PT_mbj" providerId="8621" live="false" culture="en-US,el-GR" source="mbj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsdnc" providerId="8622" live="false" culture="en-US,el-GR" source="gtsdnc" mobile="false" countriesBanned=""/>
 		<Game id="PT_bja" providerId="8623" live="false" culture="en-US,el-GR" source="bja" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtswng" providerId="8624" live="false" culture="en-US,el-GR" source="gtswng" mobile="true" countriesBanned=""/>
-		<Game id="PT_glrj" providerId="8625" live="false" culture="en-US,el-GR" source="glrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_glrj" providerId="8625" live="false" culture="en-US,el-GR" source="glrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_iceh" providerId="8627" live="false" culture="en-US,el-GR" source="iceh" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsjzc" providerId="8628" live="false" culture="en-US,el-GR" source="gtsjzc" mobile="false" countriesBanned=""/>
 		<Game id="PT_gtsftf" providerId="8629" live="false" culture="en-US,el-GR" source="gtsftf" mobile="false" countriesBanned=""/>
 		<Game id="PT_gts52" providerId="8631" live="false" culture="en-US,el-GR" source="gts52" mobile="true" countriesBanned=""/>
-		<Game id="PT_evj" providerId="8632" live="false" culture="en-US,el-GR" source="evj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_mro_g" providerId="8633" live="false" culture="en-US,el-GR" source="mro_g" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="false" countriesBanned=""/>
+		<Game id="PT_evj" providerId="8632" live="false" culture="en-US,el-GR" source="evj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_mro_g" providerId="8633" live="false" culture="en-US,el-GR" source="mro_g" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="false" countriesBanned=""/>
 		<Game id="PT_gts51" providerId="8634" live="false" culture="en-US,el-GR" source="gts51" mobile="false" countriesBanned=""/>
-		<Game id="PT_gts50" providerId="8637" live="false" culture="en-US,el-GR" source="gts50" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_gts50" providerId="8637" live="false" culture="en-US,el-GR" source="gts50" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_sbj" providerId="8641" live="false" culture="en-US,el-GR" source="sbj" mobile="false" countriesBanned=""/>
 		<Game id="PT_gts46" providerId="8642" live="false" culture="en-US,el-GR" source="gts46" mobile="false" countriesBanned=""/>
 		<Game id="PT_lom" providerId="8650" live="false" culture="en-US,el-GR" source="lom" mobile="false" countriesBanned=""/>
 		<Game id="PT_gts35" providerId="8651" live="false" culture="en-US,el-GR" source="gts35" mobile="false" countriesBanned=""/>
 		<Game id="PT_dt2" providerId="8652" live="false" culture="en-US,el-GR" source="dt2" mobile="false" countriesBanned=""/>
-		<Game id="PT_er" providerId="8653" live="false" culture="en-US,el-GR" source="er" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_cm" providerId="8654" live="false" culture="en-US,el-GR" source="cm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_er" providerId="8653" live="false" culture="en-US,el-GR" source="er" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_cm" providerId="8654" live="false" culture="en-US,el-GR" source="cm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_hlf" providerId="8655" live="false" culture="en-US,el-GR" source="hlf" mobile="true" countriesBanned=""/>
 		<Game id="PT_dw4" providerId="8659" live="false" culture="en-US,el-GR" source="dw4" mobile="false" countriesBanned=""/>
 		<Game id="PT_af" providerId="8660" live="false" culture="en-US,el-GR" source="af" mobile="false" countriesBanned=""/>
@@ -213,19 +213,19 @@
 		<Game id="PT_tst" providerId="8670" live="false" culture="en-US,el-GR" source="tst" mobile="false" countriesBanned=""/>
 		<Game id="PT_ah2" providerId="8672" live="false" culture="en-US,el-GR" source="ah2" mobile="false" countriesBanned=""/>
 		<Game id="PT_psdbj" providerId="8673" live="false" culture="en-US,el-GR" source="psdbj" mobile="false" countriesBanned=""/>
-		<Game id="PT_eas" providerId="8675" live="false" culture="en-US,el-GR" source="eas" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_kkg" providerId="8676" live="false" culture="en-US,el-GR" source="kkg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_eas" providerId="8675" live="false" culture="en-US,el-GR" source="eas" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_kkg" providerId="8676" live="false" culture="en-US,el-GR" source="kkg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_mpro" providerId="8679" live="false" culture="en-US,el-GR" source="mpro" mobile="false" countriesBanned=""/>
-		<Game id="PT_ssp" providerId="8682" live="false" culture="en-US,el-GR" source="ssp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ssp" providerId="8682" live="false" culture="en-US,el-GR" source="ssp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_gts5" providerId="8683" live="false" culture="en-US,el-GR" source="gts5" mobile="false" countriesBanned=""/>
 		<Game id="PT_dtm" providerId="8684" live="false" culture="en-US,el-GR" source="dtm" mobile="false" countriesBanned=""/>
-		<Game id="PT_fdt" providerId="8685" live="false" culture="en-US,el-GR" source="fdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_fdt" providerId="8685" live="false" culture="en-US,el-GR" source="fdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_qop" providerId="8686" live="false" culture="en-US,el-GR" source="qop" mobile="false" countriesBanned=""/>
-		<Game id="PT_arc" providerId="8693" live="false" culture="en-US,el-GR" source="arc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_rky" providerId="8694" live="false" culture="en-US,el-GR" source="rky" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_arc" providerId="8693" live="false" culture="en-US,el-GR" source="arc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_rky" providerId="8694" live="false" culture="en-US,el-GR" source="rky" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_pst" providerId="8695" live="false" culture="en-US,el-GR" source="pst" mobile="true" countriesBanned=""/>
 		<Game id="PT_pgv" providerId="8696" live="false" culture="en-US,el-GR" source="pgv" mobile="true" countriesBanned=""/>
-		<Game id="PT_pnp" providerId="8697" live="false" culture="en-US,el-GR" source="pnp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_pnp" providerId="8697" live="false" culture="en-US,el-GR" source="pnp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_amvp" providerId="8702" live="false" culture="en-US,el-GR" source="amvp" mobile="false" countriesBanned=""/>
 		<Game id="PT_scs" providerId="8704" live="false" culture="en-US,el-GR" source="scs" mobile="false" countriesBanned=""/>
 		<Game id="PT_pbj_mh5" providerId="8708" live="false" culture="en-US,el-GR" source="pbj_mh5" mobile="false" countriesBanned=""/>
@@ -234,27 +234,27 @@
 		<Game id="PT_jp" providerId="8714" live="false" culture="en-US,el-GR" source="jp" mobile="true" countriesBanned=""/>
 		<Game id="PT_nk" providerId="8716" live="false" culture="en-US,el-GR" source="nk" mobile="true" countriesBanned=""/>
 		<Game id="PT_hh" providerId="8717" live="false" culture="en-US,el-GR" source="hh" mobile="true" countriesBanned=""/>
-		<Game id="PT_bt" providerId="8718" live="false" culture="en-US,el-GR" source="bt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bt" providerId="8718" live="false" culture="en-US,el-GR" source="bt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_op" providerId="8719" live="false" culture="en-US,el-GR" source="op" mobile="true" countriesBanned=""/>
 		<Game id="PT_fow" providerId="8720" live="false" culture="en-US,el-GR" source="fow" mobile="true" countriesBanned=""/>
 		<Game id="PT_wis" providerId="8721" live="false" culture="en-US,el-GR" source="wis" mobile="true" countriesBanned=""/>
-		<Game id="PT_dnr" providerId="8724" live="false" culture="en-US,el-GR" source="dnr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_fbr" providerId="8725" live="false" culture="en-US,el-GR" source="fbr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_dnr" providerId="8724" live="false" culture="en-US,el-GR" source="dnr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_fbr" providerId="8725" live="false" culture="en-US,el-GR" source="fbr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_glg" providerId="8726" live="false" culture="en-US,el-GR" source="glg" mobile="true" countriesBanned=""/>
-		<Game id="PT_c7" providerId="8727" live="false" culture="en-US,el-GR" source="c7" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_c7" providerId="8727" live="false" culture="en-US,el-GR" source="c7" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_dlm" providerId="8730" live="false" culture="en-US,el-GR" source="dlm" mobile="true" countriesBanned=""/>
 		<Game id="PT_bjs" providerId="8731" live="false" culture="en-US,el-GR" source="bjs" mobile="true" countriesBanned=""/>
 		<Game id="PT_sis" providerId="8732" live="false" culture="en-US,el-GR" source="sis" mobile="true" countriesBanned=""/>
-		<Game id="PT_ct" providerId="8734" live="false" culture="en-US,el-GR" source="ct" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_tpd2" providerId="8735" live="false" culture="en-US,el-GR" source="tpd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_gos" providerId="8737" live="false" culture="en-US,el-GR" source="gos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_hk" providerId="8738" live="false" culture="en-US,el-GR" source="hk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bl" providerId="8741" live="false" culture="en-US,el-GR" source="bl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_ba" providerId="8742" live="false" culture="en-US,el-GR" source="ba" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_irl" providerId="8743" live="false" culture="en-US,el-GR" source="irl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_bib" providerId="8744" live="false" culture="en-US,el-GR" source="bib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_mobdt" providerId="8746" live="false" culture="en-US,el-GR" source="mobdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_lm" providerId="8747" live="false" culture="en-US,el-GR" source="lm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ct" providerId="8734" live="false" culture="en-US,el-GR" source="ct" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_tpd2" providerId="8735" live="false" culture="en-US,el-GR" source="tpd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_gos" providerId="8737" live="false" culture="en-US,el-GR" source="gos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_hk" providerId="8738" live="false" culture="en-US,el-GR" source="hk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bl" providerId="8741" live="false" culture="en-US,el-GR" source="bl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_ba" providerId="8742" live="false" culture="en-US,el-GR" source="ba" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_irl" providerId="8743" live="false" culture="en-US,el-GR" source="irl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_bib" providerId="8744" live="false" culture="en-US,el-GR" source="bib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_mobdt" providerId="8746" live="false" culture="en-US,el-GR" source="mobdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_lm" providerId="8747" live="false" culture="en-US,el-GR" source="lm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_fosl" providerId="8753" live="false" culture="en-US,el-GR" source="fosl" mobile="false" countriesBanned=""/>
 		<Game id="PT_pc" providerId="8754" live="false" culture="en-US,el-GR" source="pc" mobile="false" countriesBanned=""/>
 		<Game id="PT_ssl" providerId="8761" live="false" culture="en-US,el-GR" source="ssl" mobile="false" countriesBanned=""/>
@@ -282,7 +282,7 @@
 		<Game id="PT_pop" providerId="8799" live="false" culture="en-US,el-GR" source="pop" mobile="false" countriesBanned=""/>
 		<Game id="PT_po" providerId="8800" live="false" culture="en-US,el-GR" source="po" mobile="false" countriesBanned=""/>
 		<Game id="PT_pbj" providerId="8802" live="false" culture="en-US,el-GR" source="pbj" mobile="false" countriesBanned=""/>
-		<Game id="PT_mro" providerId="8805" live="false" culture="en-US,el-GR" source="mro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="false" countriesBanned=""/>
+		<Game id="PT_mro" providerId="8805" live="false" culture="en-US,el-GR" source="mro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="false" countriesBanned=""/>
 		<Game id="PT_mj" providerId="8806" live="false" culture="en-US,el-GR" source="mj" mobile="false" countriesBanned=""/>
 		<Game id="PT_kn" providerId="8811" live="false" culture="en-US,el-GR" source="kn" mobile="false" countriesBanned=""/>
 		<Game id="PT_jb50" providerId="8814" live="false" culture="en-US,el-GR" source="jb50" mobile="false" countriesBanned=""/>
@@ -306,7 +306,7 @@
 		<Game id="PT_ctp2" providerId="8841" live="false" culture="en-US,el-GR" source="ctp2" mobile="false" countriesBanned=""/>
 		<Game id="PT_cr" providerId="8842" live="false" culture="en-US,el-GR" source="cr" mobile="false" countriesBanned=""/>
 		<Game id="PT_cifr" providerId="8844" live="false" culture="en-US,el-GR" source="cifr" mobile="false" countriesBanned=""/>
-		<Game id="PT_car" providerId="8845" live="false" culture="en-US,el-GR" source="car" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_car" providerId="8845" live="false" culture="en-US,el-GR" source="car" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_pg" providerId="8847" live="false" culture="en-US,el-GR" source="pg" mobile="false" countriesBanned=""/>
 		<Game id="PT_bls" providerId="8848" live="false" culture="en-US,el-GR" source="bls" mobile="false" countriesBanned=""/>
 		<Game id="PT_bjsd_mh5" providerId="8849" live="false" culture="en-US,el-GR" source="bjsd_mh5" mobile="false" countriesBanned=""/>
@@ -318,11 +318,11 @@
 		<Game id="PT_mbib" providerId="8022" live="false" culture="en-US,el-GR" source="mbib" mobile="false" countriesBanned=""/>
 		<Game id="PT_mhk" providerId="8024" live="false" culture="en-US,el-GR" source="mhk" mobile="false" countriesBanned=""/>
 		<Game id="PT_wsffr" providerId="8044" live="false" culture="en-US,el-GR" source="wsffr" mobile="true" countriesBanned=""/>
-		<Game id="PT_hb" providerId="8046" live="false" culture="en-US,el-GR" source="hb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_hb" providerId="8046" live="false" culture="en-US,el-GR" source="hb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_spud" providerId="8057" live="false" culture="en-US,el-GR" source="spud" mobile="false" countriesBanned=""/>
-		<Game id="PT_batrid" providerId="8059" live="false" culture="en-US,el-GR" source="batrid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_dw_mh" providerId="8060" live="false" culture="en-US,el-GR" source="dw_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_hwilds" providerId="8064" live="false" culture="en-US,el-GR" source="hwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_batrid" providerId="8059" live="false" culture="en-US,el-GR" source="batrid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_dw_mh" providerId="8060" live="false" culture="en-US,el-GR" source="dw_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_hwilds" providerId="8064" live="false" culture="en-US,el-GR" source="hwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_p6dbj_mh5" providerId="8071" live="false" culture="en-US,el-GR" source="p6dbj_mh5" mobile="false" countriesBanned=""/>
 		<Game id="PT_bjuk_mh5" providerId="8072" live="false" culture="en-US,el-GR" source="bjuk_mh5" mobile="false" countriesBanned=""/>
 		<Game id="PT_bj21d_mh" providerId="8073" live="false" culture="en-US,el-GR" source="bj21d_mh" mobile="false" countriesBanned=""/>
@@ -366,144 +366,144 @@
 		<!--User friendly ids-->
 		<!--Slot Games-->
 		<Game id="PT_8BallSlots" providerId="8005" live="false" culture="en-US,el-GR" source="8bs" mobile="false" countriesBanned=""/>
-		<Game id="PT_AgeoftheGods_GodofStorms" providerId="8455" live="false" culture="en-US,el-GR" source="aeolus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeoftheGods_GodofStorms" providerId="8455" live="false" culture="en-US,el-GR" source="aeolus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_AcesAndFaces" providerId="8660" live="false" culture="en-US,el-GR" source="af" mobile="false" countriesBanned=""/>
 		<Game id="PT_AcesAndFaces25lines" providerId="8856" live="false" culture="en-US,el-GR" source="af25" mobile="false" countriesBanned=""/>
 		<Game id="PT_AcesAndFaces4line" providerId="8855" live="false" culture="en-US,el-GR" source="af4" mobile="false" countriesBanned=""/>
 
 		<Game id="PT_AlienHunter" providerId="8672" live="false" culture="en-US,el-GR" source="ah2" mobile="false" countriesBanned=""/>
 		<Game id="PT_AlchemistsLab" providerId="8854" live="false" culture="en-US,el-GR" source="al" mobile="false" countriesBanned=""/>
-		<Game id="PT_AmericanDad" providerId="8456" live="false" culture="en-US,el-GR" source="amdad" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AmericanDad" providerId="8456" live="false" culture="en-US,el-GR" source="amdad" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_AllAmerican" providerId="8702" live="false" culture="en-US,el-GR" source="amvp" mobile="false" countriesBanned=""/>
 		<Game id="PT_AgeoftheGods_Roulette" providerId="8486" live="false" culture="en-US,el-GR" source="aogro" mobile="true" countriesBanned=""/>
 
-		<Game id="PT_AgeoftheGods_AgeoftheGods" providerId="8495" live="false" culture="en-US,el-GR" source="aogs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Archer" providerId="8693" live="false" culture="en-US,el-GR" source="arc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_AdventuresBeyondWonderland" providerId="8033" live="false" source="ashabw" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_AceVentura" providerId="8512" live="false" culture="en-US,el-GR" source="ashace" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeoftheGods_AgeoftheGods" providerId="8495" live="false" culture="en-US,el-GR" source="aogs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Archer" providerId="8693" live="false" culture="en-US,el-GR" source="arc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AdventuresBeyondWonderland" providerId="8033" live="false" source="ashabw" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AceVentura" providerId="8512" live="false" culture="en-US,el-GR" source="ashace" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 
-		<Game id="PT_AmazonWild" providerId="8585" live="false" culture="en-US,el-GR" source="ashamw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_BatmanBegins" providerId="8030" live="false" culture="en-US,el-GR" source="batbeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_Batman_TheBatgirlBonanza" providerId="8476" live="false" culture="en-US,el-GR" source="ashbmbg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_BountyoftheBeanstalk" providerId="8531" live="false" culture="en-US,el-GR" source="ashbob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_ChestsofPlenty" providerId="8539" live="false" culture="en-US,el-GR" source="ashcpl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_FairgroundFortunesGhostTrain" providerId="8458" live="false" culture="en-US,el-GR" source="ashfgf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_FullMoonFortune" providerId="8580" live="false" culture="en-US,el-GR" source="ashfmf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_FieldsofFortune" providerId="8460" live="false" culture="en-US,el-GR" source="ashfof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<!--<Game id="PT_MontyPythonsHolyGrail" providerId="8453" live="false" culture="en-US,el-GR" source="ashhlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>-->
-		<Game id="PT_HeartoftheFrontier" providerId="8472" live="false" culture="en-US,el-GR" source="ashhof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_HeartoftheJungle" providerId="8556" live="false" culture="en-US,el-GR" source="ashhotj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_IceCave" providerId="8497" live="false" culture="en-US,el-GR" source="ashicv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Jekyll_Hyde" providerId="8011" live="false" culture="en-US,el-GR" source="ashjah" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AmazonWild" providerId="8585" live="false" culture="en-US,el-GR" source="ashamw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BatmanBegins" providerId="8030" live="false" culture="en-US,el-GR" source="batbeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_Batman_TheBatgirlBonanza" providerId="8476" live="false" culture="en-US,el-GR" source="ashbmbg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BountyoftheBeanstalk" providerId="8531" live="false" culture="en-US,el-GR" source="ashbob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_ChestsofPlenty" providerId="8539" live="false" culture="en-US,el-GR" source="ashcpl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FairgroundFortunesGhostTrain" providerId="8458" live="false" culture="en-US,el-GR" source="ashfgf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FullMoonFortune" providerId="8580" live="false" culture="en-US,el-GR" source="ashfmf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FieldsofFortune" providerId="8460" live="false" culture="en-US,el-GR" source="ashfof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<!--<Game id="PT_MontyPythonsHolyGrail" providerId="8453" live="false" culture="en-US,el-GR" source="ashhlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>-->
+		<Game id="PT_HeartoftheFrontier" providerId="8472" live="false" culture="en-US,el-GR" source="ashhof" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_HeartoftheJungle" providerId="8556" live="false" culture="en-US,el-GR" source="ashhotj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_IceCave" providerId="8497" live="false" culture="en-US,el-GR" source="ashicv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Jekyll_Hyde" providerId="8011" live="false" culture="en-US,el-GR" source="ashjah" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_JuicyBooty" providerId="8500" live="false" culture="en-US,el-GR" source="ashjcb" mobile="true" countriesBanned=""/>
-		<Game id="PT_JurassicIsland" providerId="8482" live="false" culture="en-US,el-GR" source="ashjid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_JungleTrouble" providerId="8508" live="false" culture="en-US,el-GR" source="ashjut" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_LeprechaunsLuck" providerId="8513" live="false" culture="en-US,el-GR" source="ashlcl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Nostradamus" providerId="8503" live="false" culture="en-US,el-GR" source="ashndm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_NeonLife" providerId="8502" live="false" culture="en-US,el-GR" source="ashneo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_SpaceInvaders" providerId="8488" live="false" culture="en-US,el-GR" source="ashspi" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_TikiParadise_NonBranded" providerId="8449" live="false" culture="en-US,el-GR" source="ashtkp2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_TimeForaDeal" providerId="8035" live="false" culture="en-US,el-GR" source="ashtmd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_WildWishes" providerId="8506" live="false" culture="en-US,el-GR" source="ashwdw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_ArcticAdventure_WildGambler2" providerId="8579" live="false" culture="en-US,el-GR" source="ashwgaa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_TheWinningsofOz" providerId="8523" live="false" culture="en-US,el-GR" source="ashwnoz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_AgeoftheGods_GoddessofWisdom" providerId="8489" live="false" culture="en-US,el-GR" source="athn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_JurassicIsland" providerId="8482" live="false" culture="en-US,el-GR" source="ashjid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_JungleTrouble" providerId="8508" live="false" culture="en-US,el-GR" source="ashjut" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_LeprechaunsLuck" providerId="8513" live="false" culture="en-US,el-GR" source="ashlcl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Nostradamus" providerId="8503" live="false" culture="en-US,el-GR" source="ashndm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_NeonLife" providerId="8502" live="false" culture="en-US,el-GR" source="ashneo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SpaceInvaders" providerId="8488" live="false" culture="en-US,el-GR" source="ashspi" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_TikiParadise_NonBranded" providerId="8449" live="false" culture="en-US,el-GR" source="ashtkp2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_TimeForaDeal" providerId="8035" live="false" culture="en-US,el-GR" source="ashtmd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_WildWishes" providerId="8506" live="false" culture="en-US,el-GR" source="ashwdw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_ArcticAdventure_WildGambler2" providerId="8579" live="false" culture="en-US,el-GR" source="ashwgaa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_TheWinningsofOz" providerId="8523" live="false" culture="en-US,el-GR" source="ashwnoz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeoftheGods_GoddessofWisdom" providerId="8489" live="false" culture="en-US,el-GR" source="athn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_AroundtheWorld" providerId="8853" live="false" culture="en-US,el-GR" source="atw" mobile="false" countriesBanned=""/>
-		<Game id="PT_Baccarat" providerId="8742" live="false" culture="en-US,el-GR" source="ba" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Batman_CatwomanCash" providerId="8480" live="false" culture="en-US,el-GR" source="batcat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Batman_MrFreezeFortune" providerId="8471" live="false" culture="en-US,el-GR" source="batfree" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Batman_TheJokerJewels" providerId="8483" live="false" culture="en-US,el-GR" source="batjok" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Batman_ThePenguinPrize" providerId="8470" live="false" culture="en-US,el-GR" source="batpen" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_BuffaloBlitz" providerId="8496" live="false" culture="en-US,el-GR" source="bfb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_GreatBlue" providerId="8744" live="false" culture="en-US,el-GR" source="bib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Baccarat" providerId="8742" live="false" culture="en-US,el-GR" source="ba" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Batman_CatwomanCash" providerId="8480" live="false" culture="en-US,el-GR" source="batcat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Batman_MrFreezeFortune" providerId="8471" live="false" culture="en-US,el-GR" source="batfree" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Batman_TheJokerJewels" providerId="8483" live="false" culture="en-US,el-GR" source="batjok" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Batman_ThePenguinPrize" providerId="8470" live="false" culture="en-US,el-GR" source="batpen" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BuffaloBlitz" providerId="8496" live="false" culture="en-US,el-GR" source="bfb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_GreatBlue" providerId="8744" live="false" culture="en-US,el-GR" source="bib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_BlackjackMH5" providerId="8739" live="false" culture="en-US,el-GR" source="bj_mh5" mobile="false" countriesBanned=""/>
 		<Game id="PT_AmericanBlackjack" providerId="8623" live="false" culture="en-US,el-GR" source="bja" mobile="false" countriesBanned=""/>
-		<Game id="PT_BusterBlackjack" providerId="8452" live="false" culture="en-US,el-GR" source="bjbu" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_CashbackBlackjack" providerId="8463" live="false" culture="en-US,el-GR" source="bjcb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_LuckyLuckyBlackjack" providerId="8039" live="false" culture="en-US,el-GR" source="bjll" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BusterBlackjack" providerId="8452" live="false" culture="en-US,el-GR" source="bjbu" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_CashbackBlackjack" providerId="8463" live="false" culture="en-US,el-GR" source="bjcb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_LuckyLuckyBlackjack" providerId="8039" live="false" culture="en-US,el-GR" source="bjll" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_BlackjackSwitch" providerId="8731" live="false" culture="en-US,el-GR" source="bjs" mobile="true" countriesBanned=""/>
 		<Game id="PT_BlackjackSurrender" providerId="8849" live="false" culture="en-US,el-GR" source="bjsd_mh5" mobile="false" countriesBanned=""/>
-		<Game id="PT_PremiumBlackjack" providerId="8481" live="false" culture="en-US,el-GR" source="bjto" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Premiumblackjack_SingleHand" providerId="8465" live="false" culture="en-US,el-GR" source="bjto_sh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_BeachLife" providerId="8741" live="false" culture="en-US,el-GR" source="bl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_PremiumBlackjack" providerId="8481" live="false" culture="en-US,el-GR" source="bjto" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Premiumblackjack_SingleHand" providerId="8465" live="false" culture="en-US,el-GR" source="bjto_sh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BeachLife" providerId="8741" live="false" culture="en-US,el-GR" source="bl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_MegaBall_Progressive" providerId="8848" live="false" culture="en-US,el-GR" source="bls" mobile="false" countriesBanned=""/>
-		<Game id="PT_BonusBears" providerId="8544" live="false" culture="en-US,el-GR" source="bob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BonusBears" providerId="8544" live="false" culture="en-US,el-GR" source="bob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_BonusBowling" providerId="8010" live="false" culture="en-US,el-GR" source="bowl" mobile="false" countriesBanned=""/>
-		<Game id="PT_BaiShi_WhiteKingAPAC" providerId="8501" live="false" culture="en-US,el-GR" source="bs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_BermudaTriangle" providerId="8718" live="false" culture="en-US,el-GR" source="bt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Crazy7" providerId="8727" live="false" culture="en-US,el-GR" source="c7" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_CaribbeanStudPoker" providerId="8845" live="false" culture="en-US,el-GR" source="car" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_CatQueen" providerId="8567" live="false" culture="en-US,el-GR" source="catqc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BaiShi_WhiteKingAPAC" providerId="8501" live="false" culture="en-US,el-GR" source="bs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_BermudaTriangle" providerId="8718" live="false" culture="en-US,el-GR" source="bt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Crazy7" providerId="8727" live="false" culture="en-US,el-GR" source="c7" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_CaribbeanStudPoker" providerId="8845" live="false" culture="en-US,el-GR" source="car" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_CatQueen" providerId="8567" live="false" culture="en-US,el-GR" source="catqc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_CasinoHoldEm" providerId="8015" live="false" culture="en-US,el-GR" source="cheaa" mobile="true" countriesBanned=""/>
 		<Game id="PT_CherryLove" providerId="8536" live="false" culture="en-US,el-GR" source="chl" mobile="true" countriesBanned=""/>
 		<Game id="PT_Cinerama" providerId="8844" live="false" culture="en-US,el-GR" source="cifr" mobile="false" countriesBanned=""/>
-		<Game id="PT_ChineseKitchen" providerId="8654" live="false" culture="en-US,el-GR" source="cm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_SweetParty" providerId="8145" live="false" culture="en-US,el-GR" source="cnpr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_ChineseKitchen" providerId="8654" live="false" culture="en-US,el-GR" source="cm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SweetParty" providerId="8145" live="false" culture="en-US,el-GR" source="cnpr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_Craps" providerId="8842" live="false" culture="en-US,el-GR" source="cr" mobile="false" countriesBanned=""/>
-		<Game id="PT_CaptainsTreasure" providerId="8734" live="false" culture="en-US,el-GR" source="ct" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_CatinVegas" providerId="8021" live="false" culture="en-US,el-GR" source="ctiv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_CaptainsTreasure" providerId="8734" live="false" culture="en-US,el-GR" source="ct" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_CatinVegas" providerId="8021" live="false" culture="en-US,el-GR" source="ctiv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_CaptainsTreasurePro" providerId="8841" live="false" culture="en-US,el-GR" source="ctp2" mobile="false" countriesBanned=""/>
-		<Game id="PT_1000DiamondBetRoulette" providerId="8467" live="false" culture="en-US,el-GR" source="db1000ro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_1000DiamondBetRoulette" providerId="8467" live="false" culture="en-US,el-GR" source="db1000ro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_DiceTwister" providerId="8840" live="false" culture="en-US,el-GR" source="dctw" mobile="false" countriesBanned=""/>
 		<Game id="PT_DrLoveMore" providerId="8730" live="false" culture="en-US,el-GR" source="dlm" mobile="true" countriesBanned=""/>
-		<Game id="PT_DolphinReef" providerId="8724" live="false" culture="en-US,el-GR" source="dnr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_DolphinReef" providerId="8724" live="false" culture="en-US,el-GR" source="dnr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_TheRichesofDonQuixote" providerId="8541" live="false" culture="en-US,el-GR" source="donq" mobile="true" countriesBanned=""/>
-		<Game id="PT_DragonChampions" providerId="8036" live="false" culture="en-US,el-GR" source="drgch" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_DragonChampions" providerId="8036" live="false" culture="en-US,el-GR" source="drgch" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_DragonJackpotRoulette" providerId="8037" live="false" culture="en-US,el-GR" source="drgro" mobile="true" countriesBanned=""/>
 		<Game id="PT_JackpotDarts_Progressive" providerId="8839" live="false" culture="en-US,el-GR" source="drts" mobile="false" countriesBanned=""/>
 		<Game id="PT_DesertTreasure_flash" providerId="8000" live="false" culture="en-US,el-GR" source="dt" mobile="false" countriesBanned=""/>
 		<Game id="PT_DesertTreasureII" providerId="8652" live="false" culture="en-US,el-GR" source="dt2" mobile="false" countriesBanned=""/>
 		<Game id="PT_DesertTreasure_Mini" providerId="8684" live="false" culture="en-US,el-GR" source="dtm" mobile="false" countriesBanned=""/>
-		<Game id="PT_DaVincisVault" providerId="8034" live="false" culture="en-US,el-GR" source="dvncv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_DaVincisVault" providerId="8034" live="false" culture="en-US,el-GR" source="dvncv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_DeucesWild" providerId="8837" live="false" culture="en-US,el-GR" source="dw" mobile="false" countriesBanned=""/>
 		<Game id="PT_DeucesWild4line" providerId="8659" live="false" culture="en-US,el-GR" source="dw4" mobile="false" countriesBanned=""/>
-		<Game id="PT_DeucesWildMulti_Hand" providerId="8060" live="false" culture="en-US,el-GR" source="dw_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_EasterSurprise" providerId="8675" live="false" culture="en-US,el-GR" source="eas" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_VacationStation" providerId="8653" live="false" culture="en-US,el-GR" source="er" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Esmeralda" providerId="8568" live="false" culture="en-US,el-GR" source="esm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_EverybodysJackpot" providerId="8632" live="false" culture="en-US,el-GR" source="evj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_FootballRules" providerId="8725" live="false" culture="en-US,el-GR" source="fbr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_DeucesWildMulti_Hand" providerId="8060" live="false" culture="en-US,el-GR" source="dw_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_EasterSurprise" providerId="8675" live="false" culture="en-US,el-GR" source="eas" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_VacationStation" providerId="8653" live="false" culture="en-US,el-GR" source="er" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Esmeralda" providerId="8568" live="false" culture="en-US,el-GR" source="esm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_EverybodysJackpot" providerId="8632" live="false" culture="en-US,el-GR" source="evj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FootballRules" providerId="8725" live="false" culture="en-US,el-GR" source="fbr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_FeiCuiGongZhu" providerId="8529" live="false" culture="en-US,el-GR" source="fcgz" mobile="true" countriesBanned=""/>
-		<Game id="PT_FrankieDettoriMagic7" providerId="8685" live="false" culture="en-US,el-GR" source="fdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_FrankieDettoriMagic7Jackpot" providerId="8549" live="false" culture="en-US,el-GR" source="fdtjg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_FrankieDettoriRoulette" providerId="8038" live="false" culture="en-US,el-GR" source="fdtro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FrankieDettoriMagic7" providerId="8685" live="false" culture="en-US,el-GR" source="fdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FrankieDettoriMagic7Jackpot" providerId="8549" live="false" culture="en-US,el-GR" source="fdtjg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FrankieDettoriRoulette" providerId="8038" live="false" culture="en-US,el-GR" source="fdtro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_FunkyFruitsFarm" providerId="8014" live="false" culture="en-US,el-GR" source="fff" mobile="true" countriesBanned=""/>
-		<Game id="PT_TheFlintstones" providerId="8491" live="false" culture="en-US,el-GR" source="flst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_FunkyMonkey" providerId="8007" live="false" culture="en-US,el-GR" source="fm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_TheFlintstones" providerId="8491" live="false" culture="en-US,el-GR" source="flst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FunkyMonkey" providerId="8007" live="false" culture="en-US,el-GR" source="fm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_FruitMania" providerId="8834" live="false" culture="en-US,el-GR" source="fmn" mobile="false" countriesBanned=""/>
-		<Game id="PT_FunkyFruits" providerId="8589" live="false" culture="en-US,el-GR" source="fnfrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FunkyFruits" providerId="8589" live="false" culture="en-US,el-GR" source="fnfrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_ClassicSlot_Reels" providerId="8753" live="false" culture="en-US,el-GR" source="fosl" mobile="false" countriesBanned=""/>
 		<Game id="PT_ForestofWonders" providerId="8720" live="false" culture="en-US,el-GR" source="fow" mobile="true" countriesBanned=""/>
 		<Game id="PT_FountainofYouth" providerId="8833" live="false" culture="en-US,el-GR" source="foy" mobile="false" countriesBanned=""/>
 		<Game id="PT_FrenchRoulette" providerId="8830" live="false" culture="en-US,el-GR" source="frr" mobile="false" countriesBanned=""/>
 		<Game id="PT_PremiumFrenchRoulette" providerId="8711" live="false" culture="en-US,el-GR" source="frr_g" mobile="true" countriesBanned=""/>
-		<Game id="PT_FortunateFive" providerId="8533" live="false" culture="en-US,el-GR" source="frtf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_FortunateFive" providerId="8533" live="false" culture="en-US,el-GR" source="frtf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_FortuneHill" providerId="8576" live="false" culture="en-US,el-GR" source="fth" mobile="false" countriesBanned=""/>
-		<Game id="PT_AgeoftheGods_FateSisters" providerId="8484" live="false" culture="en-US,el-GR" source="ftsis" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_AgeoftheGods_FuriousFour" providerId="8498" live="false" culture="en-US,el-GR" source="furf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeoftheGods_FateSisters" providerId="8484" live="false" culture="en-US,el-GR" source="ftsis" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeoftheGods_FuriousFour" providerId="8498" live="false" culture="en-US,el-GR" source="furf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_FortunesoftheFox_FoxyFortunes" providerId="8553" live="false" culture="en-US,el-GR" source="fxf" mobile="true" countriesBanned=""/>
 		<Game id="PT_GoblinsCave" providerId="8829" live="false" culture="en-US,el-GR" source="gc" mobile="false" countriesBanned=""/>
-		<Game id="PT_NewGemHeat" providerId="8029" live="false" culture="en-US,el-GR" source="gemheat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_NewGemHeat" providerId="8029" live="false" culture="en-US,el-GR" source="gemheat" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_GeishaStory" providerId="8013" live="false" culture="en-US,el-GR" source="ges" mobile="true" countriesBanned=""/>
 		<Game id="PT_GeishaStoryJP" providerId="8516" live="false" culture="en-US,el-GR" source="gesjp" mobile="false" countriesBanned=""/>
 		<Game id="PT_GeniesHiLo" providerId="8828" live="false" culture="en-US,el-GR" source="ghl" mobile="false" countriesBanned=""/>
 		<Game id="PT_GeniesHiLo_Progressive" providerId="8827" live="false" culture="en-US,el-GR" source="ghlj" mobile="false" countriesBanned=""/>
 		<Game id="PT_GoldenGames" providerId="8726" live="false" culture="en-US,el-GR" source="glg" mobile="true" countriesBanned=""/>
-		<Game id="PT_GladiatorJP" providerId="8625" live="false" culture="en-US,el-GR" source="glrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_GoldenTour" providerId="8737" live="false" culture="en-US,el-GR" source="gos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_GoldRally" providerId="8151" live="false" culture="en-US,el-GR" source="grel" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_GreenLantern" providerId="8469" live="false" culture="en-US,el-GR" source="grnlt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_GladiatorJP" providerId="8625" live="false" culture="en-US,el-GR" source="glrj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_GoldenTour" providerId="8737" live="false" culture="en-US,el-GR" source="gos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_GoldRally" providerId="8151" live="false" culture="en-US,el-GR" source="grel" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_GreenLantern" providerId="8469" live="false" culture="en-US,el-GR" source="grnlt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_DiamondValley" providerId="8256" live="false" culture="en-US,el-GR" source="gs" mobile="false" countriesBanned=""/>
 		<Game id="PT_MedusasGaze" providerId="8651" live="false" culture="en-US,el-GR" source="gts35" mobile="false" countriesBanned=""/>
 		<Game id="PT_Wheeloflight" providerId="8824" live="false" culture="en-US,el-GR" source="gts36" mobile="false" countriesBanned=""/>
 		<Game id="PT_Goddessoflife" providerId="8642" live="false" culture="en-US,el-GR" source="gts46" mobile="false" countriesBanned=""/>
 		<Game id="PT_VideoRoulette" providerId="8683" live="false" culture="en-US,el-GR" source="gts5" mobile="false" countriesBanned=""/>
-		<Game id="PT_HotGems" providerId="8637" live="false" culture="en-US,el-GR" source="gts50" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_HotGems" providerId="8637" live="false" culture="en-US,el-GR" source="gts50" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_LuckyPanda" providerId="8634" live="false" culture="en-US,el-GR" source="gts51" mobile="false" countriesBanned=""/>
 		<Game id="PT_Vikingmania" providerId="8631" live="false" culture="en-US,el-GR" source="gts52" mobile="true" countriesBanned=""/>
 		<Game id="PT_AtlantisQueen" providerId="8613" live="false" culture="en-US,el-GR" source="gtsatq" mobile="true" countriesBanned=""/>
 		<Game id="PT_BattleoftheGods" providerId="8577" live="false" culture="en-US,el-GR" source="gtsbtg" mobile="true" countriesBanned=""/>
-		<Game id="PT_CopsNBandits" providerId="8614" live="false" culture="en-US,el-GR" source="gtscnb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_CopsNBandits" providerId="8614" live="false" culture="en-US,el-GR" source="gtscnb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_DragonKingdom" providerId="8606" live="false" culture="en-US,el-GR" source="gtsdgk" mobile="true" countriesBanned=""/>
 		<Game id="PT_DolphinCash" providerId="8622" live="false" culture="en-US,el-GR" source="gtsdnc" mobile="false" countriesBanned=""/>
 		<Game id="PT_DaringDave_theEyeofRa" providerId="8609" live="false" culture="en-US,el-GR" source="gtsdrdv" mobile="true" countriesBanned=""/>
@@ -518,63 +518,63 @@
 		<Game id="PT_JiXiangBa" providerId="8074" live="false" culture="en-US,el-GR" source="gtsjxb" mobile="true" countriesBanned=""/>
 		<Game id="PT_TheJazzClub" providerId="8628" live="false" culture="en-US,el-GR" source="gtsjzc" mobile="false" countriesBanned=""/>
 		<Game id="PT_WildGames" providerId="8612" live="false" culture="en-US,el-GR" source="gtslgms" mobile="false" countriesBanned=""/>
-		<Game id="PT_MarilynMonroe" providerId="8610" live="false" culture="en-US,el-GR" source="gtsmrln" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_PlentyOFortune" providerId="8603" live="false" culture="en-US,el-GR" source="gtspor" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Rome_Glory_Mobile" providerId="8003" live="false" culture="en-US,el-GR" source="gtsrng" mobile="false" countriesBanned=""/>
+		<Game id="PT_MarilynMonroe" providerId="8610" live="false" culture="en-US,el-GR" source="gtsmrln" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_PlentyOFortune" providerId="8603" live="false" culture="en-US,el-GR" source="gtspor" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Rome_Glory_desktop" providerId="8003" live="false" culture="en-US,el-GR" source="gtsrng" mobile="false" countriesBanned=""/>
 		<Game id="PT_3DRoulettePremium" providerId="8594" live="false" culture="en-US,el-GR" source="gtsro3d" mobile="false" countriesBanned=""/>
 		<Game id="PT_SambaBrazil" providerId="8592" live="false" culture="en-US,el-GR" source="gtssmbr" mobile="true" countriesBanned=""/>
 		<Game id="PT_SultansGold" providerId="8608" live="false" culture="en-US,el-GR" source="gtsstg" mobile="false" countriesBanned=""/>
 		<Game id="PT_SunWuKong" providerId="8527" live="false" culture="en-US,el-GR" source="gtsswk" mobile="false" countriesBanned=""/>
-		<Game id="PT_WildGambler" providerId="8593" live="false" culture="en-US,el-GR" source="gtswg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_WildGambler" providerId="8593" live="false" culture="en-US,el-GR" source="gtswg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_Wingsofgold" providerId="8624" live="false" culture="en-US,el-GR" source="gtswng" mobile="true" countriesBanned=""/>
 		<Game id="PT_HeadsorTails" providerId="8820" live="false" culture="en-US,el-GR" source="head" mobile="false" countriesBanned=""/>
 		<Game id="PT_HauntedHouse" providerId="8717" live="false" culture="en-US,el-GR" source="hh" mobile="true" countriesBanned=""/>
-		<Game id="PT_Hi_LoPremium" providerId="8485" live="false" culture="en-US,el-GR" source="hilop" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_HighwayKings" providerId="8738" live="false" culture="en-US,el-GR" source="hk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Hi_LoPremium" providerId="8485" live="false" culture="en-US,el-GR" source="hilop" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_HighwayKings" providerId="8738" live="false" culture="en-US,el-GR" source="hk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_HalloweenFortune_flash" providerId="8655" live="false" culture="en-US,el-GR" source="hlf" mobile="true" countriesBanned=""/>
-		<Game id="PT_HalloweenFortune2" providerId="8477" live="false" culture="en-US,el-GR" source="hlf2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_HalloweenFortune2" providerId="8477" live="false" culture="en-US,el-GR" source="hlf2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_2WaysRoyal" providerId="8819" live="false" culture="en-US,el-GR" source="hljb" mobile="false" countriesBanned=""/>
 		<Game id="PT_DerbyDay" providerId="8008" live="false" culture="en-US,el-GR" source="hr" mobile="false" countriesBanned=""/>
-		<Game id="PT_AgeoftheGods_PrinceofOlympus" providerId="8490" live="false" culture="en-US,el-GR" source="hrcls" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_HologramWilds" providerId="8064" live="false" culture="en-US,el-GR" source="hwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeoftheGods_PrinceofOlympus" providerId="8490" live="false" culture="en-US,el-GR" source="hrcls" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_HologramWilds" providerId="8064" live="false" culture="en-US,el-GR" source="hwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_IceHockey" providerId="8627" live="false" culture="en-US,el-GR" source="iceh" mobile="false" countriesBanned=""/>
-		<Game id="PT_IrishLuck_html5" providerId="8743" live="false" culture="en-US,el-GR" source="irl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_IrishLuck_html5" providerId="8743" live="false" culture="en-US,el-GR" source="irl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_JungleBoogie" providerId="8004" live="false" culture="en-US,el-GR" source="jb" mobile="false" countriesBanned=""/>
-		<Game id="PT_JacksorBetterMulti_Hand" providerId="8604" live="false" culture="en-US,el-GR" source="jb_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_JacksorBetterMulti_Hand" providerId="8604" live="false" culture="en-US,el-GR" source="jb_mh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_JacksorBetter10line_Progressive" providerId="8816" live="false" culture="en-US,el-GR" source="jb10p" mobile="false" countriesBanned=""/>
 		<Game id="PT_JacksorBetter4line" providerId="8815" live="false" culture="en-US,el-GR" source="jb4" mobile="false" countriesBanned=""/>
 		<Game id="PT_JacksorBetter50line" providerId="8814" live="false" culture="en-US,el-GR" source="jb50" mobile="false" countriesBanned=""/>
-		<Game id="PT_JackpotBells" providerId="8027" live="false" culture="en-US,el-GR" source="jbells" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_JusticeLeague" providerId="8042" live="false" culture="en-US,el-GR" source="jla" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_JungleGiants" providerId="8028" live="false" culture="en-US,el-GR" source="jnglg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_JackpotBells" providerId="8027" live="false" culture="en-US,el-GR" source="jbells" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_JusticeLeague" providerId="8042" live="false" culture="en-US,el-GR" source="jla" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_JungleGiants" providerId="8028" live="false" culture="en-US,el-GR" source="jnglg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_JokerPoker" providerId="8714" live="false" culture="en-US,el-GR" source="jp" mobile="true" countriesBanned=""/>
-		<Game id="PT_JackpotGiant" providerId="8552" live="false" culture="en-US,el-GR" source="jpgt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_JackpotGiant" providerId="8552" live="false" culture="en-US,el-GR" source="jpgt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_JinQianWa" providerId="8493" live="false" culture="en-US,el-GR" source="jqw" mobile="true" countriesBanned=""/>
-		<Game id="PT_KingKong" providerId="8676" live="false" culture="en-US,el-GR" source="kkg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_KingKong" providerId="8676" live="false" culture="en-US,el-GR" source="kkg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_Keno" providerId="8811" live="false" culture="en-US,el-GR" source="kn" mobile="false" countriesBanned=""/>
-		<Game id="PT_LegacyoftheWild" providerId="8473" live="false" culture="en-US,el-GR" source="legwld" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_LottoMadness" providerId="8747" live="false" culture="en-US,el-GR" source="lm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_LandofGold" providerId="8164" live="false" culture="en-US,el-GR" source="lndg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_LegacyoftheWild" providerId="8473" live="false" culture="en-US,el-GR" source="legwld" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_LottoMadness" providerId="8747" live="false" culture="en-US,el-GR" source="lm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_LandofGold" providerId="8164" live="false" culture="en-US,el-GR" source="lndg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_LoveMatchScratch" providerId="8650" live="false" culture="en-US,el-GR" source="lom" mobile="false" countriesBanned=""/>
 		<Game id="PT_SpinaWin" providerId="8016" live="false" culture="en-US,el-GR" source="lwh" mobile="true" countriesBanned=""/>
-		<Game id="PT_ManofSteel" providerId="8468" live="false" culture="en-US,el-GR" source="manos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_ManofSteel" providerId="8468" live="false" culture="en-US,el-GR" source="manos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_MiniGreatBlue" providerId="8022" live="false" culture="en-US,el-GR" source="mbib" mobile="false" countriesBanned=""/>
-		<Game id="PT_BlackjackMini" providerId="8621" live="false" culture="en-US,el-GR" source="mbj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="false" countriesBanned=""/>
+		<Game id="PT_BlackjackMini" providerId="8621" live="false" culture="en-US,el-GR" source="mbj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="false" countriesBanned=""/>
 		<Game id="PT_MrCashBack_flash" providerId="8665" live="false" culture="en-US,el-GR" source="mcb" mobile="false" countriesBanned=""/>
 		<Game id="PT_MiniCaptainsTreasure" providerId="8020" live="false" culture="en-US,el-GR" source="mct" mobile="false" countriesBanned=""/>
 		<Game id="PT_FootballRules_Mini" providerId="8668" live="false" culture="en-US,el-GR" source="mfbr" mobile="false" countriesBanned=""/>
-		<Game id="PT_MissFortune" providerId="8478" live="false" culture="en-US,el-GR" source="mfrt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Magicalstacks" providerId="8515" live="false" culture="en-US,el-GR" source="mgstk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_MissFortune" providerId="8478" live="false" culture="en-US,el-GR" source="mfrt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Magicalstacks" providerId="8515" live="false" culture="en-US,el-GR" source="mgstk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_MiniHighwayKings" providerId="8024" live="false" culture="en-US,el-GR" source="mhk" mobile="false" countriesBanned=""/>
 		<Game id="PT_MegaJacks_Progressive" providerId="8806" live="false" culture="en-US,el-GR" source="mj" mobile="false" countriesBanned=""/>
-		<Game id="PT_DesertTreasure_html5" providerId="8746" live="false" culture="en-US,el-GR" source="mobdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_DesertTreasure_html5" providerId="8746" live="false" culture="en-US,el-GR" source="mobdt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_EuropeanRoulette_Multi_Player" providerId="8679" live="false" culture="en-US,el-GR" source="mpro" mobile="false" countriesBanned=""/>
-		<Game id="PT_MiniRoulette" providerId="8805" live="false" culture="en-US,el-GR" source="mro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="false" countriesBanned=""/>
-		<Game id="PT_RouletteMini" providerId="8633" live="false" culture="en-US,el-GR" source="mro_g" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="false" countriesBanned=""/>
+		<Game id="PT_MiniRoulette" providerId="8805" live="false" culture="en-US,el-GR" source="mro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="false" countriesBanned=""/>
+		<Game id="PT_RouletteMini" providerId="8633" live="false" culture="en-US,el-GR" source="mro_g" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="false" countriesBanned=""/>
 		<Game id="PT_MagicSlots" providerId="8040" live="false" culture="en-US,el-GR" source="ms" mobile="false" countriesBanned=""/>
-		<Game id="PT_TheMatrix" providerId="8058" live="false" culture="en-US,el-GR" source="mtrx" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_TheMatrix" providerId="8058" live="false" culture="en-US,el-GR" source="mtrx" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_MultiplierMadness" providerId="8526" live="false" culture="en-US,el-GR" source="multm" mobile="true" countriesBanned=""/>
-		<Game id="PT_NianNianYouYu" providerId="8129" live="false" culture="en-US,el-GR" source="nian" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_NianNianYouYu" providerId="8129" live="false" culture="en-US,el-GR" source="nian" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_NeptunesKingdom" providerId="8716" live="false" culture="en-US,el-GR" source="nk" mobile="true" countriesBanned=""/>
 		<Game id="PT_OceanPrincess" providerId="8719" live="false" culture="en-US,el-GR" source="op" mobile="true" countriesBanned=""/>
 		<Game id="PT_PiggiesandtheWolf" providerId="8581" live="false" culture="en-US,el-GR" source="paw" mobile="true" countriesBanned=""/>
@@ -585,14 +585,14 @@
 		<Game id="PT_PerfectBlackjack" providerId="8664" live="false" culture="en-US,el-GR" source="pfbj_mh5" mobile="false" countriesBanned=""/>
 		<Game id="PT_PaiGowPoker" providerId="8847" live="false" culture="en-US,el-GR" source="pg" mobile="false" countriesBanned=""/>
 		<Game id="PT_PenguinVacation" providerId="8696" live="false" culture="en-US,el-GR" source="pgv" mobile="true" countriesBanned=""/>
-		<Game id="PT_PurpleHot" providerId="8051" live="false" culture="en-US,el-GR" source="phot" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_PurpleHot" providerId="8051" live="false" culture="en-US,el-GR" source="phot" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_PartyLine" providerId="8006" live="false" culture="en-US,el-GR" source="pl" mobile="false" countriesBanned=""/>
-		<Game id="PT_PantherMoon" providerId="8009" live="false" culture="en-US,el-GR" source="pmn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_PinkPanther" providerId="8697" live="false" culture="en-US,el-GR" source="pnp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_PantherMoon" providerId="8009" live="false" culture="en-US,el-GR" source="pmn" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_PinkPanther" providerId="8697" live="false" culture="en-US,el-GR" source="pnp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_JacksorBetter" providerId="8800" live="false" culture="en-US,el-GR" source="po" mobile="false" countriesBanned=""/>
 		<Game id="PT_Pontoon" providerId="8836" live="false" culture="en-US,el-GR" source="pon_mh5" mobile="false" countriesBanned=""/>
 		<Game id="PT_PopBingo" providerId="8799" live="false" culture="en-US,el-GR" source="pop" mobile="false" countriesBanned=""/>
-		<Game id="PT_RouletteDeluxe" providerId="8457" live="false" culture="en-US,el-GR" source="presrol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_RouletteDeluxe" providerId="8457" live="false" culture="en-US,el-GR" source="presrol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_PennyRoulette" providerId="8492" live="false" culture="en-US,el-GR" source="prol" mobile="true" countriesBanned=""/>
 		<Game id="PT_BlackjackPro_Single_DeckBlackjack" providerId="8673" live="false" culture="en-US,el-GR" source="psdbj" mobile="false" countriesBanned=""/>
 		<Game id="PT_PenaltyShootout" providerId="8798" live="false" culture="en-US,el-GR" source="pso" mobile="false" countriesBanned=""/>
@@ -600,15 +600,15 @@
 		<Game id="PT_ThePyramidofRamesses" providerId="8555" live="false" culture="en-US,el-GR" source="pyrr" mobile="false" countriesBanned=""/>
 		<Game id="PT_QueenofWands" providerId="8494" live="false" culture="en-US,el-GR" source="qnw" mobile="true" countriesBanned=""/>
 		<Game id="PT_QueenofPyramids" providerId="8686" live="false" culture="en-US,el-GR" source="qop" mobile="false" countriesBanned=""/>
-		<Game id="PT_Robocop" providerId="8454" live="false" culture="en-US,el-GR" source="rbcp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Robocop" providerId="8454" live="false" culture="en-US,el-GR" source="rbcp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_RollerCoasterDice" providerId="8797" live="false" culture="en-US,el-GR" source="rcd" mobile="false" countriesBanned=""/>
 		<Game id="PT_RedDogPoker" providerId="8796" live="false" culture="en-US,el-GR" source="rd" mobile="false" countriesBanned=""/>
-		<Game id="PT_Rocky" providerId="8694" live="false" culture="en-US,el-GR" source="rky" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Rocky" providerId="8694" live="false" culture="en-US,el-GR" source="rky" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_RocknRoller" providerId="8795" live="false" culture="en-US,el-GR" source="rnr" mobile="false" countriesBanned=""/>
 		<Game id="PT_PremiumEuropeanRoulette" providerId="8792" live="false" culture="en-US,el-GR" source="ro_g" mobile="true" countriesBanned=""/>
-		<Game id="PT_101Roulette" providerId="8479" live="false" culture="en-US,el-GR" source="ro101" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_101Roulette" providerId="8479" live="false" culture="en-US,el-GR" source="ro101" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_3DRoulette" providerId="8791" live="false" culture="en-US,el-GR" source="ro3d" mobile="false" countriesBanned=""/>
-		<Game id="PT_RoaringWilds" providerId="8459" live="false" culture="en-US,el-GR" source="roarw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_RoaringWilds" providerId="8459" live="false" culture="en-US,el-GR" source="roarw" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_AmericanRoulette" providerId="8789" live="false" culture="en-US,el-GR" source="rodz" mobile="false" countriesBanned=""/>
 		<Game id="PT_PremiumAmericanRoulette" providerId="8713" live="false" culture="en-US,el-GR" source="rodz_g" mobile="true" countriesBanned=""/>
 		<Game id="PT_MultiWheelRoulette" providerId="8620" live="false" culture="en-US,el-GR" source="romw" mobile="false" countriesBanned=""/>
@@ -616,115 +616,115 @@
 		<Game id="PT_PremiumRoulettePro" providerId="8786" live="false" culture="en-US,el-GR" source="rop_g" mobile="false" countriesBanned=""/>
 		<Game id="PT_RockPaperScissors" providerId="8785" live="false" culture="en-US,el-GR" source="rps" mobile="false" countriesBanned=""/>
 		<Game id="PT_BlackjackSuper21" providerId="8619" live="false" culture="en-US,el-GR" source="s21" mobile="false" countriesBanned=""/>
-		<Game id="PT_SecretsoftheAmazon" providerId="8558" live="false" culture="en-US,el-GR" source="samz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SecretsoftheAmazon" providerId="8558" live="false" culture="en-US,el-GR" source="samz" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_SicBo" providerId="8823" live="false" culture="en-US,el-GR" source="sb" mobile="false" countriesBanned=""/>
 		<Game id="PT_BlackjackScratch" providerId="8641" live="false" culture="en-US,el-GR" source="sbj" mobile="false" countriesBanned=""/>
 		<Game id="PT_Safecracker" providerId="8784" live="false" culture="en-US,el-GR" source="sc" mobile="false" countriesBanned=""/>
 		<Game id="PT_ClassicSlotScratch" providerId="8704" live="false" culture="en-US,el-GR" source="scs" mobile="false" countriesBanned=""/>
 		<Game id="PT_SultansFortune" providerId="8783" live="false" culture="en-US,el-GR" source="sf" mobile="false" countriesBanned=""/>
-		<Game id="PT_SafariHeat" providerId="8546" live="false" culture="en-US,el-GR" source="sfh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_SherlockMystery" providerId="8570" live="false" culture="en-US,el-GR" source="shmst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_SilverBullet" providerId="8012" live="false" culture="en-US,el-GR" source="sib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SafariHeat" providerId="8546" live="false" culture="en-US,el-GR" source="sfh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SherlockMystery" providerId="8570" live="false" culture="en-US,el-GR" source="shmst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SilverBullet" providerId="8012" live="false" culture="en-US,el-GR" source="sib" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_SilentSamurai" providerId="8732" live="false" culture="en-US,el-GR" source="sis" mobile="true" countriesBanned=""/>
 		<Game id="PT_SilentSamuraiJP" providerId="8517" live="false" culture="en-US,el-GR" source="sisjp" mobile="false" countriesBanned=""/>
 		<Game id="PT_SunsetBeach" providerId="8572" live="false" culture="en-US,el-GR" source="snsb" mobile="false" countriesBanned=""/>
-		<Game id="PT_StreakofLuck" providerId="8563" live="false" culture="en-US,el-GR" source="sol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_SpudOReillysCropsofGold_Mobile" providerId="8057" live="false" culture="en-US,el-GR" source="spud" mobile="false" countriesBanned=""/>
+		<Game id="PT_StreakofLuck" providerId="8563" live="false" culture="en-US,el-GR" source="sol" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SpudOReillysCropsofGold_DESKTOP" providerId="8057" live="false" culture="en-US,el-GR" source="spud" mobile="false" countriesBanned=""/>
 		<Game id="PT_RouletteScratch" providerId="8002" live="false" culture="en-US,el-GR" source="sro" mobile="false" countriesBanned=""/>
 		<Game id="PT_ReelClassic3" providerId="8761" live="false" culture="en-US,el-GR" source="ssl" mobile="false" countriesBanned=""/>
-		<Game id="PT_SantaSurprise" providerId="8682" live="false" culture="en-US,el-GR" source="ssp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_StarsAwakening" providerId="8448" live="false" culture="en-US,el-GR" source="strsawk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_SupermanTheMovie" providerId="8462" live="false" culture="en-US,el-GR" source="supman" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_SupermanII" providerId="8461" live="false" culture="en-US,el-GR" source="supman2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SantaSurprise" providerId="8682" live="false" culture="en-US,el-GR" source="ssp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_StarsAwakening" providerId="8448" live="false" culture="en-US,el-GR" source="strsawk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SupermanTheMovie" providerId="8462" live="false" culture="en-US,el-GR" source="supman" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_SupermanII" providerId="8461" live="false" culture="en-US,el-GR" source="supman2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_SiXiang" providerId="8822" live="false" culture="en-US,el-GR" source="sx" mobile="true" countriesBanned=""/>
 		<Game id="PT_TresAmigos" providerId="8777" live="false" culture="en-US,el-GR" source="ta" mobile="false" countriesBanned=""/>
 		<Game id="PT_AlchemistsSpell" providerId="8566" live="false" culture="en-US,el-GR" source="tglalcs" mobile="false" countriesBanned=""/>
 		<Game id="PT_ThaiTemple" providerId="8018" live="false" culture="en-US,el-GR" source="tht" mobile="true" countriesBanned=""/>
 		<Game id="PT_TheThreeMusketeers" providerId="8571" live="false" culture="en-US,el-GR" source="tmqd" mobile="true" countriesBanned=""/>
 		<Game id="PT_TensOrBetter" providerId="8776" live="false" culture="en-US,el-GR" source="tob" mobile="false" countriesBanned=""/>
-		<Game id="PT_TopGun" providerId="8520" live="false" culture="en-US,el-GR" source="topg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_Torrente" providerId="8031" live="false" culture="en-US,el-GR" source="tor" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_TopGun" providerId="8520" live="false" culture="en-US,el-GR" source="topg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_Torrente" providerId="8031" live="false" culture="en-US,el-GR" source="tor" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_TripleProfits" providerId="8775" live="false" culture="en-US,el-GR" source="tp" mobile="false" countriesBanned=""/>
-		<Game id="PT_ThaiParadise" providerId="8735" live="false" culture="en-US,el-GR" source="tpd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_ThaiParadise" providerId="8735" live="false" culture="en-US,el-GR" source="tpd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_TequilaPoker" providerId="8774" live="false" culture="en-US,el-GR" source="tqp" mobile="false" countriesBanned=""/>
 		<Game id="PT_TropicReels" providerId="8773" live="false" culture="en-US,el-GR" source="tr" mobile="false" countriesBanned=""/>
 		<Game id="PT_TrueLove" providerId="8772" live="false" culture="en-US,el-GR" source="trl" mobile="false" countriesBanned=""/>
 		<Game id="PT_ThrillSeekers" providerId="8771" live="false" culture="en-US,el-GR" source="ts" mobile="false" countriesBanned=""/>
 		<Game id="PT_TennisStars" providerId="8670" live="false" culture="en-US,el-GR" source="tst" mobile="false" countriesBanned=""/>
 		<Game id="PT_UggaBugga" providerId="8770" live="false" culture="en-US,el-GR" source="ub" mobile="false" countriesBanned=""/>
-		<Game id="PT_VacationStationDeluxe" providerId="8545" live="false" culture="en-US,el-GR" source="vcstd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_WhiteKing" providerId="8557" live="false" culture="en-US,el-GR" source="whk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_WildBeats" providerId="8450" live="false" culture="en-US,el-GR" source="wildb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_VacationStationDeluxe" providerId="8545" live="false" culture="en-US,el-GR" source="vcstd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_WhiteKing" providerId="8557" live="false" culture="en-US,el-GR" source="whk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_WildBeats" providerId="8450" live="false" culture="en-US,el-GR" source="wildb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_WildSpirit" providerId="8721" live="false" culture="en-US,el-GR" source="wis" mobile="true" countriesBanned=""/>
 		<Game id="PT_WackyWaters" providerId="8537" live="false" culture="en-US,el-GR" source="wkw" mobile="true" countriesBanned=""/>
-		<Game id="PT_WuLong" providerId="8575" live="false" culture="en-US,el-GR" source="wlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_WuLong" providerId="8575" live="false" culture="en-US,el-GR" source="wlg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_WuLongJP" providerId="8522" live="false" culture="en-US,el-GR" source="wlgjp" mobile="false" countriesBanned=""/>
 		<Game id="PT_WallStreetFever" providerId="8044" live="false" culture="en-US,el-GR" source="wsffr" mobile="true" countriesBanned=""/>
 		<Game id="PT_WildViking" providerId="8768" live="false" culture="en-US,el-GR" source="wv" mobile="false" countriesBanned=""/>
-		<Game id="PT_ZhaoCaiJinBao" providerId="8582" live="false" culture="en-US,el-GR" source="zcjb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_ZhaoCaiJinBaoJackpot" providerId="8023" live="false" culture="en-US,el-GR" source="zcjbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_ZhaoCaiJinBao" providerId="8582" live="false" culture="en-US,el-GR" source="zcjb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_ZhaoCaiJinBaoJackpot" providerId="8023" live="false" culture="en-US,el-GR" source="zcjbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
 		<Game id="PT_ZhaoCaiTongZi" providerId="8514" live="false" culture="en-US,el-GR" source="zctz" mobile="false" countriesBanned=""/>
-		<Game id="PT_AgeoftheGods_KingofOlympus" providerId="8148" live="false" culture="en-US,el-GR" source="zeus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html"  mobile="true" countriesBanned=""/>
-		<Game id="PT_TheMaskOfZorro" providerId="8032" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="tmoz" mobile="true" countriesBanned=""/>
-		<Game id="PT_BatmanvsSupermanDawnOfJustice" providerId="8041" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" source="bvs" mobile="true" countriesBanned=""/>
-		<Game id="PT_ANightOut" providerId="8046" live="false" culture="en-US,el-GR" source="hb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_BatmanTheRiddlerRiches" providerId="8059" live="false" culture="en-US,el-GR" source="batrid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_SupermanRoulette" providerId="8061" live="false" culture="en-US,el-GR" source="rosup" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_MurderMystery" providerId="8062" live="false" culture="en-US,el-GR" source="murder" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_SacredStones" providerId="8063" live="false" culture="en-US,el-GR" source="scrdstns" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_Upgradium" providerId="8065" live="false" culture="en-US,el-GR" source="upgdm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AgeOfEgypt" providerId="8066" live="false" culture="en-US,el-GR" source="agoeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_GreatBlueJackpot" providerId="8067" live="false" culture="en-US,el-GR" source="grbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_MajiWilds" providerId="8068" live="false" culture="en-US,el-GR" source="mwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AgeOfTheGodsRulerOfTheSky" providerId="8069" live="false" culture="en-US,el-GR" source="aogrots" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_EpicApe" providerId="8070" live="false" culture="en-US,el-GR" source="epa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeoftheGods_KingofOlympus" providerId="8148" live="false" culture="en-US,el-GR" source="zeus" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html"  mobile="true" countriesBanned=""/>
+		<Game id="PT_TheMaskOfZorro" providerId="8032" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="tmoz" mobile="true" countriesBanned=""/>
+		<Game id="PT_BatmanvsSupermanDawnOfJustice" providerId="8041" live="false" culture="en-US,el-GR" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" source="bvs" mobile="true" countriesBanned=""/>
+		<Game id="PT_ANightOut" providerId="8046" live="false" culture="en-US,el-GR" source="hb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_BatmanTheRiddlerRiches" providerId="8059" live="false" culture="en-US,el-GR" source="batrid" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_SupermanRoulette" providerId="8061" live="false" culture="en-US,el-GR" source="rosup" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_MurderMystery" providerId="8062" live="false" culture="en-US,el-GR" source="murder" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_SacredStones" providerId="8063" live="false" culture="en-US,el-GR" source="scrdstns" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_Upgradium" providerId="8065" live="false" culture="en-US,el-GR" source="upgdm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfEgypt" providerId="8066" live="false" culture="en-US,el-GR" source="agoeg" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_GreatBlueJackpot" providerId="8067" live="false" culture="en-US,el-GR" source="grbjp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_MajiWilds" providerId="8068" live="false" culture="en-US,el-GR" source="mwilds" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGodsRulerOfTheSky" providerId="8069" live="false" culture="en-US,el-GR" source="aogrots" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_EpicApe" providerId="8070" live="false" culture="en-US,el-GR" source="epa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<Game id="PT_BlackjackPeekMultihand5" providerId="8071" live="false" culture="en-US,el-GR" source="p6dbj_mh5" mobile="false" countriesBanned=""/>
 		<Game id="PT_UKBlackjackMultihand5" providerId="8072" live="false" culture="en-US,el-GR" source="bjuk_mh5" mobile="false" countriesBanned=""/>
 		<Game id="PT_21DuelBlackjackMultihand" providerId="8073" live="false" culture="en-US,el-GR" source="bj21d_mh" mobile="false" countriesBanned=""/>
 		<Game id="PT_Stravaganza" providerId="8075" live="false" culture="en-US,el-GR" source="str" mobile="false" countriesBanned=""/>
-		<Game id="PT_GaelicLuck" providerId="8077" live="false" culture="en-US,el-GR" source="popc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_PixelSamurai" providerId="8078" live="false" culture="en-US,el-GR" source="pisa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_RonnieOsullivanSportingLegends" providerId="8079" live="false" culture="en-US,el-GR" source="roos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_TheDarkKnight" providerId="8080" live="false" culture="en-US,el-GR" source="thedk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_TerminatorGenisys" providerId="8081" live="false" culture="en-US,el-GR" source="tege" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_TopTrumpsFootballStars" providerId="8082" live="false" culture="en-US,el-GR" source="toptf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AstroBabesExpress" providerId="8083" live="false" culture="en-US,el-GR" source="astrob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_BlackjackSurrender2" providerId="8084" live="false" culture="en-US,el-GR" source="bjsd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_RoyalRespinDeluxe" providerId="8085" live="false" culture="en-US,el-GR" source="rrd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_SpreadBetRoulette" providerId="8086" live="false" culture="en-US,el-GR" source="sbro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_TheDarkKnightRises" providerId="8087" live="false" culture="en-US,el-GR" source="thedkr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_WolvesWolvesWolves" providerId="8088" live="false" culture="en-US,el-GR" source="www" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AdventuresInWonderland" providerId="8601" live="false" culture="en-US,el-GR" source="ashadv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_BerryBerryBonanza" providerId="8090" live="false" culture="en-US,el-GR" source="bbbo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_TigerClaw" providerId="8091" live="false" culture="en-US,el-GR" source="tigc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_TreasureOfTheLamps" providerId="8092" live="false" culture="en-US,el-GR" source="totl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AnacondaWild" providerId="8093" live="false" culture="en-US,el-GR" source="anwild" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_WhiteKing2" providerId="8094" live="false" culture="en-US,el-GR" source="whk2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_BuckleUp" providerId="8095" live="false" culture="en-US,el-GR" source="bup" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AgeOfTheGodsMedusaAndMonsters" providerId="8096" live="false" culture="en-US,el-GR" source="aogmm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_Grease" providerId="8097" live="false" culture="en-US,el-GR" source="grs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_LieYanZuanShi" providerId="8098" live="false" culture="en-US,el-GR" source="ght_a" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_LuminousLife" providerId="8099" live="false" culture="en-US,el-GR" source="lumli" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_GalacticStreak" providerId="8100" live="false" culture="en-US,el-GR" source="galst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_WaysOfThePhoenix" providerId="8101" live="false" culture="en-US,el-GR" source="wotp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AgeOfTheGods_MightyMidas" providerId="8102" live="false" culture="en-US,el-GR" source="aogmt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_AgeOfTheGodsRulersOfOlympus" providerId="8103" live="false" culture="en-US,el-GR" source="aogroo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_CoinCoinCoinCNY" providerId="8104" live="false" culture="en-US,el-GR" source="ccc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_APMcCoySportingLegends" providerId="8105" live="false" culture="en-US,el-GR" source="tonymc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_BigShots" providerId="8106" live="false" culture="en-US,el-GR" source="bigsh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_3CardBrag" providerId="8107" live="false" culture="en-US,el-GR" source="3cb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_FreeChipBlackjack" providerId="8108" live="false" culture="en-US,el-GR" source="fcbj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
-		<Game id="PT_FeiLongZaiTian" providerId="8532" live="false" culture="en-US,el-GR" source="gtsflzt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmMobile/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_GaelicLuck" providerId="8077" live="false" culture="en-US,el-GR" source="popc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_PixelSamurai" providerId="8078" live="false" culture="en-US,el-GR" source="pisa" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_RonnieOsullivanSportingLegends" providerId="8079" live="false" culture="en-US,el-GR" source="roos" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_TheDarkKnight" providerId="8080" live="false" culture="en-US,el-GR" source="thedk" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_TerminatorGenisys" providerId="8081" live="false" culture="en-US,el-GR" source="tege" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_TopTrumpsFootballStars" providerId="8082" live="false" culture="en-US,el-GR" source="toptf" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AstroBabesExpress" providerId="8083" live="false" culture="en-US,el-GR" source="astrob" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_BlackjackSurrender2" providerId="8084" live="false" culture="en-US,el-GR" source="bjsd2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_RoyalRespinDeluxe" providerId="8085" live="false" culture="en-US,el-GR" source="rrd" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_SpreadBetRoulette" providerId="8086" live="false" culture="en-US,el-GR" source="sbro" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_TheDarkKnightRises" providerId="8087" live="false" culture="en-US,el-GR" source="thedkr" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_WolvesWolvesWolves" providerId="8088" live="false" culture="en-US,el-GR" source="www" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AdventuresInWonderland" providerId="8601" live="false" culture="en-US,el-GR" source="ashadv" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_BerryBerryBonanza" providerId="8090" live="false" culture="en-US,el-GR" source="bbbo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_TigerClaw" providerId="8091" live="false" culture="en-US,el-GR" source="tigc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_TreasureOfTheLamps" providerId="8092" live="false" culture="en-US,el-GR" source="totl" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AnacondaWild" providerId="8093" live="false" culture="en-US,el-GR" source="anwild" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_WhiteKing2" providerId="8094" live="false" culture="en-US,el-GR" source="whk2" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_BuckleUp" providerId="8095" live="false" culture="en-US,el-GR" source="bup" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGodsMedusaAndMonsters" providerId="8096" live="false" culture="en-US,el-GR" source="aogmm" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_Grease" providerId="8097" live="false" culture="en-US,el-GR" source="grs" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_LieYanZuanShi" providerId="8098" live="false" culture="en-US,el-GR" source="ght_a" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_LuminousLife" providerId="8099" live="false" culture="en-US,el-GR" source="lumli" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_GalacticStreak" providerId="8100" live="false" culture="en-US,el-GR" source="galst" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_WaysOfThePhoenix" providerId="8101" live="false" culture="en-US,el-GR" source="wotp" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGods_MightyMidas" providerId="8102" live="false" culture="en-US,el-GR" source="aogmt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_AgeOfTheGodsRulersOfOlympus" providerId="8103" live="false" culture="en-US,el-GR" source="aogroo" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_CoinCoinCoinCNY" providerId="8104" live="false" culture="en-US,el-GR" source="ccc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_APMcCoySportingLegends" providerId="8105" live="false" culture="en-US,el-GR" source="tonymc" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_BigShots" providerId="8106" live="false" culture="en-US,el-GR" source="bigsh" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_3CardBrag" providerId="8107" live="false" culture="en-US,el-GR" source="3cb" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_FreeChipBlackjack" providerId="8108" live="false" culture="en-US,el-GR" source="fcbj" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
+		<Game id="PT_FeiLongZaiTian" providerId="8532" live="false" culture="en-US,el-GR" source="gtsflzt" gameTypeFilter="https://cachedownload.play.kingsolomons.gr/ngmdesktop/casinoclient.html" mobile="true" countriesBanned=""/>
 		<!--Slot Games-->
 
 		<!--Live Games-->
-		<Game id="PT_RouletteLive" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/Mobile/lobby/?game=rol&amp;language={LANG}" mobile="true" countriesBanned="" />
-		<Game id="PT_RoulettePrimeSlingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/Mobile/rol/?language={LANG}&amp;game=rol&amp;tableId=100243&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
-		<Game id="PT_RouletteSlingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/Mobile/rol/?language={LANG}&amp;game=rol&amp;tableId=1761&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
-		<Game id="PT_RouletteLounge" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/Mobile/rol/?language={LANG}&amp;game=rol&amp;tableId=1642&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
-		<Game id="PT_BlackjackLiveUnlimited" providerId="8687" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/Mobile/ubjl/?language={LANG}&amp;game=ubjl&amp;tableId=2978559&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
-		<Game id="PT_CasinoHoldemLive" providerId="8047" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/Mobile/chel/?language={LANG}&amp;game=chel&amp;tableId=2979195&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="false" countriesBanned="" />
-		<Game id="PT_BaccaratLive" providerId="8749" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/Mobile/bal/?language={LANG}&amp;game=7bal&amp;tableId=1654618&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned=""/>
+		<Game id="PT_RouletteLive" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/desktop/lobby/?game=rol&amp;language={LANG}" mobile="true" countriesBanned="" />
+		<Game id="PT_RoulettePrimeSlingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/desktop/rol/?language={LANG}&amp;game=rol&amp;tableId=100243&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_RouletteSlingshot" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/desktop/rol/?language={LANG}&amp;game=rol&amp;tableId=1761&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_RouletteLounge" providerId="8763" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/desktop/rol/?language={LANG}&amp;game=rol&amp;tableId=1642&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_BlackjackLiveUnlimited" providerId="8687" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/desktop/ubjl/?language={LANG}&amp;game=ubjl&amp;tableId=2978559&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned="" />
+		<Game id="PT_CasinoHoldemLive" providerId="8047" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/desktop/chel/?language={LANG}&amp;game=chel&amp;tableId=2979195&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="false" countriesBanned="" />
+		<Game id="PT_BaccaratLive" providerId="8749" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/live/desktop/bal/?language={LANG}&amp;game=7bal&amp;tableId=1654618&amp;physicalTableId=-1&amp;networkId=36&amp;protocol=Live2&amp;externalLobbyMode=html5" mobile="true" countriesBanned=""/>
 		<!--<Game id="PT_7bal" providerId="8749" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/casinoclient.html?game=live_lobby&amp;livegame=7bal&amp;subgame=7bal&amp;preferedmode=real&amp;language={LANG}" mobile="false" countriesBanned="" />
 		<Game id="PT_BaccaratLiveVIP" providerId="8750" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/casinoclient.html?game=live_lobby&amp;livegame=7bal&amp;subgame=vbal&amp;preferedmode=real&amp;language={LANG}" mobile="false" countriesBanned="" />
 		<Game id="PT_nc_bal" providerId="8049" live="true" culture="en-US,el-GR" source="https://cachedownload.play.kingsolomons.gr/casinoclient.html?game=live_lobby&amp;livegame=7bal&amp;subgame=ncbal&amp;preferedmode=real&amp;language={LANG}" mobile="true" countriesBanned="" />

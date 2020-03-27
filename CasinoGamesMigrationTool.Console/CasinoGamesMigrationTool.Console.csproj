@@ -6,10 +6,30 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Types.Attribute.cs" />
+    <Compile Remove="Types.CreateBonusRequest.cs" />
+    <Compile Remove="Types.CreateGameAttributeRequest.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="12.3.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\CasinoGamesMigrationTool.DatabaseHandler\CasinoGamesMigrationTool.DatabaseHandler.csproj" />
     <ProjectReference Include="..\CasinoGamesMigrationTool.Domain\CasinoGamesMigrationTool.Domain.csproj" />
     <ProjectReference Include="..\CasinoGamesMigrationTool.XmlHandler\CasinoGamesMigrationTool.XmlHandler.csproj" />
     <ProjectReference Include="..\CasinoGamesMigrationTool.XmlParser\CasinoGamesMigrationTool.XmlParser.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="CasinoGames.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

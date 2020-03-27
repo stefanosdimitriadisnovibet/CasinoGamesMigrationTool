@@ -17,3 +17,6 @@ dotnet_diagnostic.CA1819.severity = none
 
 # RCS1049: Simplify boolean comparison.
 dotnet_diagnostic.RCS1049.severity = none
+
+# RCS1090: Call 'ConfigureAwait(false)'.
+dotnet_diagnostic.RCS1090.severity = none
